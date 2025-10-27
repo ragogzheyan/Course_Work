@@ -1,0 +1,1004 @@
+Vehicle_ID,Manufacturer,Model,Year,Battery_Type,Battery_Capacity_kWh,Range_km,Charging_Type,Charge_Time_hr,Price_USD,Color,Country_of_Manufacture,Autonomous_Level,CO2_Emissions_g_per_km,Safety_Rating,Units_Sold_2024,Warranty_Years
+1,Acura,ZDX (with GM Ultium),2015,Lithium-titanate,55.8,214,CHAdeMO,9.0,111203.94,Matte White,UK,0.0,,5.0,19726,3
+2,Lamborghini,Revuelto (PHEV),2025,Lithium-titanate,90.8,212,Vehicle-to-Home (V2H),7.3,127131.65,White,Netherlands,2.0,0.0,4.0,3349,3
+3,NIO,ET7,2020,Calcium-ion,64.7,235,Level 2 Charging,8.9,94347.37,Beige,UK,5.0,0.0,5.0,6300,5
+4,Audi,e-tron,2025,Lithium-iron phosphate,120.5,140,Ultra-Fast Charging (350 kW+),10.5,75615.15,Sunset Orange,Argentina,2.0,0.0,5.0,2339,5
+5,Acura,ZDX (with GM Ultium),2023,Lithium-titanate,51.8,336,Plug-in Hydrogen Refueling,3.6,141046.94,Ice Silver,United Arab Emirates,2.0,0.0,3.0,1051,4
+6,XPeng,G9,2016,Lithium-iron phosphate,138.7,390,Mobile Charging,2.9,89907.75,Ruby Red,Australia,,,5.0,8609,5
+7,Jeep,Recon (upcoming),2024,Nickel-cobalt-aluminum,67.1,170,Vehicle-to-Load (V2L),1.5,35653.97,Orange,Sweden,5.0,0.0,,12504,5
+8,Changan,Q05,2019,Lead-acid,131.9,105,CCS,8.3,94436.44,Bronze,Mexico,,0.0,5.0,8630,5
+9,Citroen,ë-C4,2023,Aluminum-ion,33.8,420,Solar Charging,10.2,90919.55,Metallic Silver,Sweden,1.0,0.0,5.0,18,5
+10,Rimac,Nevera,2015,Solid-state,140.8,549,Solar Charging,3.3,58904.59,Matte Green,UK,,0.0,,17455,3
+11,Volkswagen,ID.Buzz,2022,Lead-acid,41.5,370,Vehicle-to-Grid (V2G),11.6,141469.62,Stealth Gray,Denmark,3.0,0.0,4.0,16959,4
+12,Jaguar,I-PACE,2018,Solid-state,64.0,401,Ultra-Fast Charging (350 kW+),7.3,30862.9,Cosmic Purple,South Korea,0.0,0.0,,7798,4
+13,Mini,Mini Cooper SE,2018,Lead-acid,37.2,578,Vehicle-to-Load (V2L),3.3,86756.75,Tan,Denmark,,0.0,4.0,15303,5
+14,BMW,iX3,2025,Flow batteries,32.8,306,Mobile Charging,9.7,43112.28,Metallic Silver,Denmark,1.0,0.0,3.0,2470,4
+15,Faraday Future,FF 91,2015,Flow batteries,149.9,528,Level 1 Charging,11.6,141164.04,Rose Gold,Belgium,3.0,0.0,3.0,5394,4
+16,Tesla,Model Y,2019,Aluminum-ion,121.9,332,Solar Charging,5.4,144878.12,Burgundy,United Arab Emirates,3.0,,3.0,18978,5
+17,Maserati,Grecale Folgore,2020,Lithium-ion,26.5,344,NACS,1.2,90939.42,Rose Gold,Norway,,,4.0,3928,5
+18,Polestar,Polestar 2,2024,Solid-state,74.5,398,Mobile Charging,11.2,54511.1,Cosmic Purple,Hungary,3.0,,4.0,10360,3
+19,Tesla,Model Y,2024,Zinc-air,149.5,137,Inductive (Wireless) Charging,6.3,45894.79,Teal,China,2.0,0.0,5.0,9912,5
+20,Faraday Future,FF 91,2025,Calcium-ion,92.1,577,CCS,11.3,46114.93,Orange,France,1.0,0.0,5.0,11235,3
+21,Skoda,Elroq (upcoming),2019,Lead-acid,83.5,563,Level 2 Charging,1.6,80829.09,Bronze,Japan,,0.0,4.0,5294,5
+22,Geely,Emgrand EV,2021,Lead-acid,21.3,138,CHAdeMO,6.8,130151.4,Matte Blue,United Arab Emirates,,,3.0,11724,3
+23,Skoda,Enyaq,2025,Solid-state,66.0,386,Vehicle-to-Grid (V2G),11.7,119937.31,Forest Green,Netherlands,1.0,0.0,,10885,4
+24,Faraday Future,FF 91,2019,Nickel-metal hydride,122.4,155,Plug-in Hydrogen Refueling,10.5,133031.19,Crimson Red,Denmark,3.0,0.0,3.0,7304,3
+25,Mini,Mini Electric,2021,Sodium-ion,56.2,135,Battery Swapping,4.5,91128.68,Sky Blue,Saudi Arabia,0.0,,3.0,19024,4
+26,Chevrolet,Bolt EV,2024,Nickel-cobalt-aluminum,64.9,502,Mobile Charging,5.5,148108.3,Orange,India,1.0,0.0,3.0,17036,5
+27,Skoda,Elroq (upcoming),2025,Lithium-iron phosphate,67.3,135,Mobile Charging,7.7,109606.5,Orange,Poland,5.0,0.0,4.0,18166,3
+28,Lucid Motors,Lucid Gravity,2025,Nickel-cobalt-aluminum,108.1,562,NACS,7.6,66113.98,Matte Gray,USA,1.0,0.0,5.0,10559,4
+29,Geely,Geometry C,2025,Lithium-iron phosphate,86.5,506,NACS,8.1,64054.37,Lime Green,Finland,1.0,0.0,3.0,4828,3
+30,Chevrolet,Bolt EUV,2022,Zinc-air,130.5,137,Vehicle-to-Home (V2H),5.3,105571.85,Metallic Silver,India,1.0,,3.0,13931,3
+31,Porsche,Cayenne Electric (upcoming),2015,Lead-acid,52.4,534,CCS,5.7,126169.99,Lime Green,South Africa,4.0,0.0,4.0,16540,4
+32,Lamborghini,Lanzador (upcoming EV),2017,Lithium-titanate,132.0,330,Battery Swapping,9.1,130783.55,Bronze,South Africa,1.0,0.0,,9362,3
+33,Toyota,Lexus RZ,2020,Aluminum-ion,90.2,170,CHAdeMO,3.2,113273.98,Cosmic Purple,Switzerland,,0.0,4.0,2040,3
+34,Li Auto,MEGA,2024,Lithium-titanate,22.5,550,Plug-in Hydrogen Refueling,6.0,143129.0,Magenta,India,3.0,0.0,5.0,7226,4
+35,Volvo,EX30,2021,Nickel-manganese-cobalt,23.8,272,Plug-in Hydrogen Refueling,8.8,130860.68,Gray,Finland,3.0,0.0,3.0,14044,3
+36,Changan,SL03,2015,Lithium-sulfur,69.3,208,Vehicle-to-Home (V2H),4.3,121347.56,Beige,Portugal,3.0,0.0,,635,5
+37,Maserati,Grecale Folgore,2020,Lithium-iron phosphate,104.5,499,Level 2 Charging,9.2,143953.41,Metallic Silver,Germany,1.0,,5.0,7142,4
+38,Seat,Avenger,2020,Nickel-metal hydride,98.8,593,CCS,9.4,49651.9,Magenta,France,2.0,0.0,4.0,12997,5
+39,Lucid Motors,Lucid Air,2024,Lithium-titanate,128.0,224,CCS,8.5,66189.92,Sky Blue,Ireland,4.0,0.0,4.0,12142,3
+40,MG,MG5 EV,2015,Calcium-ion,74.6,350,CCS,5.5,73462.56,Titanium,Australia,3.0,,5.0,8850,5
+41,Faraday Future,FF 91,2022,Nickel-cobalt-aluminum,127.3,403,Battery Swapping,4.2,59459.42,Green,Portugal,1.0,0.0,5.0,12418,4
+42,Nissan,Ariya,2020,Nickel-metal hydride,83.4,281,Battery Swapping,4.4,135638.4,Ice Silver,Portugal,4.0,0.0,,13317,4
+43,Lamborghini,Revuelto (PHEV),2022,Flow batteries,112.5,329,Level 1 Charging,1.6,56591.57,Ice Silver,Belgium,4.0,0.0,4.0,13942,5
+44,Lamborghini,Lanzador (upcoming EV),2020,Lithium-titanate,79.0,256,Battery Swapping,3.2,116554.12,Purple,Canada,5.0,,4.0,9060,5
+45,Jeep,Wagoneer S,2016,Calcium-ion,45.2,216,Overhead Pantograph Charging,2.6,31697.8,Matte White,Italy,0.0,0.0,3.0,16085,3
+46,Tesla,Cybertruck,2019,Nickel-manganese-cobalt,82.2,274,NACS,11.6,60297.41,Aurora Blue,Canada,3.0,0.0,5.0,1756,3
+47,Ford,E-Transit,2016,Lithium-iron phosphate,35.4,491,Vehicle-to-Grid (V2G),7.5,124888.9,Crimson Red,South Africa,3.0,0.0,4.0,10006,5
+48,GMC,Hummer EV Pickup,2024,Lithium-titanate,32.9,490,Inductive (Wireless) Charging,7.7,61757.54,Green,Netherlands,4.0,,,14762,5
+49,Cadillac,Celestiq,2019,Lithium-ion,50.1,461,Solar Charging,8.6,84483.76,Sky Blue,Austria,5.0,0.0,3.0,13930,3
+50,Maserati,Grecale Folgore,2025,Nickel-metal hydride,138.1,523,CHAdeMO,1.3,49910.73,Magenta,Ireland,4.0,0.0,4.0,9964,5
+51,XPeng,G9,2023,Lead-acid,84.2,141,Level 2 Charging,10.7,118144.07,Gun Metal,Spain,,0.0,5.0,19238,3
+52,Citroen,Ami,2019,Zinc-air,25.2,487,NACS,5.9,108181.14,Bronze,Norway,3.0,0.0,3.0,15401,4
+53,Li Auto,L9,2020,Flow batteries,33.6,182,Mobile Charging,5.2,89456.28,Lime Green,Thailand,4.0,,,8270,4
+54,Jaguar,I-PACE,2023,Calcium-ion,148.5,436,Vehicle-to-Home (V2H),5.3,52509.9,Turquoise,Finland,5.0,0.0,,8750,5
+55,Volkswagen,ID.5,2022,Aluminum-ion,110.8,162,Level 1 Charging,11.7,103064.6,Forest Green,Netherlands,0.0,0.0,,3717,4
+56,Jaguar,I-PACE,2022,Aluminum-ion,113.2,360,Battery Swapping,5.3,87899.95,Aurora Blue,Belgium,1.0,0.0,5.0,4473,3
+57,Toyota,Lexus RZ,2020,Aluminum-ion,122.4,236,Level 1 Charging,3.8,65826.7,Matte Blue,Israel,3.0,0.0,4.0,11309,4
+58,Lamborghini,Lanzador (upcoming EV),2022,Aluminum-ion,61.8,196,Ultra-Fast Charging (350 kW+),7.1,58027.49,Navy Blue,Indonesia,,0.0,4.0,12651,5
+59,VinFast,VF 7,2022,Lithium-ion,36.4,594,Mobile Charging,10.5,134902.84,Candy Apple Red,France,3.0,,5.0,5058,3
+60,Great Wall Motors,ORA Lightning Cat,2020,Zinc-air,110.1,432,DC Fast Charging (DCFC),10.3,132280.96,Rose Gold,Saudi Arabia,2.0,0.0,4.0,17728,3
+61,GMC,Hummer EV Pickup,2018,Flow batteries,109.0,247,Ultra-Fast Charging (350 kW+),9.1,82076.58,Yellow,France,5.0,0.0,,10629,3
+62,Mazda,Mazda EV (upcoming models),2020,Nickel-cobalt-aluminum,38.9,371,Vehicle-to-Grid (V2G),7.0,125102.34,Pearl White,Norway,,0.0,3.0,16307,5
+63,Ford,F-150 Lightning,2022,Flow batteries,53.0,230,Level 1 Charging,10.8,85830.39,Copper,Saudi Arabia,3.0,0.0,4.0,13903,5
+64,Honda,Honda Prologue,2019,Lithium-iron phosphate,149.9,536,Vehicle-to-Load (V2L),1.7,75763.72,Teal,Singapore,5.0,0.0,5.0,12969,4
+65,Tesla,Cybertruck,2025,Magnesium-ion,116.8,125,Vehicle-to-Load (V2L),10.1,138352.19,Navy Blue,Austria,2.0,0.0,4.0,4481,5
+66,Kia,Soul EV,2019,Magnesium-ion,77.3,396,Overhead Pantograph Charging,8.9,40816.01,Copper,Hungary,1.0,0.0,4.0,17394,5
+67,Toyota,bZ4X,2019,Aluminum-ion,127.2,346,Solar Charging,9.1,70645.83,Orange,Australia,1.0,0.0,5.0,13022,5
+68,BYD,Han EV,2021,Lithium-ion,54.4,163,Vehicle-to-Home (V2H),4.7,119881.39,Gold,Israel,5.0,0.0,3.0,15449,3
+69,GMC,Hummer EV SUV,2024,Lithium-iron phosphate,104.2,425,Vehicle-to-Home (V2H),11.0,66262.82,Tan,Canada,,0.0,4.0,3805,3
+70,Polestar,Polestar 3,2021,Nickel-manganese-cobalt,68.2,586,Vehicle-to-Grid (V2G),7.3,117191.9,Tan,France,4.0,0.0,3.0,12141,3
+71,Geely,Geometry C,2018,Calcium-ion,67.1,451,Overhead Pantograph Charging,6.8,147341.1,Teal,South Korea,1.0,0.0,4.0,3003,5
+72,Rivian,EDV (Electric Delivery Van),2025,Zinc-air,146.2,125,Mobile Charging,3.3,45110.87,Matte Green,Switzerland,,0.0,3.0,7634,4
+73,Opel,Corsa-e,2024,Lithium-ion,56.0,174,CHAdeMO,6.7,125821.66,Orange,Germany,,0.0,5.0,10609,3
+74,Porsche,Panamera EV,2015,Nickel-metal hydride,116.4,369,CCS,9.1,87149.52,Navy Blue,Argentina,0.0,0.0,5.0,1420,5
+75,VinFast,VFe34 (discontinued),2019,Nickel-manganese-cobalt,103.6,115,Level 2 Charging,12.0,131675.83,Brown,France,3.0,,,19932,3
+76,Audi,e-tron GT,2019,Zinc-air,102.3,380,Mobile Charging,4.9,101687.02,Copper,Australia,3.0,,5.0,18066,5
+77,Rivian,R1S,2022,Aluminum-ion,49.7,273,Vehicle-to-Home (V2H),5.1,117553.5,Purple,Vietnam,2.0,0.0,4.0,2199,3
+78,Hyundai,Kona Electric,2021,Solid-state,116.8,290,CHAdeMO,6.9,100375.81,Matte Gray,United Arab Emirates,0.0,0.0,4.0,1685,4
+79,Cadillac,Celestiq,2020,Solid-state,95.1,208,CHAdeMO,8.1,56909.38,Yellow,Brazil,2.0,,3.0,14061,5
+80,Opel,Grandland Electric,2024,Flow batteries,103.6,113,Battery Swapping,0.8,62792.45,Stealth Gray,Poland,2.0,,5.0,13132,3
+81,Ford,Mustang Mach-E,2016,Lithium-titanate,89.0,292,Vehicle-to-Grid (V2G),5.7,48889.11,Magenta,Hungary,4.0,0.0,3.0,5158,5
+82,BMW,iX3,2016,Lithium-sulfur,77.6,317,Vehicle-to-Load (V2L),7.5,79702.05,Electric Blue,Turkey,,0.0,5.0,19435,4
+83,Lotus,Evija,2019,Lithium-ion,48.7,406,Level 2 Charging,0.6,66170.32,Electric Blue,Italy,2.0,0.0,,14111,3
+84,Volkswagen,ID.6,2023,Lithium-titanate,49.9,386,Overhead Pantograph Charging,1.3,133411.72,Silver,Vietnam,,0.0,5.0,14066,5
+85,XPeng,P5,2019,Solid-state,72.7,594,Mobile Charging,2.5,143713.72,Sunset Orange,Argentina,,0.0,5.0,13121,5
+86,Hyundai,Ioniq 7 (upcoming),2019,Lithium-titanate,64.1,270,NACS,1.4,105986.96,Matte Black,Turkey,2.0,0.0,5.0,4839,3
+87,Kia,Niro EV,2019,Lithium-iron phosphate,42.6,178,DC Fast Charging (DCFC),2.5,122741.77,Champagne,Australia,4.0,0.0,5.0,10590,5
+88,Rimac,Nevera,2022,Solid-state,81.0,423,Solar Charging,9.7,100970.37,Teal,Turkey,,0.0,,12082,4
+89,Audi,e-tron,2024,Zinc-air,85.9,336,Level 2 Charging,5.7,127177.91,Ruby Red,Denmark,3.0,0.0,4.0,3391,4
+90,Dacia,Jogger Hybrid,2023,Flow batteries,42.4,226,Vehicle-to-Home (V2H),11.9,92888.23,Sapphire Blue,Netherlands,2.0,0.0,5.0,19591,3
+91,VinFast,VF 8,2016,Sodium-ion,32.3,447,Plug-in Hydrogen Refueling,3.8,116848.04,Lime Green,Ireland,2.0,,4.0,10165,5
+92,Seat,Avenger,2017,Zinc-air,112.1,143,Solar Charging,6.9,107219.19,Pink,Italy,5.0,0.0,3.0,13874,5
+93,BYD,Han EV,2020,Lithium-sulfur,43.4,209,Mobile Charging,11.4,88352.51,Crimson Red,Italy,2.0,0.0,5.0,17253,3
+94,Mini,Mini Cooper SE,2024,Nickel-metal hydride,97.6,178,NACS,2.6,113141.48,Sapphire Blue,Netherlands,0.0,0.0,3.0,14555,5
+95,Mazda,Mazda EV (upcoming models),2018,Lead-acid,51.1,594,Vehicle-to-Load (V2L),10.9,53281.94,Sky Blue,Singapore,3.0,0.0,5.0,17283,4
+96,Mercedes-Benz,EQB,2024,Nickel-metal hydride,133.5,126,Vehicle-to-Load (V2L),10.6,96544.89,Yellow,South Africa,2.0,,4.0,16821,3
+97,Zeekr,Zeekr 001,2018,Calcium-ion,78.6,278,Level 1 Charging,5.3,77574.48,Turquoise,Belgium,0.0,0.0,,3246,5
+98,Genesis,GV80 Electric,2017,Nickel-metal hydride,25.0,569,Vehicle-to-Load (V2L),8.5,46655.12,Cosmic Purple,New Zealand,0.0,0.0,,7066,3
+99,Lamborghini,Lanzador (upcoming EV),2016,Magnesium-ion,57.5,254,CCS,1.0,80379.07,Burgundy,Finland,0.0,0.0,5.0,538,5
+100,MG,MG4 Electric,2017,Lithium-sulfur,75.8,414,Overhead Pantograph Charging,3.3,79988.11,Lime Green,UK,2.0,,5.0,16633,5
+101,Nissan,Ariya,2022,Lithium-ion,102.6,291,Battery Swapping,9.1,72851.27,Red,Brazil,5.0,0.0,5.0,10895,3
+102,Chevrolet,Volt (PHEV),2023,Sodium-ion,125.8,189,Vehicle-to-Home (V2H),11.8,87423.74,Midnight Black,Italy,,0.0,4.0,6605,3
+103,VinFast,VF 7,2015,Sodium-ion,141.3,363,Plug-in Hydrogen Refueling,11.9,95163.68,Gold,Japan,1.0,0.0,3.0,10876,4
+104,Jaguar,I-PACE,2021,Aluminum-ion,72.0,325,Plug-in Hydrogen Refueling,4.4,52418.07,Ice Silver,Russia,4.0,0.0,,13910,3
+105,Zeekr,Zeekr X,2023,Lithium-sulfur,61.8,140,Mobile Charging,8.1,66779.5,Gun Metal,Vietnam,3.0,0.0,,11552,5
+106,Zeekr,Zeekr 009,2025,Magnesium-ion,143.2,138,Plug-in Hydrogen Refueling,4.7,126131.52,Sky Blue,Netherlands,1.0,0.0,4.0,1140,3
+107,Audi,e-tron GT,2025,Sodium-ion,67.1,586,Level 2 Charging,7.5,111487.45,Turquoise,Argentina,0.0,0.0,4.0,10301,5
+108,Toyota,bZ4X,2016,Lithium-ion,115.6,355,Plug-in Hydrogen Refueling,11.0,44131.32,Navy Blue,Spain,1.0,0.0,4.0,6559,3
+109,Volkswagen,ID.2all,2016,Nickel-manganese-cobalt,42.4,465,Vehicle-to-Home (V2H),12.0,127261.59,Rose Gold,Hungary,5.0,,4.0,5161,5
+110,Dacia,Jogger Hybrid,2020,Lead-acid,49.2,202,CHAdeMO,3.2,89282.63,Turquoise,United Arab Emirates,3.0,0.0,5.0,2825,3
+111,Subaru,Solterra,2022,Lead-acid,73.4,309,DC Fast Charging (DCFC),1.9,68043.32,Red,Malaysia,4.0,0.0,5.0,19260,3
+112,Opel,Corsa-e,2021,Lead-acid,138.4,128,CCS,6.5,66494.95,Pearl White,Hungary,1.0,0.0,4.0,2584,4
+113,Lucid Motors,Lucid DreamDrive,2023,Lithium-sulfur,36.3,255,DC Fast Charging (DCFC),6.3,50236.31,Matte Blue,Sweden,4.0,0.0,5.0,1349,3
+114,Hyundai,Kona Electric,2025,Magnesium-ion,95.0,433,Inductive (Wireless) Charging,9.3,79990.41,Emerald Green,Germany,5.0,0.0,4.0,15825,3
+115,Faraday Future,FF 91,2019,Nickel-manganese-cobalt,29.5,130,NACS,5.6,88110.14,Electric Blue,Mexico,2.0,0.0,4.0,13065,3
+116,Citroen,ë-Spacetourer,2023,Lead-acid,33.8,223,Vehicle-to-Home (V2H),1.9,83951.52,Charcoal,France,,0.0,4.0,8135,3
+117,Canoo,Pickup,2024,Lithium-titanate,60.7,490,NACS,6.2,91766.98,Champagne,Poland,0.0,0.0,3.0,7049,5
+118,Fisker,Ocean,2015,Lithium-sulfur,84.3,551,Vehicle-to-Load (V2L),3.8,30981.29,Yellow,Vietnam,,0.0,4.0,11991,3
+119,XPeng,P7,2024,Lead-acid,45.3,383,Solar Charging,1.3,90510.66,Stealth Gray,United Arab Emirates,4.0,0.0,3.0,12907,4
+120,VinFast,VF 8,2023,Sodium-ion,118.1,201,Plug-in Hydrogen Refueling,6.3,35436.4,Gray,Mexico,4.0,0.0,5.0,4580,4
+121,GMC,Hummer EV SUV,2017,Nickel-cobalt-aluminum,148.8,478,Solar Charging,7.3,90877.8,Graphite Gray,Saudi Arabia,4.0,0.0,4.0,10854,5
+122,Jaguar,I-PACE,2024,Lithium-sulfur,123.6,471,Level 1 Charging,7.4,61863.65,Ruby Red,Israel,5.0,,5.0,12458,3
+123,Canoo,MPDV,2018,Lithium-ion,94.4,458,CCS,2.7,82924.63,Tan,Sweden,1.0,0.0,4.0,2040,5
+124,Volkswagen,ID.7,2018,Lead-acid,62.3,439,Vehicle-to-Load (V2L),6.5,67650.31,Midnight Black,Australia,2.0,0.0,5.0,8662,5
+125,Great Wall Motors,ORA Good Cat,2018,Lithium-sulfur,92.6,215,Solar Charging,9.4,114588.11,Ice Silver,Russia,2.0,0.0,5.0,8960,4
+126,Jaguar,I-PACE,2021,Calcium-ion,64.9,495,CHAdeMO,3.8,64515.64,Cosmic Purple,UK,3.0,0.0,3.0,6621,5
+127,Toyota,Lexus UX 300e,2019,Nickel-metal hydride,34.2,479,Ultra-Fast Charging (350 kW+),3.3,110380.08,Matte Black,Austria,0.0,,4.0,3294,5
+128,Opel,Corsa-e,2015,Lead-acid,147.1,180,Vehicle-to-Grid (V2G),8.0,135677.69,Aurora Blue,New Zealand,2.0,0.0,3.0,18813,3
+129,Maserati,Grecale Folgore,2017,Nickel-cobalt-aluminum,134.7,190,Level 2 Charging,12.0,77639.35,Champagne,Norway,2.0,0.0,,18610,5
+130,Kia,EV6,2019,Nickel-manganese-cobalt,148.6,378,Vehicle-to-Load (V2L),10.7,46103.99,Graphite Gray,Australia,0.0,0.0,5.0,8430,5
+131,Porsche,Taycan,2020,Magnesium-ion,58.4,445,Inductive (Wireless) Charging,2.5,132737.58,Cream,Vietnam,0.0,0.0,,4607,4
+132,Rimac,Nevera,2015,Lithium-sulfur,69.9,328,Battery Swapping,11.5,66233.5,Volcanic Yellow,Singapore,,0.0,3.0,3873,4
+133,Subaru,Solterra,2021,Flow batteries,85.3,558,Solar Charging,8.4,106645.36,Copper,Argentina,1.0,0.0,4.0,19848,4
+134,Li Auto,MEGA,2023,Magnesium-ion,106.3,211,Ultra-Fast Charging (350 kW+),8.3,101497.74,Burgundy,UK,4.0,0.0,,18486,3
+135,BMW,iX1,2023,Lithium-iron phosphate,94.5,176,NACS,4.3,92440.98,Orange,Switzerland,3.0,,3.0,14858,3
+136,MG,MG ES5,2022,Zinc-air,27.5,336,Solar Charging,8.8,77513.85,Platinum,USA,4.0,,5.0,2089,5
+137,BMW,i3,2022,Lithium-ion,57.3,192,CHAdeMO,9.3,147399.99,Ruby Red,Indonesia,3.0,0.0,4.0,12309,3
+138,Skoda,Elroq (upcoming),2023,Nickel-metal hydride,105.0,278,CCS,2.6,94471.02,Matte Black,Italy,1.0,0.0,4.0,15171,5
+139,Renault,Kangoo E-Tech,2023,Nickel-cobalt-aluminum,127.0,226,Vehicle-to-Home (V2H),4.5,63077.97,Volcanic Yellow,Canada,,0.0,3.0,7886,3
+140,Audi,e-tron,2024,Lithium-ion,78.0,444,Level 2 Charging,3.3,35308.41,Candy Apple Red,Austria,0.0,,3.0,18877,4
+141,Ferrari,Ferrari EV (2025+),2025,Calcium-ion,61.7,254,CHAdeMO,11.8,92550.13,Tan,Poland,4.0,0.0,3.0,13998,5
+142,Mahindra,XUV400,2020,Flow batteries,107.3,502,Mobile Charging,8.5,78991.1,Magenta,India,4.0,0.0,4.0,4730,4
+143,BMW,iX1,2021,Nickel-cobalt-aluminum,92.4,168,Plug-in Hydrogen Refueling,3.3,54400.41,Ruby Red,UK,2.0,,3.0,1688,4
+144,NIO,ET5,2016,Lithium-iron phosphate,124.6,400,Inductive (Wireless) Charging,6.0,134336.86,Pink,Poland,0.0,0.0,5.0,3844,5
+145,Citroen,ë-Spacetourer,2018,Lithium-titanate,98.6,204,Plug-in Hydrogen Refueling,11.0,96249.52,Navy Blue,Czech Republic,4.0,0.0,4.0,16803,4
+146,Changan,SL03,2022,Magnesium-ion,129.2,568,Inductive (Wireless) Charging,4.8,79671.62,Matte Green,Austria,0.0,0.0,5.0,13683,4
+147,Ford,F-150 Lightning,2020,Lithium-iron phosphate,69.4,526,Ultra-Fast Charging (350 kW+),6.2,108552.96,Sky Blue,Mexico,3.0,0.0,4.0,15100,3
+148,Renault,Scenic E-Tech,2017,Nickel-metal hydride,113.6,350,NACS,11.0,95056.42,Ruby Red,South Korea,0.0,0.0,3.0,13513,3
+149,Acura,ZDX (with GM Ultium),2016,Lithium-titanate,39.6,211,Vehicle-to-Home (V2H),4.8,104140.23,Lime Green,Finland,5.0,0.0,,18076,4
+150,Tesla,Model S,2023,Lithium-titanate,55.7,600,Solar Charging,0.7,127578.87,Sky Blue,Vietnam,1.0,,,4879,3
+151,Lucid Motors,Lucid DreamDrive,2023,Lithium-sulfur,126.0,236,Plug-in Hydrogen Refueling,1.4,145115.74,Sunset Orange,Singapore,5.0,0.0,3.0,1038,3
+152,XPeng,P5,2021,Lead-acid,81.9,426,Level 1 Charging,8.6,39922.33,Rose Gold,Vietnam,2.0,0.0,3.0,17306,3
+153,Volvo,C40 Recharge,2024,Nickel-manganese-cobalt,55.2,573,DC Fast Charging (DCFC),8.4,63644.76,Matte White,Singapore,1.0,0.0,3.0,19235,3
+154,Citroen,Ami,2021,Aluminum-ion,30.0,183,Ultra-Fast Charging (350 kW+),7.0,131933.09,Sky Blue,Saudi Arabia,5.0,,5.0,2569,5
+155,Peugeot,e-3008,2015,Solid-state,76.8,529,DC Fast Charging (DCFC),4.4,122280.68,Gun Metal,Thailand,2.0,,4.0,16076,3
+156,Fisker,Pear (upcoming),2021,Nickel-metal hydride,108.4,438,Plug-in Hydrogen Refueling,1.5,104233.91,Cobalt Blue,Belgium,0.0,0.0,5.0,5055,5
+157,NIO,ES8,2020,Solid-state,31.9,582,Solar Charging,5.6,121361.58,Yellow,Italy,,0.0,5.0,13370,3
+158,Nissan,Leaf,2020,Lead-acid,32.1,406,Mobile Charging,10.4,31480.87,Tan,India,5.0,0.0,3.0,18741,5
+159,Mercedes-Benz,EQS SUV,2017,Nickel-metal hydride,55.0,237,Vehicle-to-Load (V2L),2.2,50064.89,Bronze,Indonesia,0.0,0.0,5.0,16246,5
+160,GMC,Hummer EV Pickup,2022,Solid-state,37.6,103,Plug-in Hydrogen Refueling,4.3,104423.06,Cobalt Blue,Mexico,3.0,0.0,5.0,4460,4
+161,Rimac,Nevera,2022,Sodium-ion,43.1,303,Mobile Charging,3.9,113394.93,Champagne,Singapore,2.0,0.0,4.0,11960,3
+162,Ferrari,SF90 Stradale (PHEV),2024,Lead-acid,43.4,493,Level 1 Charging,11.5,85394.67,Cosmic Purple,Switzerland,2.0,0.0,,13406,5
+163,Mahindra,XUV400,2025,Lithium-sulfur,51.5,437,CHAdeMO,8.7,124689.21,Red,Malaysia,3.0,0.0,5.0,13706,5
+164,Chevrolet,Volt (PHEV),2023,Zinc-air,103.0,143,CCS,9.3,108912.2,Teal,Netherlands,0.0,0.0,5.0,13094,4
+165,VinFast,VF 9,2016,Lithium-ion,32.8,213,Ultra-Fast Charging (350 kW+),5.6,76936.1,Navy Blue,Israel,1.0,0.0,,3425,4
+166,Li Auto,L7,2016,Calcium-ion,142.3,172,Overhead Pantograph Charging,4.1,84639.92,Electric Blue,South Africa,3.0,,4.0,10450,3
+167,Subaru,Solterra,2016,Lithium-ion,130.4,431,CCS,8.3,49722.49,Racing Red,Belgium,4.0,,4.0,7597,4
+168,Acura,ZDX (with GM Ultium),2017,Flow batteries,105.5,302,Level 1 Charging,9.0,135971.68,Candy Apple Red,Israel,0.0,0.0,5.0,2050,5
+169,Kia,Niro EV,2020,Sodium-ion,45.6,158,Battery Swapping,8.2,88738.08,Emerald Green,Hungary,4.0,0.0,4.0,15003,5
+170,Porsche,Panamera EV,2024,Zinc-air,31.0,168,Mobile Charging,1.9,66645.6,Midnight Black,Argentina,4.0,0.0,5.0,12573,4
+171,Porsche,Cayenne Electric (upcoming),2025,Lead-acid,110.1,430,NACS,6.9,88757.04,Gray,Norway,3.0,0.0,3.0,15879,3
+172,Lucid Motors,Lucid Gravity,2023,Lead-acid,104.9,309,Vehicle-to-Load (V2L),5.3,130787.02,Champagne,Netherlands,,,4.0,1071,4
+173,Volvo,EX30,2017,Magnesium-ion,79.5,480,Vehicle-to-Load (V2L),6.8,43585.32,Orange,Portugal,2.0,0.0,5.0,14462,5
+174,Rivian,R1S,2016,Lithium-titanate,127.9,484,Ultra-Fast Charging (350 kW+),3.9,149917.52,Candy Apple Red,Spain,0.0,0.0,3.0,6877,5
+175,Jeep,Wagoneer S,2024,Flow batteries,75.7,415,CHAdeMO,9.5,127623.58,Cobalt Blue,South Korea,4.0,0.0,4.0,9589,4
+176,Ferrari,Roma PHEV,2023,Aluminum-ion,108.3,148,CHAdeMO,11.6,124282.93,Blue,Portugal,1.0,0.0,3.0,10554,3
+177,Citroen,Ami,2021,Nickel-manganese-cobalt,38.5,423,Battery Swapping,7.7,75020.68,Red,UK,5.0,0.0,4.0,14899,4
+178,Rimac,Nevera,2016,Lithium-titanate,146.4,425,Overhead Pantograph Charging,10.3,125481.35,Cream,Switzerland,1.0,0.0,4.0,11067,5
+179,Ferrari,SF90 Stradale (PHEV),2024,Calcium-ion,83.1,275,Level 2 Charging,1.0,105141.54,Titanium,Australia,,0.0,4.0,22,4
+180,Lucid Motors,Lucid DreamDrive,2017,Aluminum-ion,104.5,181,Battery Swapping,1.6,73252.25,Green,Argentina,5.0,,4.0,7672,4
+181,Genesis,GV60,2016,Lithium-ion,47.7,139,CHAdeMO,7.3,92333.31,Candy Apple Red,USA,,0.0,4.0,4331,4
+182,Audi,e-tron GT,2021,Solid-state,115.0,152,CCS,4.1,135718.68,Gray,India,1.0,0.0,3.0,17383,5
+183,Tesla,Cybertruck,2025,Nickel-metal hydride,77.2,469,Inductive (Wireless) Charging,7.7,48164.9,Tan,Finland,1.0,,3.0,19319,5
+184,NIO,ES8,2021,Sodium-ion,122.8,226,Battery Swapping,7.9,59780.04,Gun Metal,Ireland,2.0,0.0,5.0,9884,3
+185,Lotus,Evija,2023,Lithium-iron phosphate,117.2,251,Level 2 Charging,9.5,125253.36,Forest Green,Russia,1.0,0.0,5.0,395,4
+186,Rimac,Nevera,2021,Calcium-ion,129.1,315,Overhead Pantograph Charging,6.8,50732.44,Aurora Blue,China,,,3.0,1981,4
+187,MG,MG5 EV,2025,Lithium-titanate,85.1,312,Vehicle-to-Grid (V2G),8.6,39891.34,Matte White,Saudi Arabia,2.0,,,6658,3
+188,Maserati,GranTurismo Folgore,2021,Zinc-air,102.5,527,DC Fast Charging (DCFC),4.1,82498.33,Rose Gold,Belgium,,,4.0,19950,3
+189,Subaru,Solterra,2016,Lithium-ion,112.0,459,Level 1 Charging,2.4,144361.94,Matte Black,South Africa,5.0,0.0,5.0,8806,5
+190,Jaguar,I-PACE,2020,Magnesium-ion,75.8,368,DC Fast Charging (DCFC),3.5,147006.07,Emerald Green,China,4.0,0.0,5.0,5468,4
+191,Mercedes-Benz,EQA,2016,Aluminum-ion,94.6,470,CCS,3.1,91058.99,Silver,USA,3.0,0.0,3.0,1158,5
+192,Faraday Future,FF 91,2018,Sodium-ion,52.3,568,Mobile Charging,3.6,39346.45,Turquoise,Canada,0.0,,3.0,13137,3
+193,Changan,Deepal S07,2019,Sodium-ion,31.2,333,Level 1 Charging,4.7,64991.41,Burgundy,Poland,1.0,0.0,4.0,6403,5
+194,Maserati,Grecale Folgore,2017,Lithium-ion,141.2,112,Ultra-Fast Charging (350 kW+),6.7,106313.02,Ice Silver,USA,0.0,0.0,5.0,10076,3
+195,Rivian,EDV (Electric Delivery Van),2018,Nickel-cobalt-aluminum,84.0,130,CHAdeMO,8.7,41163.2,Crimson Red,South Africa,2.0,0.0,5.0,3131,5
+196,Volkswagen,ID.Buzz,2021,Solid-state,96.9,131,Vehicle-to-Grid (V2G),8.1,45684.99,Copper,Spain,3.0,0.0,4.0,14835,4
+197,Volvo,XC40 Recharge,2018,Nickel-metal hydride,121.4,399,CCS,2.3,49725.0,Sunset Orange,Hungary,4.0,0.0,4.0,10102,4
+198,Honda,e:Ny1,2016,Nickel-metal hydride,125.0,255,Level 2 Charging,3.0,132788.79,Charcoal,UK,2.0,0.0,,9792,4
+199,Canoo,Lifestyle Vehicle,2015,Nickel-cobalt-aluminum,131.1,384,Ultra-Fast Charging (350 kW+),1.6,42228.88,Burgundy,Italy,,,3.0,4283,3
+200,Canoo,Pickup,2020,Flow batteries,101.9,430,DC Fast Charging (DCFC),7.2,61058.48,Platinum,China,,,4.0,4220,3
+201,Faraday Future,FF 91,2016,Lithium-ion,142.5,125,NACS,11.1,81978.77,Volcanic Yellow,Thailand,3.0,0.0,3.0,6132,4
+202,Toyota,Lexus RZ,2017,Lithium-ion,99.8,415,Ultra-Fast Charging (350 kW+),7.9,89866.99,Matte Gray,New Zealand,,0.0,3.0,17229,3
+203,Acura,ZDX (with GM Ultium),2021,Magnesium-ion,112.7,345,Vehicle-to-Load (V2L),4.5,97878.13,Purple,India,0.0,0.0,4.0,1919,4
+204,Lotus,Emeya,2024,Lithium-iron phosphate,146.6,151,Ultra-Fast Charging (350 kW+),8.1,61983.24,Platinum,South Korea,1.0,0.0,4.0,11626,3
+205,Porsche,Macan EV,2024,Sodium-ion,124.8,457,Overhead Pantograph Charging,11.0,33384.79,Ice Silver,Brazil,4.0,,4.0,17764,4
+206,Porsche,Cayenne Electric (upcoming),2015,Solid-state,27.3,408,Ultra-Fast Charging (350 kW+),0.7,87358.68,Pink,Finland,1.0,0.0,4.0,1951,3
+207,Ford,F-150 Lightning,2016,Calcium-ion,88.4,286,DC Fast Charging (DCFC),4.8,143030.79,Cream,Israel,,0.0,3.0,14315,5
+208,Mahindra,Born Electric (upcoming range),2017,Lithium-titanate,145.9,455,Overhead Pantograph Charging,3.1,100674.02,Midnight Black,India,5.0,0.0,3.0,18770,4
+209,Opel,Grandland Electric,2015,Nickel-metal hydride,98.3,571,Ultra-Fast Charging (350 kW+),7.9,42493.23,Champagne,Sweden,0.0,0.0,3.0,2907,5
+210,Mini,Mini Aceman,2020,Nickel-manganese-cobalt,21.5,207,Ultra-Fast Charging (350 kW+),8.5,72057.74,Burgundy,France,0.0,0.0,3.0,13566,4
+211,NIO,ES8,2023,Nickel-cobalt-aluminum,33.2,345,Ultra-Fast Charging (350 kW+),2.4,38845.13,Rose Gold,Japan,2.0,0.0,4.0,5574,4
+212,Mercedes-Benz,EQS,2023,Aluminum-ion,147.1,273,Vehicle-to-Load (V2L),8.6,81758.8,Ruby Red,Netherlands,3.0,,3.0,6225,4
+213,Seat,Avenger,2025,Lithium-sulfur,58.7,149,Level 2 Charging,5.0,95959.52,Champagne,Sweden,,,,19667,4
+214,Lucid Motors,Lucid Air,2015,Lithium-iron phosphate,42.2,249,DC Fast Charging (DCFC),5.9,43861.07,Burgundy,Thailand,5.0,0.0,4.0,6058,4
+215,NIO,ES8,2017,Nickel-manganese-cobalt,25.8,325,Vehicle-to-Home (V2H),3.5,130449.45,Matte Green,South Korea,5.0,0.0,,11265,5
+216,Li Auto,L8,2023,Lithium-ion,129.3,519,Vehicle-to-Grid (V2G),11.6,112448.15,Aurora Blue,Singapore,3.0,0.0,5.0,1137,5
+217,Ferrari,Ferrari EV (2025+),2024,Flow batteries,147.8,175,CCS,11.4,83884.77,Pearl White,Switzerland,1.0,,,14266,3
+218,Canoo,MPDV,2017,Calcium-ion,97.4,263,DC Fast Charging (DCFC),1.5,96763.7,Matte Gray,Hungary,4.0,0.0,5.0,19253,5
+219,VinFast,VF 9,2016,Nickel-cobalt-aluminum,39.5,390,CCS,11.1,97522.05,Yellow,Czech Republic,2.0,0.0,5.0,15911,5
+220,Cadillac,Celestiq,2015,Nickel-metal hydride,55.8,173,Plug-in Hydrogen Refueling,0.9,136748.91,Pink,Belgium,,0.0,4.0,662,4
+221,Canoo,Pickup,2019,Lithium-sulfur,129.6,539,CCS,11.7,57354.89,Magenta,Malaysia,2.0,0.0,5.0,2925,3
+222,Geely,Geometry A,2021,Lithium-titanate,83.0,364,Overhead Pantograph Charging,9.9,91832.36,Pearl White,China,4.0,0.0,5.0,18634,3
+223,Porsche,Macan EV,2018,Calcium-ion,27.5,116,Vehicle-to-Home (V2H),1.1,73245.01,Metallic Silver,Portugal,3.0,0.0,3.0,1001,3
+224,BYD,Dolphin,2024,Nickel-manganese-cobalt,43.1,545,Vehicle-to-Load (V2L),7.2,71971.19,Pearl White,Spain,5.0,,,1626,3
+225,Ferrari,SF90 Stradale (PHEV),2018,Flow batteries,49.3,205,Battery Swapping,8.0,91593.75,Navy Blue,USA,1.0,0.0,3.0,7332,4
+226,Cadillac,Celestiq,2025,Lithium-sulfur,75.1,292,Overhead Pantograph Charging,5.8,56185.09,Magenta,South Africa,3.0,0.0,,12262,5
+227,Genesis,GV80 Electric,2019,Flow batteries,34.1,132,Mobile Charging,11.9,106871.37,Bronze,Spain,5.0,0.0,3.0,1860,5
+228,XPeng,G9,2025,Nickel-metal hydride,113.8,435,Vehicle-to-Load (V2L),12.0,61131.15,Tan,Thailand,0.0,0.0,3.0,11244,5
+229,Dacia,Jogger Hybrid,2025,Lead-acid,103.0,343,Overhead Pantograph Charging,6.3,131450.31,Titanium,United Arab Emirates,0.0,0.0,5.0,18318,3
+230,Skoda,Enyaq Coupe,2025,Solid-state,48.9,214,Solar Charging,5.3,136421.23,Turquoise,Spain,3.0,0.0,5.0,19122,5
+231,GMC,Hummer EV Pickup,2022,Aluminum-ion,45.3,161,Plug-in Hydrogen Refueling,6.6,79572.87,Rose Gold,Sweden,,0.0,5.0,14993,3
+232,Rimac,Nevera,2016,Nickel-manganese-cobalt,63.2,190,Mobile Charging,7.8,30565.62,Bronze,Switzerland,1.0,0.0,3.0,4240,5
+233,Zeekr,Zeekr 007,2021,Nickel-cobalt-aluminum,145.5,296,Level 1 Charging,0.9,53929.71,Turquoise,USA,4.0,,5.0,8153,3
+234,Seat,Avenger,2019,Nickel-metal hydride,33.4,357,Solar Charging,2.4,128861.26,Magenta,Czech Republic,4.0,0.0,5.0,4384,4
+235,Mahindra,Born Electric (upcoming range),2018,Nickel-metal hydride,143.3,570,Plug-in Hydrogen Refueling,0.7,56918.56,Gray,Switzerland,4.0,0.0,5.0,1224,4
+236,Acura,ZDX (with GM Ultium),2023,Zinc-air,26.3,124,CCS,8.0,32369.01,Ice Silver,Canada,3.0,,5.0,5017,3
+237,Seat,Avenger,2019,Nickel-cobalt-aluminum,106.0,439,Battery Swapping,7.7,114087.16,Tan,France,4.0,,3.0,16309,3
+238,Cadillac,Lyriq,2019,Calcium-ion,88.0,203,Overhead Pantograph Charging,8.6,65442.14,Silver,United Arab Emirates,1.0,0.0,3.0,89,3
+239,Mini,Mini Electric,2016,Calcium-ion,94.6,352,CHAdeMO,11.4,123543.15,Red,France,5.0,0.0,4.0,8654,4
+240,BMW,i3,2017,Calcium-ion,25.1,248,Overhead Pantograph Charging,9.7,67524.85,Racing Red,Canada,,0.0,,4534,5
+241,Genesis,GV70 Electric,2020,Sodium-ion,136.3,589,Battery Swapping,10.6,41154.16,Platinum,Mexico,3.0,0.0,4.0,15671,4
+242,Genesis,GV70 Electric,2016,Nickel-metal hydride,110.5,130,NACS,1.7,139347.21,Aurora Blue,Singapore,1.0,0.0,5.0,944,5
+243,Renault,5 E-Tech,2022,Aluminum-ion,83.5,554,Vehicle-to-Grid (V2G),5.6,37600.33,Ruby Red,Hungary,,0.0,5.0,18895,5
+244,Ferrari,SF90 Stradale (PHEV),2025,Calcium-ion,64.0,367,CCS,5.5,117198.24,Aurora Blue,Brazil,5.0,0.0,5.0,1788,3
+245,Genesis,GV70 Electric,2023,Calcium-ion,81.0,353,NACS,1.4,88997.76,Forest Green,Mexico,0.0,0.0,4.0,13214,3
+246,Hyundai,Ioniq 7 (upcoming),2022,Magnesium-ion,94.5,145,Vehicle-to-Load (V2L),5.6,44244.82,Champagne,Germany,,0.0,3.0,2978,5
+247,GMC,Hummer EV SUV,2023,Lead-acid,46.9,443,Vehicle-to-Home (V2H),11.4,73601.1,Blue,Austria,2.0,0.0,4.0,11904,5
+248,Geely,Geometry A,2016,Magnesium-ion,105.7,101,Mobile Charging,4.6,106039.34,Cobalt Blue,Czech Republic,2.0,0.0,,5379,4
+249,Volkswagen,ID.2all,2021,Solid-state,53.1,200,Inductive (Wireless) Charging,1.9,132263.32,Electric Blue,Australia,1.0,0.0,4.0,1523,5
+250,Skoda,Elroq (upcoming),2016,Magnesium-ion,135.9,334,CHAdeMO,11.6,30520.52,Racing Red,South Korea,3.0,0.0,5.0,5806,5
+251,Jeep,Grand Cherokee 4xe (PHEV),2017,Solid-state,70.4,407,Mobile Charging,6.3,76159.52,Gun Metal,Belgium,2.0,0.0,3.0,4527,4
+252,Cadillac,Optiq (upcoming),2023,Lithium-sulfur,129.6,380,Mobile Charging,8.7,142261.45,Emerald Green,Switzerland,4.0,0.0,5.0,4347,5
+253,Genesis,GV70 Electric,2023,Lead-acid,110.3,265,CCS,9.2,97473.63,Matte Blue,Singapore,5.0,0.0,5.0,9369,4
+254,Faraday Future,FF 91,2023,Solid-state,23.3,174,Level 2 Charging,8.2,53988.29,Stealth Gray,Netherlands,5.0,0.0,5.0,9671,3
+255,Citroen,Ami,2015,Sodium-ion,125.8,152,Ultra-Fast Charging (350 kW+),9.0,97352.47,Forest Green,Turkey,5.0,0.0,4.0,12699,4
+256,VinFast,VF 8,2023,Lithium-ion,21.7,228,Inductive (Wireless) Charging,7.6,123710.99,Candy Apple Red,Austria,5.0,0.0,5.0,17911,5
+257,Cadillac,Lyriq,2018,Lithium-sulfur,78.3,449,DC Fast Charging (DCFC),2.7,50855.42,Graphite Gray,Canada,3.0,0.0,3.0,19136,4
+258,Tesla,Model X,2022,Lithium-titanate,141.9,120,CHAdeMO,11.2,101625.64,Navy Blue,Finland,2.0,0.0,4.0,2388,5
+259,Rimac,Nevera,2017,Lead-acid,28.9,358,NACS,5.3,94444.31,Green,Brazil,1.0,0.0,4.0,7158,5
+260,Lotus,Emeya,2023,Calcium-ion,117.8,432,Level 1 Charging,1.8,71520.87,Forest Green,Finland,1.0,0.0,4.0,12496,3
+261,NIO,ES7,2023,Lithium-titanate,56.8,566,Overhead Pantograph Charging,6.4,91048.27,Champagne,Japan,5.0,,3.0,5485,5
+262,Maserati,Grecale Folgore,2025,Solid-state,47.4,422,Inductive (Wireless) Charging,10.4,80905.13,Yellow,Switzerland,5.0,0.0,4.0,2363,5
+263,Skoda,Enyaq,2015,Nickel-manganese-cobalt,113.2,119,DC Fast Charging (DCFC),1.3,51359.06,Gold,United Arab Emirates,,0.0,4.0,12715,4
+264,Acura,ZDX (with GM Ultium),2021,Sodium-ion,22.2,444,CCS,6.7,106970.73,Sapphire Blue,China,4.0,,4.0,16476,3
+265,Mazda,Mazda EV (upcoming models),2024,Solid-state,56.6,574,Vehicle-to-Home (V2H),4.9,128654.68,Black,New Zealand,1.0,,5.0,9665,5
+266,Ford,E-Transit,2025,Aluminum-ion,138.8,507,Overhead Pantograph Charging,11.5,31338.02,Matte Gray,Sweden,,,5.0,17941,3
+267,Subaru,Solterra,2020,Lithium-iron phosphate,73.6,430,CHAdeMO,2.4,56494.56,Titanium,Spain,1.0,0.0,3.0,17984,4
+268,Genesis,GV60,2019,Flow batteries,28.8,150,Inductive (Wireless) Charging,8.8,88462.85,Pink,Brazil,,0.0,5.0,2287,3
+269,Rimac,Nevera,2022,Sodium-ion,100.1,256,CHAdeMO,7.0,73739.21,Purple,Vietnam,2.0,0.0,5.0,14290,4
+270,BYD,Tang EV,2025,Lithium-titanate,63.1,345,Vehicle-to-Home (V2H),5.6,122972.04,Champagne,United Arab Emirates,,0.0,,9195,3
+271,Maserati,Grecale Folgore,2019,Lithium-titanate,135.2,139,DC Fast Charging (DCFC),10.8,131950.47,Emerald Green,Germany,4.0,0.0,3.0,18074,4
+272,Maserati,GranTurismo Folgore,2025,Magnesium-ion,39.3,300,Ultra-Fast Charging (350 kW+),10.8,100752.09,Rose Gold,Czech Republic,,0.0,,11923,5
+273,Tesla,Roadster (upcoming),2018,Calcium-ion,145.3,414,NACS,9.2,46844.48,Pearl White,Norway,4.0,0.0,5.0,15843,4
+274,Chevrolet,Bolt EUV,2022,Lithium-iron phosphate,28.2,289,Ultra-Fast Charging (350 kW+),1.0,54812.89,Burgundy,Argentina,3.0,0.0,,10619,3
+275,Dacia,Bigster EV (upcoming),2019,Zinc-air,90.8,189,Plug-in Hydrogen Refueling,8.0,73835.61,Ruby Red,China,3.0,0.0,4.0,11563,4
+276,Mahindra,Born Electric (upcoming range),2024,Lithium-ion,85.2,171,Vehicle-to-Home (V2H),2.4,39250.59,Ruby Red,Portugal,1.0,,3.0,7547,4
+277,Faraday Future,FF 91,2016,Nickel-manganese-cobalt,107.8,345,Inductive (Wireless) Charging,7.3,107671.11,Tan,Germany,1.0,0.0,5.0,16798,3
+278,Ferrari,SF90 Stradale (PHEV),2015,Nickel-metal hydride,53.6,192,Plug-in Hydrogen Refueling,7.4,97632.56,Black,Czech Republic,1.0,0.0,4.0,5589,3
+279,Li Auto,L8,2024,Calcium-ion,119.8,419,Battery Swapping,2.4,112270.94,Sunset Orange,Ireland,1.0,0.0,3.0,6630,5
+280,MG,MG ES5,2017,Zinc-air,32.5,343,Level 2 Charging,10.6,93771.59,Stealth Gray,Canada,,0.0,5.0,39,5
+281,Genesis,G80 Electric,2023,Nickel-cobalt-aluminum,68.1,122,Vehicle-to-Grid (V2G),3.1,126276.02,Burgundy,India,5.0,0.0,5.0,3201,4
+282,Volkswagen,ID.5,2022,Magnesium-ion,50.2,539,DC Fast Charging (DCFC),3.8,135211.96,Tan,Spain,5.0,0.0,,17122,3
+283,Lotus,Eletre,2021,Flow batteries,46.7,511,Mobile Charging,5.2,42789.99,Brown,Israel,4.0,0.0,4.0,13023,3
+284,Li Auto,MEGA,2017,Sodium-ion,92.7,347,Battery Swapping,11.9,99318.14,Navy Blue,Thailand,5.0,,5.0,5301,3
+285,Rivian,EDV (Electric Delivery Van),2021,Magnesium-ion,64.0,381,Level 2 Charging,2.3,145748.43,White,UK,3.0,0.0,3.0,8620,3
+286,BYD,Han EV,2024,Lithium-ion,114.2,576,Plug-in Hydrogen Refueling,7.6,92520.67,Cosmic Purple,Ireland,,0.0,4.0,14384,3
+287,Lucid Motors,Lucid DreamDrive,2023,Lithium-sulfur,45.3,501,Ultra-Fast Charging (350 kW+),7.6,110882.93,Turquoise,Belgium,1.0,,4.0,11571,5
+288,XPeng,P5,2024,Lithium-iron phosphate,87.3,477,DC Fast Charging (DCFC),11.1,95951.12,Volcanic Yellow,United Arab Emirates,2.0,0.0,3.0,19869,3
+289,Changan,Deepal S07,2024,Lithium-ion,53.9,308,CCS,6.9,90380.3,Pink,Canada,2.0,0.0,5.0,8196,5
+290,Geely,Geometry C,2024,Nickel-manganese-cobalt,120.1,487,Mobile Charging,11.6,85061.81,Sunset Orange,Israel,3.0,,,7221,5
+291,Seat,Avenger,2020,Nickel-cobalt-aluminum,144.2,364,Level 1 Charging,8.6,61601.96,Copper,UK,5.0,0.0,,5848,4
+292,Rimac,Nevera,2018,Aluminum-ion,94.6,193,Inductive (Wireless) Charging,6.2,53959.98,Racing Red,Belgium,1.0,0.0,5.0,11666,3
+293,Opel,Corsa-e,2016,Aluminum-ion,30.2,589,Vehicle-to-Load (V2L),7.6,121709.31,Matte White,Japan,2.0,0.0,5.0,9002,4
+294,Porsche,Panamera EV,2021,Lithium-iron phosphate,117.5,165,Level 2 Charging,6.5,80781.1,Matte White,Japan,3.0,0.0,4.0,3944,5
+295,Lotus,Emeya,2020,Lithium-titanate,21.1,445,Inductive (Wireless) Charging,4.9,42089.74,Turquoise,Finland,1.0,0.0,4.0,11242,4
+296,Porsche,Cayenne Electric (upcoming),2021,Lithium-iron phosphate,74.5,485,Overhead Pantograph Charging,4.7,78071.11,Candy Apple Red,Norway,4.0,0.0,5.0,8845,3
+297,Lamborghini,Lanzador (upcoming EV),2021,Lithium-iron phosphate,39.0,591,CHAdeMO,5.9,31169.07,Tan,Russia,,0.0,5.0,10345,4
+298,Subaru,Solterra,2023,Calcium-ion,93.8,303,CCS,8.4,37204.37,Platinum,Spain,5.0,,4.0,11828,4
+299,Lamborghini,Lanzador (upcoming EV),2020,Lithium-ion,73.5,279,Inductive (Wireless) Charging,7.1,107983.86,Matte White,Norway,2.0,0.0,4.0,14645,3
+300,NIO,ES7,2022,Flow batteries,144.4,544,NACS,7.9,141428.0,Tan,Finland,0.0,,4.0,10383,5
+301,Mazda,Mazda EV (upcoming models),2024,Flow batteries,71.4,554,Vehicle-to-Home (V2H),9.5,142652.38,Racing Red,Israel,3.0,0.0,3.0,4097,5
+302,Polestar,Polestar 4,2016,Lithium-iron phosphate,41.7,152,CCS,1.2,135442.92,Matte Gray,South Korea,,0.0,3.0,3405,4
+303,GMC,Hummer EV Pickup,2016,Flow batteries,141.1,299,Solar Charging,3.1,118511.19,Candy Apple Red,Italy,,0.0,,11692,4
+304,Great Wall Motors,ORA Lightning Cat,2023,Aluminum-ion,55.4,327,CHAdeMO,11.6,113714.75,Midnight Black,Israel,5.0,0.0,4.0,17152,5
+305,Acura,ZDX (with GM Ultium),2020,Nickel-manganese-cobalt,90.2,512,DC Fast Charging (DCFC),5.6,73894.0,Gold,Sweden,0.0,0.0,3.0,11268,4
+306,Great Wall Motors,ORA Ballet Cat,2015,Lithium-titanate,139.9,584,Vehicle-to-Load (V2L),3.9,121904.3,Cobalt Blue,Czech Republic,0.0,0.0,5.0,14323,4
+307,Polestar,Polestar 3,2025,Nickel-cobalt-aluminum,127.7,212,Battery Swapping,1.4,105038.76,Matte Black,Finland,5.0,0.0,5.0,8808,4
+308,Lucid Motors,Lucid Air,2017,Nickel-metal hydride,57.6,426,Vehicle-to-Home (V2H),7.6,62656.1,Sapphire Blue,Russia,0.0,,3.0,6092,3
+309,Mazda,Mazda EV (upcoming models),2017,Lithium-titanate,77.0,104,Ultra-Fast Charging (350 kW+),1.5,31766.98,Electric Blue,Mexico,3.0,0.0,3.0,10821,3
+310,Citroen,ë-C4,2015,Lithium-sulfur,120.8,136,Vehicle-to-Load (V2L),2.6,137483.88,Gold,India,0.0,0.0,4.0,14514,3
+311,Peugeot,e-208,2018,Nickel-manganese-cobalt,115.6,148,Inductive (Wireless) Charging,5.9,111773.08,Magenta,Hungary,5.0,,5.0,4002,4
+312,Great Wall Motors,ORA Ballet Cat,2019,Lithium-iron phosphate,66.9,126,Inductive (Wireless) Charging,11.7,58315.9,Brown,Hungary,,0.0,4.0,7965,3
+313,Chevrolet,Equinox EV,2022,Lithium-titanate,97.5,290,DC Fast Charging (DCFC),3.4,89990.3,Sky Blue,Finland,5.0,,3.0,17575,3
+314,Volkswagen,ID.6,2018,Sodium-ion,147.6,503,Overhead Pantograph Charging,9.8,82646.27,Metallic Silver,Germany,2.0,0.0,3.0,15902,5
+315,Geely,Emgrand EV,2019,Lead-acid,110.6,197,NACS,6.8,68841.71,Sunset Orange,Portugal,4.0,0.0,3.0,17404,3
+316,Geely,Geometry C,2019,Lead-acid,67.7,100,Plug-in Hydrogen Refueling,8.9,135951.88,Sapphire Blue,Argentina,1.0,0.0,,17660,4
+317,Lucid Motors,Lucid DreamDrive,2025,Nickel-manganese-cobalt,119.5,178,Solar Charging,4.2,106908.47,Orange,France,0.0,,3.0,1024,3
+318,Kia,EV9,2018,Solid-state,24.1,428,Plug-in Hydrogen Refueling,8.1,93098.56,Ice Silver,Israel,2.0,0.0,3.0,6839,5
+319,Mahindra,XUV400,2022,Magnesium-ion,103.1,284,Vehicle-to-Grid (V2G),10.0,125309.95,Blue,Finland,0.0,0.0,3.0,7074,5
+320,Kia,Soul EV,2018,Lead-acid,70.1,198,Ultra-Fast Charging (350 kW+),7.1,143700.4,Matte Gray,United Arab Emirates,0.0,0.0,5.0,15031,5
+321,Mini,Mini Cooper SE,2016,Nickel-metal hydride,123.0,381,Plug-in Hydrogen Refueling,6.3,108903.83,Matte White,Ireland,2.0,0.0,4.0,12180,4
+322,Citroen,Ami,2021,Calcium-ion,114.4,411,Ultra-Fast Charging (350 kW+),7.0,55671.38,Navy Blue,United Arab Emirates,2.0,0.0,4.0,6,5
+323,Chevrolet,Volt (PHEV),2024,Lithium-ion,87.3,555,Solar Charging,0.6,148127.33,Electric Blue,Hungary,,0.0,4.0,18142,5
+324,Lamborghini,Revuelto (PHEV),2016,Lithium-ion,79.8,179,CHAdeMO,3.5,136755.04,Forest Green,Austria,2.0,,3.0,2529,5
+325,Rimac,Nevera,2017,Nickel-manganese-cobalt,127.3,453,CCS,7.3,66047.19,Volcanic Yellow,Singapore,0.0,0.0,4.0,13648,3
+326,Opel,Corsa-e,2025,Calcium-ion,98.3,105,Plug-in Hydrogen Refueling,1.1,92926.0,Purple,Saudi Arabia,2.0,0.0,3.0,12873,4
+327,Citroen,Ami,2024,Lead-acid,31.7,321,Solar Charging,9.5,47761.49,Pink,UK,5.0,,3.0,13058,5
+328,Zeekr,Zeekr X,2017,Nickel-manganese-cobalt,92.7,349,Plug-in Hydrogen Refueling,8.0,53531.92,Sapphire Blue,South Africa,0.0,0.0,5.0,18874,3
+329,Jaguar,I-PACE,2021,Sodium-ion,65.3,264,Overhead Pantograph Charging,7.3,32904.82,Magenta,Netherlands,4.0,0.0,5.0,4778,4
+330,Chevrolet,Bolt EUV,2018,Flow batteries,68.6,487,DC Fast Charging (DCFC),1.8,36544.56,Sapphire Blue,Sweden,2.0,,3.0,9998,4
+331,Great Wall Motors,ORA Good Cat,2020,Lithium-iron phosphate,116.2,208,Inductive (Wireless) Charging,6.8,120042.62,Matte Gray,New Zealand,1.0,0.0,4.0,19103,5
+332,Lotus,Eletre,2019,Nickel-metal hydride,27.8,202,Battery Swapping,1.1,108570.94,White,China,2.0,0.0,4.0,3535,3
+333,Mazda,Mazda EV (upcoming models),2018,Nickel-cobalt-aluminum,86.1,463,CCS,10.9,88159.46,Gun Metal,Saudi Arabia,,,5.0,704,3
+334,Polestar,Polestar 4,2020,Nickel-manganese-cobalt,71.1,180,Level 1 Charging,4.5,72229.57,Emerald Green,Poland,4.0,0.0,,8443,4
+335,Canoo,Lifestyle Vehicle,2023,Lithium-sulfur,49.3,274,Plug-in Hydrogen Refueling,8.1,40535.4,Beige,South Africa,4.0,0.0,4.0,7876,5
+336,Ford,Explorer EV (Europe),2019,Aluminum-ion,98.7,329,CHAdeMO,2.9,46629.18,Matte White,Denmark,2.0,0.0,3.0,14092,3
+337,Genesis,GV70 Electric,2020,Solid-state,92.5,585,CCS,2.6,130742.7,Charcoal,Germany,3.0,0.0,5.0,8971,3
+338,Opel,Corsa-e,2016,Nickel-metal hydride,44.0,490,Battery Swapping,7.5,103483.44,Gun Metal,Austria,0.0,0.0,4.0,4393,5
+339,Cadillac,Celestiq,2025,Sodium-ion,43.9,298,Vehicle-to-Load (V2L),5.9,49654.37,Crimson Red,Japan,0.0,0.0,3.0,6646,3
+340,Audi,e-tron GT,2022,Calcium-ion,100.2,452,Mobile Charging,10.5,136510.43,Brown,Thailand,4.0,0.0,4.0,12915,5
+341,Peugeot,e-208,2023,Solid-state,78.7,523,Level 2 Charging,10.6,59486.6,Matte White,Thailand,0.0,0.0,5.0,1615,3
+342,Mazda,Mazda EV (upcoming models),2021,Aluminum-ion,59.6,523,Solar Charging,5.8,80695.46,Sapphire Blue,South Korea,1.0,0.0,3.0,16405,3
+343,Porsche,Macan EV,2021,Nickel-cobalt-aluminum,62.0,112,NACS,5.7,137594.1,Metallic Silver,Australia,,0.0,5.0,5373,5
+344,Renault,Megane E-Tech,2016,Solid-state,111.8,424,Overhead Pantograph Charging,1.5,114873.49,Volcanic Yellow,Turkey,1.0,0.0,3.0,10983,5
+345,Mini,Mini Electric,2017,Calcium-ion,38.8,493,Level 2 Charging,5.3,67142.2,Navy Blue,Malaysia,1.0,,3.0,115,5
+346,Citroen,ë-Spacetourer,2015,Nickel-manganese-cobalt,84.7,355,Level 1 Charging,7.5,89216.02,Electric Blue,Israel,3.0,0.0,,19664,3
+347,Polestar,Polestar 4,2024,Flow batteries,92.5,522,Inductive (Wireless) Charging,1.1,47790.74,Ruby Red,Brazil,,0.0,5.0,9779,4
+348,Hyundai,Kona Electric,2016,Nickel-cobalt-aluminum,149.2,182,Solar Charging,7.5,112981.63,Gun Metal,Singapore,1.0,0.0,4.0,1174,3
+349,Opel,Mokka-e,2020,Sodium-ion,136.7,519,DC Fast Charging (DCFC),9.2,131197.16,Red,Czech Republic,0.0,0.0,5.0,13558,5
+350,Rivian,EDV (Electric Delivery Van),2018,Zinc-air,27.6,392,DC Fast Charging (DCFC),6.1,112638.51,Burgundy,Czech Republic,2.0,0.0,5.0,11595,3
+351,GMC,Hummer EV SUV,2023,Lithium-titanate,102.1,352,NACS,10.7,57926.6,Copper,Denmark,,,3.0,6793,5
+352,Li Auto,MEGA,2015,Sodium-ion,65.5,512,Inductive (Wireless) Charging,0.6,54142.46,Copper,Spain,2.0,0.0,3.0,3730,5
+353,Pininfarina,Battista,2021,Lithium-titanate,94.0,591,Level 1 Charging,10.1,53281.87,Titanium,Mexico,3.0,0.0,5.0,4448,4
+354,Ford,Explorer EV (Europe),2023,Aluminum-ion,63.6,501,Vehicle-to-Grid (V2G),11.2,36722.67,Matte Black,Poland,5.0,0.0,3.0,18920,5
+355,Pininfarina,Battista,2016,Nickel-metal hydride,56.5,115,Mobile Charging,11.8,105181.3,Titanium,Netherlands,3.0,,4.0,10305,5
+356,Chevrolet,Volt (PHEV),2021,Solid-state,84.6,221,Overhead Pantograph Charging,5.7,144087.21,Electric Blue,South Africa,0.0,0.0,,6622,3
+357,Geely,Emgrand EV,2015,Magnesium-ion,82.7,356,CHAdeMO,2.7,140836.41,Volcanic Yellow,South Africa,2.0,,5.0,4348,3
+358,Renault,Megane E-Tech,2022,Nickel-cobalt-aluminum,112.8,367,CCS,0.5,141880.48,Sky Blue,Ireland,2.0,0.0,,17058,5
+359,Peugeot,e-3008,2015,Zinc-air,118.6,427,Inductive (Wireless) Charging,4.2,53105.48,Bronze,Saudi Arabia,3.0,0.0,3.0,8966,3
+360,Tesla,Cybertruck,2023,Lead-acid,33.3,377,Overhead Pantograph Charging,6.8,62526.25,Cosmic Purple,Czech Republic,1.0,,4.0,17713,4
+361,BMW,iX,2015,Nickel-manganese-cobalt,137.4,125,CCS,4.9,40334.35,Cream,Norway,4.0,0.0,4.0,11653,4
+362,Pininfarina,Battista,2025,Magnesium-ion,89.4,598,Vehicle-to-Home (V2H),7.0,41149.94,Cobalt Blue,Australia,,0.0,4.0,15418,3
+363,Volvo,C40 Recharge,2024,Lithium-sulfur,138.7,300,NACS,8.5,109821.67,Burgundy,Hungary,0.0,,4.0,15113,3
+364,Mazda,Mazda EV (upcoming models),2024,Zinc-air,36.6,152,Plug-in Hydrogen Refueling,9.9,125610.93,Purple,United Arab Emirates,2.0,0.0,4.0,7817,5
+365,Polestar,Polestar 3,2022,Nickel-cobalt-aluminum,28.6,206,Vehicle-to-Grid (V2G),9.5,82242.44,Burgundy,Mexico,1.0,,5.0,18815,4
+366,Jaguar,I-PACE,2020,Lead-acid,32.7,327,NACS,4.0,78695.24,Gun Metal,France,4.0,0.0,4.0,2014,3
+367,Rivian,R1T,2024,Aluminum-ion,118.1,514,Level 1 Charging,9.2,109305.77,Candy Apple Red,Saudi Arabia,4.0,0.0,5.0,10374,4
+368,Ferrari,Ferrari EV (2025+),2019,Aluminum-ion,142.6,322,Overhead Pantograph Charging,11.9,99927.24,Sapphire Blue,Turkey,1.0,0.0,,17985,3
+369,Tesla,Roadster (upcoming),2023,Calcium-ion,147.2,156,Solar Charging,10.5,58228.94,Ice Silver,Israel,2.0,0.0,4.0,17862,3
+370,Mini,Mini Electric,2022,Nickel-metal hydride,44.5,296,Overhead Pantograph Charging,10.2,48512.07,Lime Green,Italy,,,,15948,5
+371,Zeekr,Zeekr X,2016,Nickel-metal hydride,103.5,312,Vehicle-to-Home (V2H),10.8,113446.86,Brown,Finland,4.0,0.0,4.0,11642,3
+372,Porsche,Cayenne Electric (upcoming),2024,Lithium-ion,95.1,533,Ultra-Fast Charging (350 kW+),8.7,62310.05,Matte White,Singapore,0.0,0.0,3.0,19014,4
+373,Seat,Avenger,2017,Lithium-titanate,115.1,539,Battery Swapping,5.8,39388.15,Sapphire Blue,UK,5.0,0.0,3.0,17668,5
+374,Subaru,Solterra,2020,Lead-acid,121.2,340,Vehicle-to-Home (V2H),6.4,86307.89,Volcanic Yellow,Mexico,2.0,0.0,,19583,5
+375,Subaru,Solterra,2015,Flow batteries,81.5,186,Level 2 Charging,8.0,65010.39,Racing Red,Finland,,0.0,3.0,9104,4
+376,Volkswagen,ID.7,2019,Lithium-sulfur,131.5,107,CCS,7.4,139215.78,Racing Red,Sweden,2.0,0.0,5.0,7739,4
+377,Porsche,Taycan,2020,Solid-state,145.8,404,CHAdeMO,10.1,120331.36,Tan,India,3.0,0.0,5.0,11307,3
+378,Genesis,GV80 Electric,2016,Lithium-ion,41.8,304,Vehicle-to-Load (V2L),4.0,119538.07,Stealth Gray,Saudi Arabia,5.0,0.0,3.0,17381,4
+379,Tesla,Model X,2022,Nickel-cobalt-aluminum,108.2,592,Level 2 Charging,1.6,93755.2,Teal,Vietnam,5.0,0.0,4.0,3220,4
+380,Genesis,G80 Electric,2022,Magnesium-ion,107.8,223,Inductive (Wireless) Charging,6.5,111326.18,Midnight Black,Hungary,5.0,,,13475,3
+381,Lotus,Eletre,2025,Nickel-manganese-cobalt,65.7,471,Solar Charging,3.4,34085.01,Sapphire Blue,UK,,0.0,3.0,19640,5
+382,Jaguar,I-PACE,2016,Calcium-ion,98.6,292,NACS,10.8,113478.44,Gold,Czech Republic,0.0,0.0,4.0,13991,5
+383,Mini,Mini Cooper SE,2019,Nickel-metal hydride,121.5,241,Level 2 Charging,4.9,69918.57,Blue,Spain,2.0,,,6575,5
+384,XPeng,G6,2025,Nickel-manganese-cobalt,34.1,376,Vehicle-to-Grid (V2G),3.0,107200.58,Candy Apple Red,Spain,,,4.0,14610,3
+385,Mahindra,XUV400,2025,Flow batteries,20.1,119,Plug-in Hydrogen Refueling,3.6,114006.62,Cream,Singapore,,0.0,4.0,14288,4
+386,Renault,Megane E-Tech,2023,Lithium-iron phosphate,20.4,588,Vehicle-to-Load (V2L),1.9,942 36.49,Teal,Mexico,3.0,,5.0,2970,4
+387,Maserati,GranTurismo Folgore,2016,Calcium-ion,79.8,492,Solar Charging,7.9,51194.2,Silver,India,2.0,0.0,5.0,11772,4
+388,Hyundai,Ioniq 7 (upcoming),2018,Nickel-metal hydride,24.6,112,Ultra-Fast Charging (350 kW+),6.1,37559.12,Matte White,Poland,3.0,0.0,,11117,3
+389,Pininfarina,Battista,2021,Solid-state,47.5,434,Vehicle-to-Home (V2H),11.3,134424.0,Matte White,Sweden,1.0,0.0,,4639,4
+390,Genesis,GV60,2022,Aluminum-ion,139.3,123,Ultra-Fast Charging (350 kW+),8.6,45664.53,Midnight Black,South Korea,0.0,0.0,5.0,2095,3
+391,Jaguar,I-PACE,2024,Magnesium-ion,100.0,132,Inductive (Wireless) Charging,5.4,127382.52,Racing Red,Thailand,5.0,0.0,3.0,1493,5
+392,Porsche,Panamera EV,2016,Solid-state,55.6,487,Vehicle-to-Grid (V2G),2.4,74391.28,Pearl White,Malaysia,4.0,,,12325,3
+393,Nissan,Ariya,2016,Lithium-ion,20.9,574,DC Fast Charging (DCFC),8.6,101247.66,Copper,Indonesia,3.0,0.0,5.0,8878,5
+394,Geely,Geometry C,2018,Nickel-metal hydride,99.4,119,NACS,8.7,103445.98,Green,Poland,0.0,0.0,5.0,3135,5
+395,BYD,Atto 3,2023,Lithium-iron phosphate,80.3,420,Inductive (Wireless) Charging,3.7,53246.28,Burgundy,Sweden,3.0,0.0,3.0,1770,5
+396,BYD,Seal,2018,Nickel-cobalt-aluminum,52.7,415,Vehicle-to-Home (V2H),1.0,118850.03,Matte White,Norway,0.0,0.0,3.0,14575,5
+397,Jeep,Wagoneer S,2021,Lithium-iron phosphate,117.1,559,Mobile Charging,3.1,43215.94,Crimson Red,France,3.0,0.0,3.0,2409,4
+398,Jeep,Recon (upcoming),2015,Aluminum-ion,76.7,210,Vehicle-to-Home (V2H),2.5,74818.21,Sunset Orange,Denmark,2.0,0.0,5.0,18634,3
+399,Toyota,bZ4X,2016,Calcium-ion,80.5,314,NACS,9.2,56382.43,Copper,Ireland,5.0,0.0,5.0,18112,3
+400,Hyundai,Ioniq 7 (upcoming),2023,Nickel-manganese-cobalt,132.1,210,Vehicle-to-Load (V2L),10.1,63500.51,Volcanic Yellow,Vietnam,1.0,0.0,3.0,19391,3
+401,Ferrari,SF90 Stradale (PHEV),2021,Lithium-ion,25.2,340,Level 2 Charging,5.4,77318.42,Cobalt Blue,France,1.0,,5.0,13324,3
+402,Volkswagen,ID.5,2019,Lithium-iron phosphate,104.2,146,Level 1 Charging,6.0,66580.39,Cosmic Purple,Australia,5.0,0.0,4.0,4542,5
+403,XPeng,G6,2020,Flow batteries,80.4,424,Level 1 Charging,10.4,38483.83,Ice Silver,Mexico,2.0,0.0,5.0,17774,5
+404,VinFast,VF 7,2025,Solid-state,100.7,271,Level 2 Charging,6.4,139200.49,Turquoise,South Korea,,0.0,4.0,12007,3
+405,Genesis,GV60,2023,Lithium-titanate,120.6,170,Mobile Charging,3.2,43626.92,Aurora Blue,Israel,5.0,0.0,3.0,10500,4
+406,Toyota,Lexus UX 300e,2025,Nickel-cobalt-aluminum,56.0,132,Overhead Pantograph Charging,4.5,88347.23,Matte Black,Canada,4.0,0.0,4.0,14810,5
+407,BYD,Seagull,2016,Lithium-iron phosphate,135.9,334,DC Fast Charging (DCFC),1.4,137753.5,Copper,China,,0.0,4.0,4931,3
+408,Lotus,Evija,2015,Lithium-sulfur,74.1,449,CHAdeMO,5.9,80415.6,Racing Red,Germany,0.0,,5.0,11006,4
+409,Jeep,Wagoneer S,2025,Flow batteries,122.3,348,Vehicle-to-Home (V2H),5.8,98070.2,Burgundy,Poland,2.0,0.0,4.0,1550,3
+410,Fisker,Pear (upcoming),2022,Nickel-metal hydride,100.4,182,Solar Charging,2.6,51043.12,Cosmic Purple,Sweden,0.0,,3.0,14447,4
+411,BYD,Tang EV,2018,Lead-acid,111.9,440,Mobile Charging,11.7,47753.31,Candy Apple Red,Saudi Arabia,4.0,0.0,4.0,16364,3
+412,Changan,Deepal S07,2017,Lithium-ion,146.1,379,Mobile Charging,7.9,65466.82,Copper,Singapore,4.0,0.0,4.0,3680,5
+413,Great Wall Motors,ORA Good Cat,2017,Flow batteries,91.6,257,Level 1 Charging,5.1,130905.23,Candy Apple Red,Brazil,,,5.0,17250,3
+414,VinFast,VF 8,2018,Lithium-ion,30.9,534,Vehicle-to-Home (V2H),8.3,144914.84,Graphite Gray,Thailand,2.0,0.0,3.0,11831,4
+415,Ford,Explorer EV (Europe),2020,Nickel-cobalt-aluminum,68.5,245,Overhead Pantograph Charging,4.5,147302.84,Matte Gray,UK,3.0,0.0,4.0,9457,3
+416,Faraday Future,FF 91,2021,Nickel-metal hydride,128.6,406,DC Fast Charging (DCFC),2.2,66387.74,Matte Black,Mexico,,0.0,3.0,216,4
+417,Acura,ZDX (with GM Ultium),2021,Nickel-metal hydride,92.3,463,CHAdeMO,2.8,129874.05,Copper,United Arab Emirates,2.0,0.0,5.0,15186,3
+418,Nissan,Leaf,2017,Lithium-sulfur,59.0,427,Vehicle-to-Load (V2L),1.9,109909.62,Copper,Indonesia,5.0,0.0,,9083,4
+419,Audi,A6 e-tron (upcoming),2020,Zinc-air,82.5,323,Battery Swapping,7.7,87124.89,Ice Silver,Canada,5.0,0.0,3.0,19059,3
+420,Ford,E-Transit,2022,Aluminum-ion,110.1,282,NACS,1.1,73339.61,Emerald Green,Brazil,,0.0,3.0,16838,3
+421,Opel,Grandland Electric,2017,Magnesium-ion,32.3,485,NACS,6.8,134693.18,Platinum,Poland,5.0,0.0,,19006,4
+422,Canoo,Lifestyle Vehicle,2015,Nickel-metal hydride,87.4,290,Vehicle-to-Load (V2L),5.2,140508.89,Pearl White,France,4.0,0.0,5.0,17224,5
+423,Dacia,Jogger Hybrid,2021,Nickel-manganese-cobalt,139.1,159,CHAdeMO,11.1,87542.19,Magenta,Argentina,,0.0,5.0,11208,3
+424,Dacia,Bigster EV (upcoming),2015,Lithium-titanate,125.9,213,CHAdeMO,10.4,47083.12,Crimson Red,Poland,,,,3660,3
+425,Nissan,Ariya,2021,Lithium-ion,45.5,116,Level 2 Charging,5.9,139023.52,Silver,China,0.0,0.0,5.0,6730,5
+426,Lucid Motors,Lucid Air,2025,Sodium-ion,23.8,174,Battery Swapping,11.4,71740.39,Pearl White,Turkey,4.0,0.0,3.0,18944,3
+427,Lotus,Eletre,2018,Lithium-sulfur,42.3,486,Level 1 Charging,11.7,41842.29,Electric Blue,Turkey,3.0,0.0,4.0,3516,3
+428,Fisker,Pear (upcoming),2021,Lithium-iron phosphate,86.9,308,CCS,9.3,67713.63,Sunset Orange,Canada,3.0,0.0,5.0,1330,3
+429,Rimac,Nevera,2016,Nickel-cobalt-aluminum,56.9,407,Solar Charging,8.4,130930.82,Crimson Red,United Arab Emirates,3.0,,,15586,5
+430,BYD,Tang EV,2015,Flow batteries,83.9,153,Plug-in Hydrogen Refueling,5.5,109025.79,Green,Canada,,0.0,3.0,5528,3
+431,BYD,Tang EV,2020,Lithium-iron phosphate,97.3,306,CCS,3.2,80964.5,Champagne,Portugal,4.0,0.0,5.0,13114,4
+432,Great Wall Motors,ORA Ballet Cat,2024,Nickel-cobalt-aluminum,148.4,361,Battery Swapping,2.2,84556.17,Orange,Spain,1.0,0.0,3.0,1731,3
+433,Mahindra,XUV400,2017,Nickel-cobalt-aluminum,98.6,267,CHAdeMO,4.0,104787.91,Stealth Gray,China,4.0,0.0,3.0,9619,5
+434,Mahindra,Born Electric (upcoming range),2023,Lithium-sulfur,90.5,514,Level 1 Charging,11.5,33791.82,Brown,Canada,2.0,0.0,3.0,1076,3
+435,Lamborghini,Lanzador (upcoming EV),2017,Nike-manganese-cobalt,76.0,259,Plug-in Hydrogen Refueling,6.1,43125.84,Sky Blue,Russia,5.0,0.0,5.0,5121,5
+436,BMW,i7,2019,Nickel-manganese-cobalt,96.8,293,Overhead Pantograph Charging,9.3,64132.5,Blue,Germany,1.0,0.0,5.0,19135,3
+437,Citroen,Ami,2020,Nickel-cobalt-aluminum,32.7,276,Overhead Pantograph Charging,5.2,36773.91,Forest Green,Belgium,2.0,0.0,3.0,9991,3
+438,Pininfarina,Battista,2015,Lead-acid,62.4,335,Vehicle-to-Grid (V2G),7.0,138169.18,Bronze,Germany,4.0,,5.0,12789,4
+439,Ferrari,SF90 Stradale (PHEV),2022,Solid-state,109.8,205,Mobile Charging,6.2,127374.86,Lime Green,Mexico,2.0,0.0,4.0,2468,5
+440,Rivian,R1S,2019,Lithium-ion,58.7,393,Plug-in Hydrogen Refueling,9.8,104948.67,Green,Israel,,0.0,,17401,4
+441,Zeekr,Zeekr X,2020,Magnesium-ion,30.0,521,Solar Charging,6.3,65989.08,Lime Green,Saudi Arabia,3.0,0.0,4.0,17942,3
+442,Nissan,Leaf,2024,Nickel-manganese-cobalt,47.7,592,Vehicle-to-Home (V2H),3.6,106551.16,Cobalt Blue,Finland,3.0,0.0,3.0,17113,3
+443,BYD,Dolphin,2017,Lithium-iron phosphate,39.6,450,Solar Charging,10.2,79231.23,Titanium,China,3.0,0.0,3.0,8403,5
+444,Cadillac,Lyriq,2021,Lithium-iron phosphate,34.8,198,Level 1 Charging,3.3,129267.46,Sunset Orange,Russia,3.0,0.0,3.0,5221,4
+445,Volkswagen,ID.3,2019,Magnesium-ion,124.5,437,NACS,7.9,35067.88,Volcanic Yellow,Russia,0.0,0.0,,19713,4
+446,Audi,Q8 e-tron,2020,Flow batteries,105.5,146,Plug-in Hydrogen Refueling,11.3,116908.13,Gray,Belgium,,0.0,5.0,19019,5
+447,Honda,Honda Prologue,2016,Lithium-iron phosphate,98.0,495,Mobile Charging,4.3,100119.15,Beige,Belgium,1.0,,4.0,14400,4
+448,Honda,Honda e (discontinued),2015,Nickel-manganese-cobalt,89.4,458,CCS,4.1,80853.76,Sky Blue,Belgium,1.0,0.0,4.0,690,5
+449,Cadillac,Lyriq,2025,Magnesium-ion,142.3,453,Ultra-Fast Charging (350 kW+),3.4,76162.83,Emerald Green,Argentina,5.0,,4.0,12729,3
+450,XPeng,G9,2019,Solid-state,141.7,487,Ultra-Fast Charging (350 kW+),3.9,133130.01,Pearl White,Malaysia,5.0,0.0,,2624,4
+451,Great Wall Motors,ORA Ballet Cat,2021,Aluminum-ion,129.4,467,Vehicle-to-Grid (V2G),10.6,128428.96,Platinum,Netherlands,4.0,,5.0,17947,5
+452,Rimac,Nevera,2015,Magnesium-ion,26.8,428,NACS,7.7,124922.32,Gray,USA,5.0,0.0,3.0,5171,3
+453,Lotus,Evija,2025,Magnesium-ion,36.9,404,Vehicle-to-Grid (V2G),9.6,68327.9,Aurora Blue,Italy,5.0,0.0,4.0,6509,3
+454,Li Auto,L9,2017,Nickel-cobalt-aluminum,133.9,583,Ultra-Fast Charging (350 kW+),0.7,32756.41,Matte Gray,Finland,0.0,0.0,5.0,5529,3
+455,XPeng,X9,2021,Zinc-air,53.8,145,Overhead Pantograph Charging,2.5,98069.15,White,South Africa,3.0,0.0,3.0,6656,3
+456,Canoo,Pickup,2019,Lithium-titanate,84.2,166,Vehicle-to-Grid (V2G),10.3,102009.93,Platinum,Czech Republic,1.0,0.0,3.0,942,4
+457,Honda,e:Ny1,2024,Nickel-manganese-cobalt,138.0,289,Vehicle-to-Home (V2H),1.5,86265.79,Purple,Thailand,5.0,0.0,5.0,8396,3
+458,Kia,Soul EV,2015,Sodium-ion,141.0,341,Overhead Pantograph Charging,12.0,142718.63,Cobalt Blue,Ireland,0.0,,4.0,9912,4
+459,Mini,Mini Cooper SE,2017,Aluminum-ion,92.7,397,NACS,3.5,90449.61,Pink,Australia,,0.0,3.0,8532,3
+460,Rimac,Nevera,2017,Nickel-manganese-cobalt,133.3,527,Battery Swapping,9.1,141148.45,Copper,Spain,2.0,0.0,3.0,10339,5
+461,Mahindra,XUV400,2023,Calcium-ion,140.0,425,Vehicle-to-Home (V2H),1.1,47834.5,Crimson Red,Norway,,0.0,4.0,3801,4
+462,Chevrolet,Silverado EV,2020,Lithium-titanate,92.9,334,Vehicle-to-Load (V2L),1.8,116371.68,Charcoal,Canada,1.0,0.0,3.0,16670,4
+463,Ferrari,Ferrari EV (2025+),2024,Lithium-iron phosphate,95.9,597,Level 1 Charging,6.5,98494.54,Tan,China,3.0,0.0,3.0,9315,5
+464,Skoda,Enyaq,2021,Sodium-ion,96.7,587,CCS,10.1,48453.06,Green,Australia,5.0,0.0,4.0,19470,5
+465,Tesla,Model X,2015,Flow batteries,100.9,331,Mobile Charging,11.4,149978.53,Cobalt Blue,Singapore,,0.0,4.0,10589,3
+466,Peugeot,e-208,2023,Zinc-air,69.6,304,Battery Swapping,2.5,145805.92,Cream,UK,,0.0,4.0,9336,5
+467,Citroen,Ami,2017,Solid-state,58.8,510,Vehicle-to-Grid (V2G),9.0,140603.98,Sky Blue,Ireland,,0.0,5.0,6549,4
+468,Geely,Geometry C,2022,Lithium-sulfur,93.2,316,DC Fast Charging (DCFC),9.2,127319.32,Sapphire Blue,Norway,3.0,,4.0,7347,5
+469,Skoda,Elroq (upcoming),2017,Aluminum-ion,84.4,422,DC Fast Charging (DCFC),3.8,82482.66,Cobalt Blue,New Zealand,1.0,0.0,3.0,17140,4
+470,Mazda,MX-30,2023,Solid-state,139.2,362,CCS,6.4,79562.33,Sunset Orange,Singapore,2.0,0.0,,16496,3
+471,Jaguar,I-PACE,2017,Magnesium-ion,43.7,301,Level 2 Charging,1.5,135210.64,Magenta,Hungary,3.0,0.0,4.0,11184,3
+472,Rivian,R1T,2016,Lithium-titanate,147.7,232,CCS,5.5,32149.83,Cream,Canada,,0.0,4.0,19722,5
+473,Mahindra,Born Electric (upcoming range),2024,Calcium-ion,146.6,284,Plug-in Hydrogen Refueling,9.8,40516.22,Gray,USA,0.0,0.0,3.0,6856,4
+474,Genesis,GV70 Electric,2025,Lithium-iron phosphate,76.7,420,Inductive (Wireless) Charging,1.5,122366.54,Charcoal,New Zealand,0.0,,5.0,14590,4
+475,Great Wall Motors,ORA Good Cat,2022,Zinc-air,51.5,250,Plug-in Hydrogen Refueling,1.1,30944.91,Emerald Green,Vietnam,3.0,0.0,5.0,9528,3
+476,Mahindra,Born Electric (upcoming range),2022,Lead-acid,96.8,413,Vehicle-to-Load (V2L),3.2,37284.56,Black,Vietnam,4.0,,4.0,15510,3
+477,Mahindra,Born Electric (upcoming range),2022,Lithium-titanate,76.7,182,Solar Charging,8.9,86308.85,Candy Apple Red,Austria,4.0,0.0,5.0,15350,3
+478,Mazda,Mazda EV (upcoming models),2021,Calcium-ion,142.4,434,Overhead Pantograph Charging,9.7,125970.61,Rose Gold,Netherlands,2.0,0.0,,15823,3
+479,Porsche,Macan EV,2017,Zinc-air,84.0,506,Vehicle-to-Grid (V2G),11.3,89247.01,Forest Green,Switzerland,0.0,0.0,5.0,5197,3
+480,Canoo,MPDV,2015,Magnesium-ion,28.3,320,CCS,7.6,44482.56,Crimson Red,Russia,2.0,0.0,5.0,8765,3
+481,Seat,Avenger,2015,Aluminum-ion,143.0,509,Vehicle-to-Home (V2H),11.6,120691.72,Yellow,Finland,0.0,0.0,,3454,3
+482,Acura,ZDX (with GM Ultium),2018,Aluminum-ion,67.0,472,Solar Charging,8.6,121435.76,Champagne,France,2.0,0.0,3.0,14388,4
+483,Opel,Corsa-e,2018,Calcium-ion,125.2,274,Solar Charging,6.3,40228.06,Turquoise,Indonesia,5.0,0.0,5.0,13818,3
+484,Volkswagen,ID.2all,2021,Nickel-cobalt-aluminum,139.3,559,Vehicle-to-Home (V2H),11.4,91938.64,Sky Blue,Argentina,3.0,,,16952,3
+485,Hyundai,Ioniq 6,2020,Nickel-cobalt-aluminum,147.7,184,Vehicle-to-Grid (V2G),1.2,121103.09,Lime Green,Sweden,0.0,0.0,5.0,17032,4
+486,Li Auto,MEGA,2025,Lithium-titanate,92.0,255,Mobile Charging,11.0,30948.27,Bronze,South Africa,1.0,0.0,3.0,17839,5
+487,VinFast,VFe34 (discontinued),2025,Nickel-manganese-cobalt,110.7,554,Plug-in Hydrogen Refueling,9.4,135716.96,Green,Japan,3.0,0.0,3.0,17054,5
+488,Mazda,MX-30,2016,Lead-acid,91.7,366,Mobile Charging,9.2,49203.28,Black,Saudi Arabia,1.0,0.0,4.0,16556,3
+489,Renault,Megane E-Tech,2020,Lithium-sulfur,101.5,281,CCS,1.0,108115.49,Orange,Malaysia,5.0,,3.0,19057,5
+490,Dacia,Jogger Hybrid,2020,Lithium-sulfur,57.0,501,CHAdeMO,8.7,92360.0,Forest Green,France,4.0,,4.0,3210,3
+491,Dacia,Bigster EV (upcoming),2021,Solid-state,32.0,317,CHAdeMO,6.0,83539.69,Turquoise,South Africa,4.0,0.0,4.0,19146,4
+492,Acura,ZDX (with GM Ultium),2022,Lithium-titanate,141.0,350,Vehicle-to-Grid (V2G),10.0,47321.54,Gray,Russia,1.0,0.0,5.0,3868,5
+493,Rivian,R1S,2022,Lithium-ion,117.0,583,Overhead Pantograph Charging,11.1,44251.93,Rose Gold,Indonesia,,0.0,5.0,5023,3
+494,BYD,Seal,2020,Lithium-sulfur,58.2,114,CHAdeMO,2.1,100754.91,Blue,Poland,1.0,,3.0,4008,5
+495,Fisker,Ocean,2015,Nickel-cobalt-aluminum,82.6,258,Vehicle-to-Home (V2H),10.9,123761.92,Aurora Blue,Ireland,,,4.0,14715,3
+496,Renault,Scenic E-Tech,2016,Magnesium-ion,101.2,419,Vehicle-to-Grid (V2G),5.0,138029.33,Pink,Saudi Arabia,,0.0,4.0,2900,3
+497,Dacia,Jogger Hybrid,2024,Flow batteries,123.5,462,Solar Charging,7.0,44853.79,Matte Gray,UK,4.0,0.0,5.0,17096,3
+498,Citroen,ë-Spacetourer,2023,Aluminum-ion,22.4,437,NACS,11.6,62995.5,Electric Blue,Belgium,4.0,0.0,5.0,10499,4
+499,Jeep,Wrangler 4xe (PHEV),2022,Calcium-ion,141.4,274,Vehicle-to-Grid (V2G),2.6,32886.83,Matte Black,Hungary,0.0,,,5510,4
+500,Ford,F-150 Lightning,2019,Magnesium-ion,31.7,257,Vehicle-to-Grid (V2G),8.3,37069.65,Purple,Norway,,,4.0,4668,4
+501,Rimac,Nevera,2021,Calcium-ion,136.9,126,Inductive (Wireless) Charging,3.3,101640.55,Forest Green,Russia,4.0,0.0,3.0,10431,4
+502,Lamborghini,Lanzador (upcoming EV),2016,Nickel-manganese-cobalt,23.8,424,Ultra-Fast Charging (350 kW+),11.0,32234.74,Matte Gray,Israel,1.0,0.0,3.0,9981,5
+503,Li Auto,MEGA,2016,Calcium-ion,102.7,204,CHAdeMO,4.8,148237.05,Burgundy,Belgium,3.0,0.0,3.0,32,4
+504,GMC,Hummer EV SUV,2025,Nickel-metal hydride,20.1,577,Vehicle-to-Load (V2L),3.6,60106.67,Sky Blue,India,5.0,0.0,4.0,1490,3
+505,Peugeot,e-208,2019,Solid-state,71.4,162,CHAdeMO,8.8,149858.55,Brown,Switzerland,2.0,0.0,5.0,8564,5
+506,Geely,Geometry C,2018,Flow batteries,147.8,274,Inductive (Wireless) Charging,5.8,101941.64,Black,Italy,0.0,0.0,,313,5
+507,Porsche,Cayenne Electric (upcoming),2023,Aluminum-ion,110.5,350,Plug-in Hydrogen Refueling,6.7,124476.63,Ruby Red,China,5.0,0.0,4.0,19703,4
+508,NIO,ET9,2015,Solid-state,80.2,579,Inductive (Wireless) Charging,5.6,56582.49,Black,Portugal,5.0,0.0,,9934,5
+509,Volvo,C40 Recharge,2022,Sodium-ion,24.8,352,Inductive (Wireless) Charging,0.6,148111.62,Emerald Green,Thailand,,0.0,3.0,18080,3
+510,Mini,Mini Aceman,2024,Flow batteries,108.7,389,NACS,1.3,45389.57,Red,Italy,4.0,0.0,5.0,8989,3
+511,Skoda,Enyaq,2025,Lead-acid,99.9,448,Vehicle-to-Home (V2H),0.5,81253.74,Sky Blue,South Korea,2.0,0.0,4.0,3988,5
+512,Lotus,Emeya,2022,Sodium-ion,87.2,122,Ultra-Fast Charging (350 kW+),1.0,140206.98,Matte White,Malaysia,3.0,,,18737,3
+513,Peugeot,e-2008,2021,Solid-state,139.2,200,NACS,4.3,37541.29,Emerald Green,France,,0.0,,10954,4
+514,Polestar,Polestar 2,2022,Lithium-iron phosphate,144.6,526,Level 2 Charging,9.9,92361.01,Forest Green,China,4.0,0.0,,14629,5
+515,Jaguar,I-PACE,2015,Aluminum-ion,24.3,260,DC Fast Charging (DCFC),9.5,37440.27,Cobalt Blue,Malaysia,,0.0,3.0,1828,5
+516,BMW,i4,2021,Nickel-cobalt-aluminum,32.5,485,Vehicle-to-Grid (V2G),3.2,101949.1,Lime Green,Finland,,0.0,5.0,3318,4
+517,Genesis,GV60,2022,Lead-acid,62.7,198,CCS,1.7,101421.01,Red,Israel,1.0,0.0,5.0,8397,4
+518,Li Auto,MEGA,2024,Nickel-manganese-cobalt,44.2,170,Level 2 Charging,1.2,67400.02,Brown,Turkey,2.0,0.0,3.0,4830,4
+519,Subaru,Solterra,2019,Sodium-ion,146.1,365,CHAdeMO,1.2,90852.94,Titanium,United Arab Emirates,3.0,0.0,5.0,6594,3
+520,Pininfarina,Battista,2025,Nickel-manganese-cobalt,110.3,339,Mobile Charging,10.3,97931.63,Pink,Finland,2.0,,3.0,16250,3
+521,Tesla,Roadster (upcoming),2018,Lithium-titanate,49.9,419,Inductive (Wireless) Charging,3.2,118150.34,Platinum,Mexico,3.0,0.0,3.0,11888,3
+522,Audi,Q4 e-tron,2015,Lead-acid,35.0,248,Vehicle-to-Home (V2H),2.7,100282.37,Stealth Gray,Argentina,,,3.0,7174,4
+523,Renault,5 E-Tech,2020,Calcium-ion,92.1,191,Inductive (Wireless) Charging,0.7,131145.77,Yellow,Germany,1.0,0.0,3.0,11088,3
+524,Subaru,Solterra,2018,Sodium-ion,125.2,438,NACS,11.3,147252.22,Sapphire Blue,Vietnam,0.0,,3.0,6214,3
+525,Maserati,GranTurismo Folgore,2020,Sodium-ion,97.9,600,Ultra-Fast Charging (350 kW+),11.1,121569.88,Matte Blue,Denmark,2.0,0.0,3.0,9177,3
+526,MG,MG ES5,2018,Lithium-titanate,30.6,340,DC Fast Charging (DCFC),2.4,76573.9,Ruby Red,Turkey,4.0,0.0,4.0,17218,5
+527,Great Wall Motors,ORA Ballet Cat,2022,Nickel-manganese-cobalt,54.9,305,Level 2 Charging,2.9,137386.16,Candy Apple Red,Belgium,2.0,0.0,3.0,12258,4
+528,Lamborghini,Revuelto (PHEV),2017,Magnesium-ion,30.9,327,Overhead Pantograph Charging,3.1,34937.15,Graphite Gray,Finland,3.0,0.0,4.0,10388,4
+529,NIO,ET5,2017,Nickel-manganese-cobalt,50.4,430,DC Fast Charging (DCFC),4.6,39890.22,Titanium,Turkey,5.0,,3.0,3224,3
+530,Audi,Q4 e-tron,2015,Lead-acid,46.0,200,Mobile Charging,3.4,119425.36,Navy Blue,Portugal,4.0,0.0,5.0,17797,4
+531,Tesla,Model X,2019,Calcium-ion,65.1,306,Plug-in Hydrogen Refueling,10.0,120936.73,White,New Zealand,1.0,0.0,5.0,6877,4
+532,Volvo,EX90,2022,Sodium-ion,122.9,260,Inductive (Wireless) Charging,5.4,143031.57,Tan,Switzerland,4.0,,3.0,10012,5
+533,Tesla,Model Y,2025,Calcium-ion,66.1,215,Vehicle-to-Grid (V2G),5.4,120315.14,Stealth Gray,Saudi Arabia,4.0,,3.0,5036,4
+534,Ferrari,Ferrari EV (2025+),2024,Aluminum-ion,99.0,543,Plug-in Hydrogen Refueling,11.8,54504.55,Cream,China,1.0,0.0,4.0,9982,3
+535,Mercedes-Benz,EQS,2025,Lead-acid,43.1,523,Vehicle-to-Load (V2L),0.8,53879.85,Beige,Czech Republic,2.0,0.0,,1882,4
+536,Lotus,Eletre,2017,Sodium-ion,131.8,310,Plug-in Hydrogen Refueling,2.3,43289.27,Matte White,Indonesia,0.0,0.0,3.0,4257,3
+537,Subaru,Solterra,2025,Nickel-manganese-cobalt,40.6,394,Solar Charging,7.3,90297.0,Sky Blue,Australia,0.0,0.0,4.0,19819,3
+538,Lotus,Emeya,2024,Aluminum-ion,83.8,336,Level 2 Charging,9.0,64549.41,Sunset Orange,Brazil,5.0,0.0,3.0,13600,3
+539,Porsche,Cayenne Electric (upcoming),2022,Nickel-cobalt-aluminum,138.4,193,CCS,5.0,143482.48,Forest Green,Netherlands,5.0,0.0,3.0,7119,4
+540,Li Auto,L7,2020,Solid-state,118.2,358,Mobile Charging,5.2,49780.69,Electric Blue,Turkey,,,5.0,15135,4
+541,Pininfarina,Battista,2018,Nickel-cobalt-aluminum,24.9,228,CCS,8.7,46377.67,Lime Green,Australia,0.0,,5.0,14343,3
+542,Great Wall Motors,ORA Lightning Cat,2017,Nickel-metal hydride,129.0,410,CCS,2.5,44898.17,Racing Red,Thailand,5.0,0.0,3.0,14439,4
+543,Porsche,Macan EV,2015,Aluminum-ion,107.8,210,Vehicle-to-Home (V2H),8.5,130380.14,Cobalt Blue,South Africa,5.0,0.0,5.0,10103,4
+544,BMW,iX1,2015,Lithium-ion,120.4,492,Inductive (Wireless) Charging,11.2,74957.36,Forest Green,Denmark,,0.0,4.0,6296,5
+545,Mini,Mini Electric,2018,Aluminum-ion,32.6,527,NACS,8.8,35281.5,Graphite Gray,France,2.0,0.0,3.0,17750,4
+546,Zeekr,Zeekr 001,2018,Lithium-iron phosphate,33.8,265,NACS,0.7,108479.13,White,India,1.0,,5.0,12090,3
+547,Audi,e-tron GT,2021,Lithium-sulfur,119.8,355,CCS,8.7,124951.17,Rose Gold,Singapore,0.0,0.0,5.0,12732,5
+548,Opel,Grandland Electric,2017,Sodium-ion,42.8,489,Mobile Charging,11.7,109964.47,Red,Mexico,,0.0,5.0,7616,5
+549,Jeep,Wrangler 4xe (PHEV),2018,Lithium-ion,100.1,559,CCS,4.1,118549.59,Stealth Gray,Belgium,0.0,,3.0,4969,4
+550,Rivian,EDV (Electric Delivery Van),2015,Lithium-iron phosphate,140.0,406,Vehicle-to-Home (V2H),9.0,69442.78,Bronze,Hungary,0.0,0.0,5.0,9452,3
+551,Volvo,EX30,2020,Lithium-iron phosphate,46.8,127,Ultra-Fast Charging (350 kW+),9.7,113553.37,Crimson Red,Ireland,4.0,0.0,3.0,2117,4
+552,Audi,e-tron GT,2015,Flow batteries,149.0,580,Inductive (Wireless) Charging,1.9,50841.1,Matte Gray,Switzerland,0.0,0.0,3.0,6472,3
+553,Zeekr,Zeekr X,2024,Lithium-iron phosphate,59.4,395,Vehicle-to-Home (V2H),11.6,54168.12,Burgundy,New Zealand,,0.0,3.0,15424,4
+554,Zeekr,Zeekr 007,2017,Calcium-ion,144.0,346,Level 1 Charging,9.3,81287.67,Green,Poland,1.0,0.0,4.0,15192,4
+555,Changan,Deepal S07,2021,Lead-acid,98.8,136,Mobile Charging,2.1,86311.02,Charcoal,Denmark,,0.0,4.0,16103,4
+556,Li Auto,MEGA,2020,Nickel-cobalt-aluminum,83.6,428,DC Fast Charging (DCFC),5.2,34659.23,Orange,India,1.0,,4.0,11422,5
+557,Dacia,Bigster EV (upcoming),2025,Lithium-titanate,67.9,129,Plug-in Hydrogen Refueling,11.2,118279.7,Forest Green,New Zealand,,0.0,5.0,925,5
+558,Mini,Mini Aceman,2017,Lithium-sulfur,98.7,583,CHAdeMO,3.4,102257.92,Lime Green,Netherlands,,0.0,4.0,13030,5
+559,Jeep,Wrangler 4xe (PHEV),2023,Aluminum-ion,44.5,316,NACS,10.0,60344.55,Magenta,Turkey,5.0,0.0,5.0,13487,5
+560,Hyundai,Kona Electric,2025,Zinc-air,121.0,276,CHAdeMO,3.6,55143.07,Racing Red,Thailand,0.0,0.0,3.0,3174,3
+561,Opel,Grandland Electric,2021,Lead-acid,74.2,247,Vehicle-to-Grid (V2G),2.5,74958.17,Cosmic Purple,Italy,1.0,0.0,5.0,6965,3
+562,Lucid Motors,Lucid Air,2017,Magnesium-ion,118.7,232,Vehicle-to-Grid (V2G),5.6,139556.57,Yellow,Netherlands,,,3.0,11211,3
+563,Jeep,Grand Cherokee 4xe (PHEV),2022,Nickel-manganese-cobalt,107.5,151,Level 1 Charging,1.2,120215.84,White,Israel,0.0,,3.0,12309,5
+564,Lotus,Emeya,2022,Nickel-manganese-cobalt,118.4,409,Vehicle-to-Grid (V2G),4.4,111823.2,Pink,Hungary,2.0,0.0,3.0,11666,4
+565,Faraday Future,FF 91,2015,Nickel-manganese-cobalt,133.2,305,CHAdeMO,0.8,44747.34,Matte Black,Portugal,1.0,0.0,5.0,15571,5
+566,Li Auto,L8,2015,Flow batteries,144.5,516,Mobile Charging,0.7,73224.67,Silver,Hungary,1.0,0.0,5.0,2666,4
+567,Zeekr,Zeekr 007,2025,Calcium-ion,110.9,151,Plug-in Hydrogen Refueling,3.9,53409.23,Charcoal,South Africa,5.0,0.0,3.0,9874,5
+568,Lamborghini,Lanzador (upcoming EV),2017,Aluminum-ion,78.0,159,Vehicle-to-Load (V2L),8.1,58908.19,Electric Blue,Netherlands,5.0,0.0,5.0,957,3
+569,Rimac,Nevera,2019,Lithium-iron phosphate,113.5,440,Vehicle-to-Load (V2L),11.4,110472.15,Lime Green,Italy,5.0,0.0,,10905,3
+570,Ferrari,Ferrari EV (2025+),2016,Flow batteries,64.6,566,Plug-in Hydrogen Refueling,8.0,124209.83,Rose Gold,Vietnam,1.0,0.0,3.0,2920,4             
+571,Peugeot,e-2008,2016,Zinc-air,67.8,536,Mobile Charging,11.5,99230.02,White,Poland,,0.0,4.0,10474,4
+572,Faraday Future,FF 91,2023,Flow batteries,98.2,213,CCS,5.0,94595.15,Sunset Orange,Hungary,,0.0,4.0,14935,3
+573,Cadillac,Celestiq,2017,Lithium-titanate,106.5,510,Level 2 Charging,7.4,67066.97,Ice Silver,Canada,5.0,0.0,3.0,16220,4
+574,Dacia,Bigster EV (upcoming),2015,Magnesium-ion,63.3,523,Inductive (Wireless) Charging,10.3,142131.95,Crimson Red,South Korea,1.0,0.0,4.0,5216,3
+575,Lamborghini,Lanzador (upcoming EV),2020,Nickel-cobalt-aluminum,108.1,278,Plug-in Hydrogen Refueling,5.0,93341.33,Copper,Czech Republic,1.0,0.0,3.0,4289,4
+576,Citroen,Ami,2015,Calcium-ion,141.5,255,Vehicle-to-Home (V2H),8.0,99258.89,Candy Apple Red,New Zealand,1.0,0.0,3.0,299,4
+577,Renault,Megane E-Tech,2025,Magnesium-ion,148.5,175,Plug-in Hydrogen Refueling,11.4,81253.33,Titanium,Netherlands,0.0,0.0,3.0,3845,5
+578,Genesis,GV80 Electric,2024,Nickel-cobalt-aluminum,146.1,421,Plug-in Hydrogen Refueling,3.3,44256.31,Cream,Russia,4.0,0.0,4.0,2936,4
+579,Canoo,MPDV,2021,Lithium-sulfur,102.2,327,Overhead Pantograph Charging,0.6,43995.32,Orange,Russia,4.0,0.0,5.0,15712,4
+580,Seat,Avenger,2024,Nickel-metal hydride,69.9,430,Vehicle-to-Grid (V2G),3.9,45028.37,Purple,China,4.0,,3.0,12903,5
+581,Canoo,MPDV,2023,Nickel-manganese-cobalt,28.3,528,CCS,9.2,54895.65,Lime Green,Canada,4.0,0.0,,14654,4
+582,Jaguar,I-PACE,2017,Zinc-air,46.8,182,DC Fast Charging (DCFC),7.0,132174.01,Silver,UK,4.0,0.0,3.0,13862,5
+583,Tesla,Model 3,2019,Lithium-ion,143.0,365,Solar Charging,8.1,83390.43,Matte Green,Russia,4.0,0.0,5.0,17636,5
+584,Rivian,EDV (Electric Delivery Van),2016,Flow batteries,126.6,221,Level 2 Charging,2.7,65965.11,Titanium,Switzerland,4.0,0.0,4.0,4210,5
+585,GMC,Hummer EV SUV,2016,Lead-acid,53.1,295,NACS,5.1,39990.49,Gold,Vietnam,1.0,0.0,,8827,5
+586,Seat,Avenger,2020,Zinc-air,105.5,520,NACS,5.3,48418.97,Burgundy,Vietnam,4.0,0.0,5.0,3604,5
+587,Lamborghini,Lanzador (upcoming EV),2016,Sodium-ion,103.2,285,Mobile Charging,9.4,47559.56,Cobalt Blue,Austria,0.0,0.0,4.0,3440,3
+588,Porsche,Panamera EV,2024,Calcium-ion,124.9,148,Overhead Pantograph Charging,8.6,133847.8,Matte Gray,Portugal,0.0,,4.0,5920,4
+589,Faraday Future,FF 91,2022,Zinc-air,36.6,104,CHAdeMO,8.1,47120.42,Matte Green,Portugal,,0.0,5.0,8162,5
+590,Cadillac,Celestiq,2022,Nickel-metal hydride,77.1,281,Vehicle-to-Home (V2H),6.3,63098.76,Brown,South Africa,1.0,0.0,4.0,13320,4
+591,Hyundai,Kona Electric,2016,Lithium-titanate,51.2,147,NACS,7.1,40150.21,Copper,United Arab Emirates,0.0,0.0,5.0,4470,4
+592,Mahindra,XUV400,2021,Lithium-ion,100.1,566,Level 1 Charging,8.7,114311.01,Racing Red,Brazil,5.0,0.0,5.0,19962,3
+593,Cadillac,Celestiq,2017,Flow batteries,140.9,491,Ultra-Fast Charging (350 kW+),2.5,74046.11,Gray,Turkey,0.0,0.0,4.0,3710,4
+594,Skoda,Enyaq,2023,Calcium-ion,119.6,160,Solar Charging,3.9,65225.4,Electric Blue,USA,4.0,0.0,5.0,16892,3
+595,Changan,Q05,2022,Lithium-ion,66.2,415,Vehicle-to-Home (V2H),4.3,72467.13,White,Brazil,1.0,0.0,,14116,4
+596,Lucid Motors,Lucid Air,2023,Lead-acid,136.8,310,CCS,11.0,30829.25,Navy Blue,Spain,3.0,0.0,3.0,17577,4
+597,Kia,EV9,2025,Calcium-ion,77.1,171,Overhead Pantograph Charging,9.1,30697.23,Cosmic Purple,Denmark,,0.0,4.0,10853,3
+598,Mercedes-Benz,EQB,2022,Flow batteries,147.8,160,Vehicle-to-Grid (V2G),6.1,89468.11,Sky Blue,Italy,3.0,0.0,4.0,4306,3
+599,Kia,Soul EV,2017,Nickel-metal hydride,64.7,106,Ultra-Fast Charging (350 kW+),1.1,129580.29,Brown,Ireland,3.0,0.0,3.0,14055,3
+600,GMC,Hummer EV Pickup,2023,Nickel-metal hydride,52.4,492,CCS,10.4,149310.85,Forest Green,Vietnam,5.0,0.0,5.0,16460,5
+601,Porsche,Macan EV,2024,Flow batteries,102.5,217,CCS,2.0,34603.97,Metallic Silver,Sweden,4.0,,4.0,13346,5
+602,Subaru,Solterra,2018,Sodium-ion,75.4,131,Vehicle-to-Grid (V2G),7.9,66514.8,Bronze,Argentina,2.0,0.0,3.0,5955,3
+603,Tesla,Model S,2025,Lithium-titanate,61.8,246,Vehicle-to-Load (V2L),3.7,102782.62,Brown,Norway,3.0,0.0,3.0,447,5
+604,Lamborghini,Revuelto (PHEV),2020,Sodium-ion,116.4,285,Overhead Pantograph Charging,3.2,63113.63,Matte Blue,India,,,5.0,3943,3
+605,Jeep,Grand Cherokee 4xe (PHEV),2018,Lithium-titanate,78.0,150,DC Fast Charging (DCFC),11.3,104281.24,Magenta,New Zealand,1.0,0.0,3.0,6281,4
+606,Lamborghini,Lanzador (upcoming EV),2023,Sodium-ion,136.3,329,CCS,11.0,38125.02,Tan,South Africa,4.0,0.0,4.0,4224,4
+607,Chevrolet,Equinox EV,2015,Magnesium-ion,146.4,197,Plug-in Hydrogen Refueling,6.2,93896.38,Graphite Gray,China,4.0,0.0,4.0,19897,4
+608,Rivian,R1T,2015,Nickel-metal hydride,94.3,403,Level 1 Charging,10.6,124877.63,Sunset Orange,Turkey,4.0,0.0,4.0,8798,5
+609,Jaguar,I-PACE,2018,Lithium-ion,89.4,249,Level 2 Charging,7.9,143045.52,Bronze,Italy,0.0,0.0,3.0,17517,3
+610,Tesla,Roadster (upcoming),2020,Flow batteries,98.7,288,Mobile Charging,1.5,114655.41,Matte Gray,Spain,3.0,0.0,3.0,341,4
+611,Volvo,EX30,2017,Lithium-sulfur,146.3,375,CCS,8.8,112573.85,Ruby Red,Spain,5.0,0.0,4.0,7229,4
+612,Toyota,bZ4X,2024,Flow batteries,125.0,485,Plug-in Hydrogen Refueling,2.3,57806.78,Volcanic Yellow,Vietnam,3.0,,3.0,5770,3
+613,Ferrari,Roma PHEV,2017,Flow batteries,56.7,258,NACS,10.7,128099.9,Sky Blue,Ireland,1.0,,5.0,13189,3
+614,Renault,5 E-Tech,2015,Zinc-air,33.0,296,Level 1 Charging,1.8,31626.25,Titanium,Japan,,0.0,5.0,19648,3
+615,VinFast,VF 6,2016,Lead-acid,115.7,273,DC Fast Charging (DCFC),2.8,87651.05,Matte Green,Malaysia,2.0,0.0,3.0,17810,5
+616,Toyota,Lexus UX 300e,2023,Solid-state,22.8,122,CCS,6.8,42307.93,Titanium,Indonesia,,0.0,,13996,4
+617,Ford,E-Transit,2025,Lithium-sulfur,49.4,550,Plug-in Hydrogen Refueling,8.4,115782.14,Orange,Russia,0.0,0.0,4.0,11708,3
+618,GMC,Hummer EV SUV,2016,Sodium-ion,140.0,570,DC Fast Charging (DCFC),10.8,102540.77,Midnight Black,Vietnam,4.0,,5.0,9881,5
+619,Canoo,Pickup,2020,Aluminum-ion,33.5,569,Vehicle-to-Load (V2L),8.1,141945.82,Cobalt Blue,China,1.0,0.0,3.0,12799,4
+620,Renault,Kangoo E-Tech,2016,Solid-state,95.1,591,Battery Swapping,2.2,68766.41,Gray,Norway,2.0,0.0,5.0,13564,5
+621,VinFast,VF 8,2017,Magnesium-ion,142.7,571,Ultra-Fast Charging (350 kW+),4.9,95920.71,Matte White,Saudi Arabia,4.0,0.0,5.0,13822,5
+622,Ferrari,Ferrari EV (2025+),2018,Lithium-titanate,31.3,285,Level 1 Charging,2.8,132071.41,Turquoise,United Arab Emirates,1.0,0.0,,11447,4
+623,Opel,Corsa-e,2019,Nickel-manganese-cobalt,38.7,536,Vehicle-to-Grid (V2G),3.3,129338.62,Blue,Italy,,0.0,5.0,863,5
+624,Zeekr,Zeekr 009,2015,Lithium-titanate,33.8,397,DC Fast Charging (DCFC),6.0,101271.08,Pearl White,Germany,,,3.0,18650,4
+625,Ford,F-150 Lightning,2022,Lithium-titanate,38.2,370,Solar Charging,5.9,116706.89,Candy Apple Red,USA,1.0,,5.0,5687,5
+626,Mercedes-Benz,EQC,2021,Calcium-ion,75.1,585,Vehicle-to-Home (V2H),6.9,129542.19,Matte Green,Turkey,1.0,0.0,3.0,17088,4
+627,Volkswagen,ID.Buzz,2018,Nickel-cobalt-aluminum,100.5,212,Plug-in Hydrogen Refueling,2.6,119519.49,Matte Gray,Ireland,5.0,0.0,5.0,13274,4
+628,Mercedes-Benz,EQC,2020,Flow batteries,75.1,238,CCS,1.7,73524.2,Navy Blue,Mexico,,0.0,3.0,6943,5
+629,Tesla,Model X,2018,Lead-acid,46.2,575,Level 2 Charging,3.3,40204.72,Matte Green,Singapore,,0.0,3.0,10308,3
+630,Subaru,Solterra,2020,Magnesium-ion,56.7,303,Inductive (Wireless) Charging,4.1,76876.96,Teal,Italy,0.0,0.0,5.0,3309,5
+631,Faraday Future,FF 91,2015,Zinc-air,123.5,344,Level 2 Charging,3.8,48184.54,Sunset Orange,UK,0.0,0.0,3.0,4615,5
+632,Mercedes-Benz,EQE SUV,2022,Magnesium-ion,37.1,248,Overhead Pantograph Charging,7.7,142816.94,Silver,India,4.0,0.0,5.0,16302,3
+633,Faraday Future,FF 91,2017,Magnesium-ion,133.2,380,DC Fast Charging (DCFC),6.2,84576.94,Pearl White,Czech Republic,2.0,0.0,3.0,5871,5
+634,Opel,Mokka-e,2019,Nickel-manganese-cobalt,147.2,490,Vehicle-to-Home (V2H),8.0,46853.67,Orange,Singapore,2.0,0.0,5.0,4226,4
+635,BYD,Atto 3,2024,Sodium-ion,68.6,449,Vehicle-to-Grid (V2G),6.3,61539.29,Sky Blue,Japan,5.0,,5.0,18376,3
+636,Ford,Mustang Mach-E,2019,Nickel-cobalt-aluminum,40.6,304,DC Fast Charging (DCFC),3.1,134899.07,Lime Green,UK,3.0,0.0,4.0,3575,3
+637,Porsche,Taycan,2021,Magnesium-ion,76.3,305,Mobile Charging,1.2,71090.83,Gun Metal,Russia,5.0,0.0,3.0,17861,3
+638,Great Wall Motors,ORA Good Cat,2025,Lithium-iron phosphate,61.6,116,Plug-in Hydrogen Refueling,1.2,127024.03,Burgundy,Vietnam,1.0,,5.0,13858,4
+639,Honda,Honda e (discontinued),2017,Solid-state,38.4,240,Plug-in Hydrogen Refueling,1.4,134853.11,Candy Apple Red,Indonesia,5.0,0.0,3.0,3029,4
+640,Pininfarina,Battista,2017,Lithium-iron phosphate,65.4,314,Vehicle-to-Load (V2L),6.0,112659.66,Pearl White,Vietnam,5.0,0.0,5.0,19566,3
+641,Audi,A6 e-tron (upcoming),2024,Nickel-metal hydride,62.1,521,Mobile Charging,0.7,137580.13,Charcoal,Russia,0.0,0.0,4.0,17062,5
+642,Tesla,Model Y,2017,Flow batteries,78.4,596,CCS,0.9,119484.9,Metallic Silver,Indonesia,1.0,0.0,3.0,6263,5
+643,Ferrari,SF90 Stradale (PHEV),2020,Calcium-ion,67.3,254,Solar Charging,6.3,134130.98,Ice Silver,Russia,3.0,0.0,5.0,13954,5
+644,Citroen,ë-Spacetourer,2016,Aluminum-ion,42.9,319,Overhead Pantograph Charging,2.5,101387.02,Matte White,Vietnam,5.0,0.0,4.0,3251,3
+645,Faraday Future,FF 91,2016,Flow batteries,22.1,577,Vehicle-to-Grid (V2G),1.7,119993.24,Sapphire Blue,Saudi Arabia,,0.0,3.0,9499,4
+646,Rivian,R1T,2022,Lead-acid,69.5,200,Vehicle-to-Load (V2L),11.4,72073.64,Burgundy,Australia,5.0,0.0,3.0,12276,3
+647,MG,MG5 EV,2019,Aluminum-ion,105.6,257,Vehicle-to-Grid (V2G),8.2,30498.91,Tan,Japan,,,5.0,19659,4
+648,Pininfarina,Battista,2024,Nickel-cobalt-aluminum,51.4,598,Plug-in Hydrogen Refueling,2.7,107332.12,Titanium,South Korea,4.0,0.0,4.0,5692,4
+649,Rimac,Nevera,2021,Lithium-iron phosphate,32.9,510,CHAdeMO,6.3,105772.93,Burgundy,Thailand,5.0,0.0,3.0,10564,3
+650,Hyundai,Kona Electric,2015,Nickel-cobalt-aluminum,21.5,494,CHAdeMO,0.8,114909.11,Green,Singapore,5.0,0.0,5.0,11734,3
+651,Polestar,Polestar 3,2019,Lithium-iron phosphate,89.6,225,Plug-in Hydrogen Refueling,9.4,109110.92,Bronze,UK,5.0,,3.0,3635,4
+652,Cadillac,Lyriq,2016,Nickel-metal hydride,56.7,558,NACS,1.6,89309.41,Turquoise,Switzerland,3.0,0.0,4.0,2500,3
+653,Skoda,Enyaq Coupe,2021,Aluminum-ion,60.8,565,Vehicle-to-Home (V2H),9.8,51576.77,White,Norway,5.0,0.0,,11233,4
+654,Great Wall Motors,ORA Ballet Cat,2024,Lead-acid,20.7,367,Battery Swapping,11.2,53141.43,Black,Saudi Arabia,,0.0,4.0,3761,3
+655,Nissan,Ariya,2017,Lithium-iron phosphate,30.8,454,CHAdeMO,3.6,87788.98,Green,Brazil,5.0,0.0,4.0,14288,5
+656,XPeng,G6,2019,Nickel-metal hydride,45.7,533,Battery Swapping,11.6,42347.35,Burgundy,Israel,1.0,0.0,4.0,13885,5
+657,Peugeot,e-3008,2020,Zinc-air,34.0,296,Vehicle-to-Grid (V2G),2.8,72349.86,Emerald Green,China,0.0,0.0,4.0,9616,5
+658,Canoo,MPDV,2023,Sodium-ion,71.8,158,NACS,9.8,81526.42,Midnight Black,Brazil,1.0,0.0,4.0,4007,3
+659,Rimac,Nevera,2020,Lithium-iron phosphate,80.5,507,Mobile Charging,10.8,97396.87,Beige,Czech Republic,4.0,0.0,5.0,19919,5
+660,Audi,A6 e-tron (upcoming),2025,Nickel-cobalt-aluminum,108.7,322,Mobile Charging,9.9,53778.05,Blue,Russia,2.0,0.0,3.0,19707,4
+661,Jeep,Recon (upcoming),2018,Zinc-air,22.8,109,Level 1 Charging,11.0,64123.9,Titanium,Thailand,,0.0,4.0,533,3
+662,Great Wall Motors,ORA Good Cat,2021,Lithium-titanate,59.1,262,Overhead Pantograph Charging,5.1,96774.02,Purple,Russia,3.0,0.0,4.0,3978,4
+663,GMC,Hummer EV Pickup,2015,Lithium-iron phosphate,26.2,105,CHAdeMO,1.7,68743.08,Ice Silver,Vietnam,0.0,,4.0,17614,3
+664,Seat,Avenger,2019,Aluminum-ion,122.0,156,Level 2 Charging,11.4,39005.06,Pink,Finland,3.0,0.0,3.0,19118,4
+665,Jaguar,I-PACE,2020,Calcium-ion,39.2,399,Vehicle-to-Grid (V2G),7.8,110188.23,Matte Black,South Africa,3.0,0.0,4.0,15817,3
+666,Hyundai,Ioniq 6,2019,Lithium-titanate,30.8,385,Ultra-Fast Charging (350 kW+),8.1,118232.19,Electric Blue,China,,0.0,5.0,7082,4  
+667,Canoo,Pickup,2018,Nickel-manganese-cobalt,33.6,206,Mobile Charging,9.2,67419.05,Sunset Orange,Sweden,0.0,0.0,4.0,12634,4
+668,GMC,Hummer EV Pickup,2021,Lithium-iron phosphate,28.9,316,NACS,8.4,144179.35,Matte Green,France,,0.0,3.0,543,4
+669,Porsche,Panamera EV,2015,Nickel-manganese-cobalt,106.0,331,Overhead Pantograph Charging,3.6,141231.33,Green,Brazil,1.0,0.0,4.0,1741,4
+670,Toyota,Lexus RZ,2016,Lithium-ion,104.3,474,Vehicle-to-Grid (V2G),2.7,52733.96,Midnight Black,Ireland,4.0,0.0,5.0,1634,5
+671,Polestar,Polestar 2,2018,Solid-state,26.9,118,Battery Swapping,3.2,93855.81,Bronze,Austria,5.0,0.0,3.0,7205,5
+672,Canoo,MPDV,2019,Nickel-manganese-cobalt,46.7,502,Inductive (Wireless) Charging,4.5,64559.11,Gun Metal,Czech Republic,0.0,,5.0,15622,5
+673,Subaru,Solterra,2017,Sodium-ion,108.6,185,NACS,4.3,84625.96,White,New Zealand,0.0,,3.0,5594,5
+674,Citroen,ë-C4,2024,Sodium-ion,146.0,398,Level 1 Charging,6.1,59701.25,Orange,Japan,4.0,0.0,3.0,17212,5
+675,Mercedes-Benz,EQE,2016,Solid-state,59.6,476,Mobile Charging,5.7,118177.8,Matte White,Spain,2.0,0.0,,11554,4
+676,Dacia,Bigster EV (upcoming),2023,Magnesium-ion,106.3,542,Vehicle-to-Load (V2L),1.8,112294.1,Volcanic Yellow,Germany,,0.0,3.0,11704,4
+677,Nissan,Leaf,2024,Lithium-titanate,110.5,320,Overhead Pantograph Charging,2.9,40712.88,Beige,France,5.0,0.0,4.0,17265,3
+678,Honda,Honda e (discontinued),2020,Aluminum-ion,63.1,401,Vehicle-to-Grid (V2G),11.4,63149.66,Metallic Silver,Japan,5.0,0.0,4.0,14910,5
+679,VinFast,VF 8,2019,Solid-state,146.0,355,CHAdeMO,5.9,48027.33,Copper,Finland,1.0,0.0,4.0,510,4
+680,Chevrolet,Bolt EUV,2019,Calcium-ion,97.1,127,Vehicle-to-Load (V2L),4.0,81638.74,Lime Green,USA,,,5.0,18374,3
+681,Hyundai,Ioniq 6,2017,Lithium-titanate,45.6,399,DC Fast Charging (DCFC),3.8,33856.4,Teal,Belgium,5.0,0.0,3.0,8560,4
+682,Cadillac,Celestiq,2017,Zinc-air,76.7,548,Mobile Charging,9.8,46701.16,Navy Blue,Denmark,3.0,0.0,3.0,9743,5
+683,Acura,ZDX (with GM Ultium),2023,Nickel-metal hydride,68.9,548,Vehicle-to-Grid (V2G),1.6,93188.57,Ice Silver,Hungary,5.0,0.0,4.0,15287,4
+684,Li Auto,MEGA,2015,Aluminum-ion,92.7,590,Vehicle-to-Grid (V2G),1.5,46870.27,Magenta,Belgium,2.0,,5.0,9612,3
+685,Citroen,ë-Spacetourer,2017,Nickel-cobalt-aluminum,107.1,336,Vehicle-to-Home (V2H),10.2,40159.09,Bronze,France,0.0,0.0,5.0,10856,3
+686,Jaguar,I-PACE,2018,Lead-acid,38.7,479,Vehicle-to-Load (V2L),2.1,137406.28,Emerald Green,Sweden,2.0,0.0,4.0,6576,3
+687,Audi,e-tron,2017,Zinc-air,134.4,366,CCS,3.3,42432.84,Black,Turkey,0.0,0.0,4.0,6030,3
+688,Maserati,GranTurismo Folgore,2024,Flow batteries,77.1,436,CCS,5.5,106343.66,Midnight Black,Sweden,5.0,0.0,5.0,17913,3
+689,Great Wall Motors,ORA Lightning Cat,2019,Lithium-sulfur,106.8,591,Vehicle-to-Load (V2L),4.7,63021.76,Beige,France,3.0,,3.0,18488,4
+690,Tesla,Cybertruck,2019,Lithium-ion,103.9,557,Vehicle-to-Home (V2H),1.0,138847.01,Gray,Australia,3.0,0.0,4.0,16404,5
+691,Rivian,R1S,2023,Nickel-cobalt-aluminum,86.7,189,CHAdeMO,4.5,116305.09,Pink,Australia,1.0,0.0,4.0,12908,3
+692,Genesis,G80 Electric,2021,Nickel-manganese-cobalt,98.8,192,Battery Swapping,2.0,68889.19,Matte Blue,Brazil,3.0,,,5215,3
+693,Kia,Soul EV,2022,Aluminum-ion,108.3,265,Ultra-Fast Charging (350 kW+),11.8,127026.66,Volcanic Yellow,Belgium,,0.0,4.0,13764,3
+694,BMW,iX1,2019,Solid-state,24.9,483,DC Fast Charging (DCFC),5.6,74918.65,Emerald Green,Germany,2.0,,3.0,18801,5
+695,Lucid Motors,Lucid Air,2019,Nickel-manganese-cobalt,76.9,246,Ultra-Fast Charging (350 kW+),2.8,49450.75,Platinum,South Africa,1.0,,,3152,3
+696,Chevrolet,Bolt EUV,2015,Sodium-ion,120.7,390,DC Fast Charging (DCFC),4.4,111883.34,Volcanic Yellow,South Africa,1.0,0.0,4.0,11681,5
+697,Lamborghini,Revuelto (PHEV),2016,Nickel-manganese-cobalt,75.6,292,DC Fast Charging (DCFC),7.0,45263.09,Matte Black,Poland,,0.0,,17712,4
+698,Nissan,Leaf,2019,Aluminum-ion,127.7,299,Overhead Pantograph Charging,1.3,134576.8,Copper,China,1.0,0.0,5.0,10231,4
+699,GMC,Hummer EV Pickup,2023,Lithium-titanate,135.9,398,Vehicle-to-Load (V2L),11.3,148192.07,Ruby Red,Germany,,0.0,3.0,4564,3
+700,Lamborghini,Lanzador (upcoming EV),2025,Aluminum-ion,134.2,220,Vehicle-to-Load (V2L),1.3,143759.71,Sapphire Blue,Japan,0.0,0.0,5.0,2640,5
+701,Great Wall Motors,ORA Good Cat,2019,Lithium-titanate,25.4,118,Vehicle-to-Load (V2L),6.3,108040.44,Brown,New Zealand,1.0,,,6428,5
+702,Cadillac,Celestiq,2025,Flow batteries,115.9,382,Vehicle-to-Load (V2L),1.1,121881.78,Ice Silver,Italy,3.0,0.0,3.0,12049,4
+703,Lucid Motors,Lucid Gravity,2021,Aluminum-ion,27.5,218,DC Fast Charging (DCFC),7.3,57255.11,Racing Red,Saudi Arabia,0.0,0.0,3.0,2510,3
+704,Volkswagen,ID.6,2017,Lithium-sulfur,25.7,279,Ultra-Fast Charging (350 kW+),12.0,45565.95,Cream,New Zealand,5.0,,5.0,6745,4
+705,Dacia,Bigster EV (upcoming),2018,Nickel-manganese-cobalt,112.7,582,Overhead Pantograph Charging,9.5,65122.01,Ruby Red,Belgium,2.0,0.0,3.0,1769,4
+706,Li Auto,MEGA,2019,Solid-state,46.5,170,Ultra-Fast Charging (350 kW+),4.0,96355.88,Orange,Argentina,1.0,,4.0,14868,3
+707,Nissan,Ariya,2015,Lithium-sulfur,56.1,296,Solar Charging,10.0,40139.2,Bronze,Finland,0.0,0.0,3.0,7354,3
+708,NIO,ET9,2025,Nickel-cobalt-aluminum,89.2,438,Solar Charging,0.9,121559.56,Black,Ireland,2.0,0.0,5.0,7095,3
+709,Pininfarina,Battista,2021,Magnesium-ion,114.8,476,Level 2 Charging,9.8,96395.3,Volcanic Yellow,Czech Republic,4.0,0.0,5.0,17003,4
+710,Mercedes-Benz,EQS SUV,2022,Lithium-titanate,149.0,221,CHAdeMO,10.9,63684.02,Sky Blue,Portugal,,0.0,4.0,18713,4
+711,Chevrolet,Equinox EV,2019,Sodium-ion,54.9,228,Level 1 Charging,1.9,98212.93,Purple,Spain,3.0,0.0,4.0,1212,4
+712,Great Wall Motors,ORA Ballet Cat,2023,Lithium-iron phosphate,73.1,396,DC Fast Charging (DCFC),3.7,103239.42,Purple,China,2.0,0.0,4.0,4168,3
+713,Acura,ZDX (with GM Ultium),2017,Calcium-ion,100.3,125,Ultra-Fast Charging (350 kW+),1.8,34620.21,Sky Blue,Turkey,4.0,0.0,3.0,1992,5
+714,Honda,Honda Prologue,2015,Flow batteries,129.8,534,Overhead Pantograph Charging,6.7,35367.97,Forest Green,Brazil,,0.0,3.0,7765,3
+715,Rimac,Nevera,2025,Nickel-cobalt-aluminum,29.3,318,Solar Charging,2.1,69184.87,Burgundy,Argentina,3.0,0.0,4.0,1020,3
+716,BYD,Han EV,2019,Aluminum-ion,39.5,402,Level 1 Charging,1.7,55377.56,Purple,Turkey,5.0,0.0,4.0,7040,4
+717,Jeep,Wrangler 4xe (PHEV),2025,Lithium-titanate,39.5,490,DC Fast Charging (DCFC),11.5,145035.02,Crimson Red,Singapore,4.0,0.0,5.0,3972,5
+718,Faraday Future,FF 91,2024,Nickel-manganese-cobalt,105.7,366,Vehicle-to-Home (V2H),4.1,53402.83,Matte Green,Czech Republic,2.0,0.0,4.0,7565,4
+719,Rimac,Nevera,2018,Nickel-manganese-cobalt,115.3,550,Vehicle-to-Grid (V2G),4.7,72238.15,Graphite Gray,China,5.0,0.0,4.0,7528,5
+720,Canoo,Lifestyle Vehicle,2023,Lithium-iron phosphate,120.9,308,CHAdeMO,7.5,125502.71,Pink,Hungary,,0.0,3.0,18874,4
+721,Acura,ZDX (with GM Ultium),2017,Aluminum-ion,79.0,185,CCS,5.3,121861.15,Cosmic Purple,New Zealand,1.0,0.0,3.0,5470,3
+722,Volkswagen,ID.7,2023,Aluminum-ion,70.5,316,Overhead Pantograph Charging,2.0,113631.44,Forest Green,Czech Republic,,0.0,5.0,19947,5
+723,Kia,Soul EV,2016,Lithium-titanate,139.7,586,Vehicle-to-Home (V2H),11.0,105699.84,Racing Red,Vietnam,3.0,0.0,5.0,19318,5
+724,Hyundai,Ioniq 5,2015,Zinc-air,97.1,445,Vehicle-to-Home (V2H),4.9,82630.44,Graphite Gray,Israel,0.0,0.0,3.0,18485,5
+725,Lotus,Evija,2023,Calcium-ion,140.6,246,Mobile Charging,4.9,120876.03,Charcoal,Japan,5.0,0.0,4.0,17011,4
+726,Ferrari,Ferrari EV (2025+),2020,Solid-state,65.2,184,CCS,3.8,88396.29,Crimson Red,Netherlands,2.0,0.0,3.0,9130,3
+727,Kia,Niro EV,2023,Calcium-ion,86.1,186,Level 1 Charging,7.4,34769.4,Matte White,Saudi Arabia,0.0,0.0,4.0,6656,4
+728,Ferrari,Roma PHEV,2022,Lead-acid,36.4,332,Solar Charging,11.1,115950.11,Rose Gold,Canada,3.0,0.0,,4483,4
+729,Renault,Megane E-Tech,2020,Magnesium-ion,30.3,506,Ultra-Fast Charging (350 kW+),8.9,69253.89,Graphite Gray,Mexico,5.0,0.0,3.0,10315,3
+730,Zeekr,Zeekr 001,2023,Sodium-ion,44.8,385,Level 2 Charging,11.4,105274.21,Forest Green,Italy,1.0,0.0,3.0,15876,3
+731,Renault,Kangoo E-Tech,2019,Nickel-metal hydride,45.8,548,DC Fast Charging (DCFC),11.4,132858.82,Racing Red,Switzerland,,,3.0,5836,3
+732,Li Auto,L9,2024,Nickel-cobalt-aluminum,102.0,220,Overhead Pantograph Charging,6.1,108832.92,Midnight Black,Poland,2.0,0.0,5.0,12851,5
+733,Fisker,Pear (upcoming),2019,Solid-state,48.5,593,Solar Charging,5.3,83660.75,Forest Green,Vietnam,,0.0,3.0,11389,5
+734,XPeng,G6,2022,Calcium-ion,124.6,350,Vehicle-to-Grid (V2G),8.4,33475.51,Bronze,Turkey,3.0,,4.0,10407,4
+735,XPeng,P5,2021,Nickel-cobalt-aluminum,53.9,127,Battery Swapping,6.1,56273.78,Emerald Green,Japan,3.0,0.0,5.0,6756,5
+736,Jaguar,I-PACE,2017,Zinc-air,90.2,586,Level 1 Charging,9.7,40830.33,Cosmic Purple,Mexico,4.0,,,6896,4
+737,Maserati,Grecale Folgore,2017,Calcium-ion,89.6,540,Ultra-Fast Charging (350 kW+),3.8,49368.5,Turquoise,Mexico,4.0,0.0,3.0,656,5
+738,Kia,EV9,2022,Lithium-ion,40.4,254,Level 1 Charging,3.1,122689.4,Forest Green,Japan,0.0,0.0,4.0,4298,5
+739,Toyota,bZ4X,2016,Solid-state,85.6,460,Vehicle-to-Grid (V2G),0.7,119118.24,Matte White,Ireland,0.0,0.0,3.0,19847,4
+740,VinFast,VF 8,2021,Lead-acid,116.7,254,Battery Swapping,5.8,41961.51,Ruby Red,Singapore,2.0,0.0,4.0,18382,4
+741,Great Wall Motors,ORA Lightning Cat,2023,Lead-acid,51.8,108,Vehicle-to-Load (V2L),8.9,144174.89,Stealth Gray,Saudi Arabia,3.0,0.0,4.0,7605,4
+742,BYD,Dolphin,2024,Solid-state,103.6,270,CHAdeMO,9.8,147098.09,Yellow,United Arab Emirates,3.0,0.0,,13211,5
+743,Great Wall Motors,ORA Ballet Cat,2024,Magnesium-ion,50.2,492,Vehicle-to-Load (V2L),3.4,67374.59,Pink,Sweden,,0.0,3.0,8786,5
+744,Rivian,EDV (Electric Delivery Van),2022,Lead-acid,85.0,591,Ultra-Fast Charging (350 kW+),4.2,115064.18,Graphite Gray,United Arab Emirates,5.0,,5.0,2539,4
+745,Volkswagen,ID.2all,2015,Nickel-metal hydride,87.6,162,NACS,2.8,134369.9,Orange,Japan,3.0,,4.0,4583,5
+746,Lamborghini,Lanzador (upcoming EV),2021,Lithium-ion,58.6,322,Solar Charging,8.8,135627.14,Bronze,South Africa,2.0,0.0,4.0,17145,5
+747,Rivian,EDV (Electric Delivery Van),2020,Lead-acid,98.6,341,Vehicle-to-Home (V2H),2.9,69621.26,Racing Red,Italy,5.0,0.0,,13641,3
+748,Ford,Explorer EV (Europe),2016,Lithium-ion,60.5,196,Inductive (Wireless) Charging,8.5,94527.78,Pink,France,,0.0,4.0,18322,3
+749,Fisker,Ocean,2018,Lithium-sulfur,56.9,566,Vehicle-to-Grid (V2G),7.2,66690.04,Sapphire Blue,Thailand,4.0,0.0,3.0,19419,3
+750,Kia,Niro EV,2019,Nickel-metal hydride,54.2,152,CHAdeMO,9.7,100478.05,Navy Blue,India,4.0,0.0,5.0,15512,3
+751,Mercedes-Benz,EQC,2018,Lithium-iron phosphate,31.9,511,CHAdeMO,2.1,87055.68,White,Hungary,,0.0,4.0,13939,5
+752,Great Wall Motors,ORA Lightning Cat,2019,Lead-acid,118.8,223,Plug-in Hydrogen Refueling,4.8,76263.58,Aurora Blue,Brazil,4.0,0.0,,19837,3
+753,Mercedes-Benz,EQA,2017,Calcium-ion,76.8,326,Vehicle-to-Load (V2L),8.5,60064.68,Orange,United Arab Emirates,5.0,0.0,,11982,4
+754,Opel,Grandland Electric,2020,Lithium-titanate,75.1,415,Inductive (Wireless) Charging,4.9,51480.67,Racing Red,USA,2.0,0.0,,10170,4
+755,Kia,EV6,2019,Lead-acid,139.8,410,Battery Swapping,0.9,62994.17,Aurora Blue,Thailand,,0.0,5.0,1875,5
+756,Canoo,Lifestyle Vehicle,2022,Zinc-air,102.2,351,NACS,5.9,134992.42,Stealth Gray,Saudi Arabia,0.0,0.0,5.0,5019,5
+757,Peugeot,e-2008,2017,Solid-state,74.5,533,CCS,1.1,106497.38,Blue,Hungary,,0.0,3.0,546,4
+758,Skoda,Enyaq Coupe,2017,Aluminum-ion,148.2,469,Overhead Pantograph Charging,6.4,142865.42,Cream,Indonesia,5.0,,5.0,4833,5
+759,Toyota,bZ4X,2017,Nickel-manganese-cobalt,25.8,411,Inductive (Wireless) Charging,8.4,79110.18,Emerald Green,USA,4.0,0.0,5.0,2821,5
+760,Changan,SL03,2016,Aluminum-ion,31.8,473,DC Fast Charging (DCFC),2.6,100937.82,Black,Netherlands,1.0,0.0,5.0,8084,4
+761,Skoda,Elroq (upcoming),2018,Lithium-titanate,118.3,167,Solar Charging,1.1,114709.68,Midnight Black,Portugal,,0.0,3.0,8939,3
+762,Porsche,Panamera EV,2019,Lithium-titanate,77.1,147,Vehicle-to-Load (V2L),4.6,73633.58,Navy Blue,South Africa,5.0,0.0,5.0,12637,3
+763,Maserati,Grecale Folgore,2021,Sodium-ion,104.0,449,Solar Charging,2.9,113958.46,Graphite Gray,United Arab Emirates,2.0,,4.0,7151,4
+764,Honda,e:Ny1,2016,Lead-acid,105.6,195,Vehicle-to-Load (V2L),2.1,100418.49,Turquoise,Singapore,4.0,0.0,3.0,11759,3
+765,Mercedes-Benz,EQS SUV,2022,Sodium-ion,63.8,562,CCS,2.7,72960.54,Pearl White,Australia,0.0,0.0,5.0,18873,5
+766,Zeekr,Zeekr 007,2022,Calcium-ion,51.7,470,Overhead Pantograph Charging,7.4,87906.91,Cream,Poland,,0.0,5.0,3534,4
+767,Zeekr,Zeekr 009,2024,Nickel-cobalt-aluminum,97.1,183,NACS,11.1,136391.43,Ice Silver,South Africa,4.0,0.0,4.0,1762,3
+768,Subaru,Solterra,2020,Nickel-manganese-cobalt,71.5,335,Level 1 Charging,8.1,54048.78,Midnight Black,Poland,1.0,0.0,3.0,8019,3
+769,Skoda,Elroq (upcoming),2020,Lithium-ion,82.1,276,CCS,5.9,112414.37,Ice Silver,Switzerland,5.0,0.0,3.0,3139,4
+770,Volkswagen,ID.5,2017,Nickel-cobalt-aluminum,120.5,559,Solar Charging,9.9,117644.65,Brown,Ireland,0.0,0.0,5.0,881,3
+771,Cadillac,Lyriq,2018,Sodium-ion,67.1,356,Level 1 Charging,7.5,120202.14,Red,Austria,,,4.0,3042,4
+772,NIO,ET9,2021,Nickel-metal hydride,57.0,298,Vehicle-to-Load (V2L),0.9,145021.53,Tan,Norway,5.0,0.0,3.0,11347,5
+773,Renault,Megane E-Tech,2025,Calcium-ion,72.6,513,Level 1 Charging,2.4,45448.74,Graphite Gray,India,0.0,0.0,4.0,13843,3
+774,Subaru,Solterra,2019,Lithium-titanate,102.4,409,Vehicle-to-Home (V2H),6.3,123720.42,Cosmic Purple,Mexico,2.0,,4.0,17423,4
+775,Skoda,Enyaq,2017,Lithium-ion,63.8,578,Battery Swapping,2.8,127540.21,Volcanic Yellow,Australia,3.0,0.0,4.0,15081,4
+776,BMW,iX1,2025,Sodium-ion,52.8,272,Solar Charging,9.3,32823.64,Bronze,Norway,3.0,,5.0,1167,5
+777,Jaguar,I-PACE,2015,Lead-acid,116.0,227,NACS,1.5,41348.71,Volcanic Yellow,Sweden,3.0,0.0,4.0,7998,5
+778,Canoo,MPDV,2024,Nickel-manganese-cobalt,25.3,267,Overhead Pantograph Charging,0.9,103122.42,Volcanic Yellow,France,5.0,,5.0,9895,4
+779,XPeng,P7,2017,Lithium-titanate,53.4,434,DC Fast Charging (DCFC),10.1,82012.23,Orange,Denmark,2.0,0.0,3.0,1600,4
+780,Ferrari,Roma PHEV,2018,Magnesium-ion,141.6,240,NACS,3.7,110572.76,Gun Metal,Thailand,5.0,0.0,,6787,3
+781,VinFast,VF 9,2025,Nickel-metal hydride,55.7,336,Mobile Charging,1.6,56978.97,Cosmic Purple,Hungary,4.0,0.0,4.0,19264,4
+782,Acura,ZDX (with GM Ultium),2023,Nickel-cobalt-aluminum,81.8,385,Level 1 Charging,4.4,68357.14,Platinum,Malaysia,5.0,0.0,3.0,12781,4
+783,XPeng,P7,2025,Calcium-ion,94.3,140,Vehicle-to-Load (V2L),7.0,71435.9,Electric Blue,South Africa,2.0,0.0,4.0,968,3
+784,GMC,Hummer EV Pickup,2024,Sodium-ion,93.4,312,Level 1 Charging,9.1,64066.52,Racing Red,Russia,3.0,0.0,5.0,4046,3
+785,XPeng,G6,2018,Solid-state,94.2,191,NACS,9.3,148125.93,Cream,United Arab Emirates,1.0,0.0,4.0,11900,5
+786,Kia,EV6,2023,Lead-acid,89.2,215,Plug-in Hydrogen Refueling,6.2,85669.67,Platinum,Malaysia,1.0,0.0,,10946,4
+787,Genesis,GV70 Electric,2025,Aluminum-ion,32.8,397,Vehicle-to-Grid (V2G),11.7,79235.26,Emerald Green,Germany,1.0,0.0,3.0,19646,5
+788,Renault,Kangoo E-Tech,2015,Sodium-ion,99.3,185,Vehicle-to-Load (V2L),8.4,144221.53,Black,Ireland,5.0,0.0,3.0,5288,4
+789,BYD,Seagull,2018,Nickel-metal hydride,81.4,464,Inductive (Wireless) Charging,4.2,65157.83,Black,Switzerland,3.0,0.0,3.0,5795,4
+790,MG,MG ZS EV,2024,Calcium-ion,63.1,571,NACS,3.3,116645.55,Red,USA,5.0,0.0,4.0,12626,3
+791,VinFast,VF 9,2019,Aluminum-ion,113.1,161,Level 1 Charging,5.5,129330.46,Blue,Czech Republic,5.0,0.0,5.0,16762,5
+792,Genesis,G80 Electric,2021,Magnesium-ion,36.1,174,Battery Swapping,9.2,99577.44,Burgundy,Canada,2.0,0.0,3.0,15813,3
+793,Honda,e:Ny1,2020,Flow batteries,110.2,334,Vehicle-to-Load (V2L),9.2,120837.67,Pink,Czech Republic,2.0,0.0,5.0,9020,5
+794,Chevrolet,Bolt EUV,2017,Lead-acid,57.5,213,Overhead Pantograph Charging,7.0,115656.38,Magenta,Netherlands,2.0,0.0,4.0,5060,5
+795,Faraday Future,FF 91,2017,Zinc-air,58.0,296,Battery Swapping,7.8,33360.56,Electric Blue,Israel,4.0,,5.0,16935,4
+796,Great Wall Motors,ORA Ballet Cat,2017,Sodium-ion,103.7,400,Mobile Charging,6.5,75357.45,Champagne,Netherlands,3.0,,3.0,2121,4
+797,Volvo,EX30,2018,Lithium-iron phosphate,39.5,411,CCS,8.0,72780.18,Sunset Orange,Singapore,0.0,0.0,5.0,7483,5
+798,Lucid Motors,Lucid Gravity,2025,Lithium-ion,71.8,150,Mobile Charging,6.3,62576.83,Matte White,Saudi Arabia,0.0,0.0,3.0,8390,5
+799,Porsche,Macan EV,2018,Lithium-titanate,113.3,190,Level 2 Charging,11.8,61891.6,Bronze,UK,5.0,0.0,,4343,5
+800,Subaru,Solterra,2018,Lithium-iron phosphate,51.7,489,Vehicle-to-Load (V2L),5.8,94432.04,Burgundy,South Korea,5.0,,4.0,2732,4
+801,Lucid Motors,Lucid Air,2023,Zinc-air,47.9,349,Solar Charging,7.0,99805.63,Orange,Malaysia,1.0,0.0,4.0,16,4
+802,Citroen,ë-Spacetourer,2024,Lithium-sulfur,84.0,190,Mobile Charging,6.3,91704.03,Ruby Red,Poland,4.0,0.0,5.0,16484,4
+803,Acura,ZDX (with GM Ultium),2016,Magnesium-ion,142.9,349,Level 1 Charging,4.2,146922.53,Aurora Blue,Russia,0.0,0.0,3.0,14522,4
+804,Acura,ZDX (with GM Ultium),2018,Magnesium-ion,34.1,218,Inductive (Wireless) Charging,4.0,66646.06,Navy Blue,South Africa,5.0,0.0,5.0,5065,4
+805,Mercedes-Benz,EQB,2021,Magnesium-ion,42.3,180,NACS,4.2,91975.96,Aurora Blue,Ireland,5.0,0.0,4.0,9948,4
+806,Ford,E-Transit,2020,Lithium-titanate,66.0,481,Mobile Charging,5.7,81035.75,Cream,Indonesia,,0.0,,13395,4
+807,Genesis,GV70 Electric,2022,Magnesium-ion,55.6,519,Inductive (Wireless) Charging,2.9,116000.72,Copper,Argentina,,0.0,5.0,18349,5
+808,Lucid Motors,Lucid Air,2024,Lead-acid,77.2,240,CCS,1.4,49250.15,Volcanic Yellow,New Zealand,4.0,0.0,3.0,12781,5
+809,Dacia,Bigster EV (upcoming),2018,Lithium-sulfur,148.3,400,Plug-in Hydrogen Refueling,1.2,36733.75,Pink,Portugal,3.0,0.0,3.0,2424,4
+810,Opel,Grandland Electric,2021,Calcium-ion,39.7,177,Solar Charging,7.1,97420.37,Candy Apple Red,Belgium,4.0,0.0,5.0,9549,5
+811,Nissan,Leaf,2016,Calcium-ion,122.2,464,Mobile Charging,11.5,73347.55,Navy Blue,Malaysia,1.0,,4.0,11868,4
+812,Lucid Motors,Lucid DreamDrive,2019,Lithium-sulfur,98.5,577,Level 1 Charging,2.1,107068.83,Brown,Thailand,0.0,0.0,,16785,4
+813,Nissan,Ariya,2015,Lead-acid,133.5,267,Vehicle-to-Load (V2L),3.8,70050.31,Red,China,4.0,0.0,5.0,2874,5
+814,Changan,Q05,2025,Lithium-iron phosphate,117.7,492,Vehicle-to-Grid (V2G),9.9,85885.82,Racing Red,Sweden,0.0,,4.0,17292,5
+815,Peugeot,e-5008,2015,Nickel-cobalt-aluminum,94.7,103,Plug-in Hydrogen Refueling,0.7,57027.59,Brown,Sweden,1.0,0.0,5.0,14999,5
+816,Mini,Mini Electric,2024,Aluminum-ion,66.1,550,CHAdeMO,2.7,47794.06,Magenta,Norway,,0.0,3.0,4172,5
+817,Fisker,Ocean,2020,Calcium-ion,61.0,217,Inductive (Wireless) Charging,2.8,49594.67,Bronze,Austria,1.0,0.0,,14406,3
+818,NIO,ET5,2022,Calcium-ion,116.7,478,Inductive (Wireless) Charging,4.9,83617.49,Cream,Denmark,3.0,0.0,3.0,16603,5
+819,Renault,Megane E-Tech,2017,Magnesium-ion,47.3,581,Vehicle-to-Load (V2L),9.0,73006.84,Purple,Indonesia,0.0,0.0,4.0,16670,3
+820,Changan,SL03,2015,Nickel-cobalt-aluminum,124.4,304,CCS,4.6,143487.81,Titanium,China,5.0,0.0,3.0,12769,4
+821,Nissan,Ariya,2025,Aluminum-ion,62.0,172,Ultra-Fast Charging (350 kW+),2.5,31112.87,Matte Black,Sweden,,0.0,,19536,3
+822,Peugeot,e-3008,2020,Zinc-air,73.9,180,Vehicle-to-Grid (V2G),2.5,142354.99,Charcoal,Norway,0.0,0.0,,6687,4
+823,XPeng,G9,2019,Zinc-air,61.7,501,Level 1 Charging,4.3,136658.45,Silver,Sweden,0.0,0.0,5.0,17209,3
+824,Mercedes-Benz,EQS,2015,Sodium-ion,136.6,147,Vehicle-to-Grid (V2G),11.9,43489.27,Aurora Blue,Australia,4.0,0.0,5.0,23,4
+825,Great Wall Motors,ORA Lightning Cat,2019,Nickel-metal hydride,62.0,376,Overhead Pantograph Charging,11.5,110211.83,Yellow,New Zealand,4.0,,3.0,4672,3
+826,Mini,Mini Electric,2016,Lithium-titanate,72.5,554,CCS,3.4,60080.48,Volcanic Yellow,Poland,3.0,0.0,5.0,8740,3
+827,Rimac,Nevera,2020,Flow batteries,38.9,477,Level 2 Charging,9.1,125972.57,Emerald Green,South Korea,1.0,,3.0,5304,4
+828,Rimac,Nevera,2024,Nickel-manganese-cobalt,82.9,276,Inductive (Wireless) Charging,7.7,128038.74,Matte Green,Thailand,1.0,0.0,4.0,3860,5
+829,Toyota,Lexus UX 300e,2023,Aluminum-ion,63.9,556,NACS,3.4,126838.62,Champagne,United Arab Emirates,0.0,0.0,5.0,8613,3
+830,VinFast,VF 8,2021,Flow batteries,23.3,378,CHAdeMO,1.6,147010.55,Titanium,Canada,,0.0,4.0,10060,4
+831,Zeekr,Zeekr 001,2023,Nickel-metal hydride,71.7,581,Inductive (Wireless) Charging,2.1,111668.92,Navy Blue,Germany,5.0,0.0,3.0,18444,5
+832,Lotus,Eletre,2023,Sodium-ion,90.1,455,NACS,4.8,42016.57,Pearl White,Finland,5.0,,5.0,13894,3
+833,Toyota,bZ4X,2021,Lithium-sulfur,70.7,367,Vehicle-to-Grid (V2G),10.8,86160.5,Gray,Poland,,0.0,4.0,6840,5
+834,GMC,Hummer EV Pickup,2015,Magnesium-ion,73.3,173,Vehicle-to-Load (V2L),10.0,121751.15,Cobalt Blue,Belgium,1.0,0.0,3.0,8145,4
+835,Audi,e-tron GT,2019,Nickel-metal hydride,136.0,163,CHAdeMO,2.9,47089.01,Bronze,Hungary,,,3.0,19609,4
+836,Volvo,EX90,2019,Calcium-ion,36.2,480,Vehicle-to-Home (V2H),2.3,135627.23,Stealth Gray,Mexico,0.0,0.0,3.0,15287,4
+837,Jeep,Grand Cherokee 4xe (PHEV),2022,Magnesium-ion,57.8,367,CCS,1.5,117811.12,Gun Metal,Argentina,5.0,0.0,4.0,13817,3
+838,Acura,ZDX (with GM Ultium),2019,Calcium-ion,114.1,241,Battery Swapping,7.9,69459.56,Lime Green,Spain,0.0,,4.0,7954,5
+839,Mahindra,XUV400,2024,Nickel-cobalt-aluminum,106.5,153,Vehicle-to-Load (V2L),6.9,130489.44,Beige,Ireland,5.0,0.0,5.0,3230,5
+840,Kia,Soul EV,2018,Sodium-ion,95.4,463,Vehicle-to-Grid (V2G),9.9,116194.68,Silver,Brazil,3.0,0.0,5.0,1221,4
+841,Canoo,MPDV,2021,Flow batteries,138.1,210,NACS,0.8,143513.97,Yellow,Czech Republic,0.0,0.0,4.0,11750,5
+842,Fisker,Pear (upcoming),2018,Lithium-sulfur,78.0,124,Mobile Charging,5.8,148917.08,Gold,Netherlands,4.0,0.0,4.0,5637,4
+843,Hyundai,Ioniq 6,2020,Zinc-air,90.0,512,Ultra-Fast Charging (350 kW+),4.1,66700.22,Volcanic Yellow,UK,2.0,0.0,4.0,6624,4
+844,Dacia,Bigster EV (upcoming),2020,Sodium-ion,124.8,558,Overhead Pantograph Charging,9.2,145117.0,Purple,Germany,,0.0,5.0,18365,4
+845,Citroen,Ami,2023,Nickel-metal hydride,71.7,456,DC Fast Charging (DCFC),2.8,40865.07,Gun Metal,Thailand,1.0,0.0,4.0,4359,4
+846,Kia,EV6,2024,Zinc-air,146.2,265,Ultra-Fast Charging (350 kW+),5.6,34892.74,Matte Gray,Sweden,2.0,,5.0,7175,3
+847,Volvo,EX90,2025,Magnesium-ion,48.1,106,Solar Charging,3.3,32492.87,Sapphire Blue,New Zealand,3.0,0.0,3.0,13511,3
+848,Lotus,Evija,2021,Flow batteries,94.8,561,Plug-in Hydrogen Refueling,9.1,114809.51,Turquoise,Spain,2.0,0.0,4.0,17706,4
+849,Audi,e-tron GT,2020,Calcium-ion,127.6,459,Ultra-Fast Charging (350 kW+),9.6,99475.02,Yellow,Turkey,4.0,0.0,5.0,7465,5
+850,Fisker,Ocean,2022,Lithium-sulfur,94.7,127,Vehicle-to-Home (V2H),7.6,89655.95,Brown,China,1.0,,5.0,1885,4
+851,Great Wall Motors,ORA Ballet Cat,2017,Solid-state,108.7,133,Battery Swapping,7.1,143682.14,Volcanic Yellow,Germany,3.0,0.0,3.0,12984,3
+852,Mini,Mini Cooper SE,2019,Lead-acid,110.6,255,Mobile Charging,3.2,125809.96,Graphite Gray,Indonesia,,0.0,4.0,222,5
+853,BMW,iX3,2020,Zinc-air,35.6,600,DC Fast Charging (DCFC),7.6,93572.64,Volcanic Yellow,Netherlands,1.0,0.0,3.0,5938,3
+854,Genesis,G80 Electric,2016,Sodium-ion,31.6,584,Plug-in Hydrogen Refueling,7.1,143883.59,Beige,Indonesia,3.0,,3.0,10197,4
+855,Porsche,Cayenne Electric (upcoming),2019,Nickel-manganese-cobalt,31.8,233,Plug-in Hydrogen Refueling,2.8,72144.08,Ruby Red,UK,0.0,0.0,,19862,3
+856,Lamborghini,Revuelto (PHEV),2025,Sodium-ion,32.4,100,Level 1 Charging,0.6,76170.42,Black,Singapore,0.0,0.0,5.0,16325,3
+857,Maserati,Grecale Folgore,2020,Solid-state,133.4,567,CHAdeMO,7.4,98878.2,Candy Apple Red,Norway,3.0,,,17615,3
+858,Faraday Future,FF 91,2019,Solid-state,65.4,192,NACS,10.9,89718.13,Gun Metal,Sweden,2.0,0.0,5.0,12741,4
+859,Jaguar,I-PACE,2020,Lithium-iron phosphate,67.5,222,Vehicle-to-Load (V2L),2.7,78514.16,Teal,South Korea,3.0,0.0,5.0,19370,3
+860,Lotus,Eletre,2025,Flow batteries,61.7,369,Plug-in Hydrogen Refueling,9.2,107183.82,Copper,Hungary,,0.0,5.0,13969,4
+861,Zeekr,Zeekr 007,2016,Nickel-manganese-cobalt,23.1,153,Mobile Charging,7.0,103159.59,Magenta,Russia,2.0,0.0,5.0,1364,3
+862,Hyundai,Ioniq 6,2024,Lithium-titanate,137.0,377,NACS,7.9,118710.85,Matte White,Germany,,0.0,5.0,1718,5
+863,Zeekr,Zeekr X,2023,Sodium-ion,108.5,122,Inductive (Wireless) Charging,1.6,143995.72,Crimson Red,Hungary,,0.0,5.0,510,3
+864,NIO,ES6,2016,Aluminum-ion,57.8,563,Ultra-Fast Charging (350 kW+),8.1,139829.4,Pink,Norway,1.0,0.0,3.0,5109,3
+865,Cadillac,Lyriq,2024,Flow batteries,53.6,572,Vehicle-to-Grid (V2G),8.3,115220.69,Emerald Green,Poland,5.0,0.0,5.0,335,4
+866,Canoo,Pickup,2021,Lithium-sulfur,129.5,197,Vehicle-to-Load (V2L),3.4,31251.56,Ice Silver,Thailand,,0.0,5.0,7306,3
+867,Acura,ZDX (with GM Ultium),2016,Nickel-metal hydride,137.3,350,DC Fast Charging (DCFC),2.6,69285.43,Racing Red,Spain,5.0,0.0,5.0,9386,4
+868,Ferrari,Roma PHEV,2016,Magnesium-ion,35.5,521,Inductive (Wireless) Charging,11.4,96570.0,Champagne,Denmark,,0.0,3.0,3650,3
+869,Chevrolet,Silverado EV,2017,Solid-state,119.1,512,DC Fast Charging (DCFC),3.3,103838.5,Candy Apple Red,Sweden,0.0,0.0,3.0,6895,5
+870,Rimac,Nevera,2024,Lithium-ion,143.3,274,Battery Swapping,11.1,72014.07,Metallic Silver,South Korea,1.0,0.0,3.0,6028,5
+871,Lucid Motors,Lucid Gravity,2025,Lithium-titanate,77.1,546,Vehicle-to-Home (V2H),1.3,59493.13,Matte Black,Czech Republic,1.0,0.0,3.0,2134,4
+872,Lotus,Evija,2015,Zinc-air,113.7,470,Mobile Charging,4.8,47218.38,Yellow,Austria,,,,12698,5
+873,Jaguar,I-PACE,2025,Lithium-ion,93.3,137,Level 1 Charging,8.0,139297.37,Matte Green,India,4.0,0.0,3.0,16074,5
+874,Honda,Honda Prologue,2025,Nickel-manganese-cobalt,82.3,560,CHAdeMO,5.7,135533.32,Crimson Red,Sweden,5.0,,4.0,5253,4
+875,Peugeot,e-208,2021,Magnesium-ion,59.0,121,Vehicle-to-Home (V2H),5.2,135576.6,Rose Gold,Austria,1.0,0.0,4.0,13799,4
+876,Changan,Q05,2022,Nickel-manganese-cobalt,143.8,337,Overhead Pantograph Charging,4.4,109844.81,Gray,South Africa,1.0,0.0,5.0,11908,4
+877,Lamborghini,Lanzador (upcoming EV),2020,Flow batteries,59.9,301,CHAdeMO,5.9,95139.44,Candy Apple Red,Poland,4.0,0.0,4.0,18077,3
+878,Mini,Mini Cooper SE,2023,Nickel-cobalt-aluminum,43.4,326,Level 1 Charging,8.5,76316.48,Lime Green,Norway,5.0,0.0,5.0,13168,5
+879,VinFast,VF 7,2017,Nickel-cobalt-aluminum,61.1,225,CHAdeMO,9.3,88402.2,Sapphire Blue,Finland,5.0,0.0,3.0,2809,3
+880,Tesla,Model S,2020,Calcium-ion,31.7,576,Overhead Pantograph Charging,2.8,48072.35,Electric Blue,Poland,2.0,0.0,4.0,15567,4
+881,Dacia,Jogger Hybrid,2019,Lithium-sulfur,33.2,387,NACS,10.9,48242.03,Tan,Canada,4.0,0.0,5.0,15386,5
+882,Toyota,Lexus UX 300e,2018,Solid-state,106.3,175,Vehicle-to-Home (V2H),1.6,34725.4,Beige,New Zealand,1.0,0.0,4.0,14448,5
+883,Ferrari,SF90 Stradale (PHEV),2022,Aluminum-ion,22.6,351,Overhead Pantograph Charging,10.7,148537.84,Turquoise,China,4.0,0.0,3.0,3636,5
+884,Lucid Motors,Lucid DreamDrive,2020,Lithium-sulfur,112.5,585,DC Fast Charging (DCFC),4.6,148028.51,Champagne,Germany,4.0,0.0,4.0,6292,5
+885,Toyota,Lexus UX 300e,2015,Nickel-manganese-cobalt,61.4,185,Level 2 Charging,8.0,114061.79,Gold,Malaysia,2.0,,5.0,15010,5
+886,Hyundai,Ioniq 6,2023,Lithium-ion,37.0,600,Level 1 Charging,8.9,32305.46,Beige,Denmark,3.0,0.0,4.0,12292,4
+887,BYD,Atto 3,2021,Nickel-cobalt-aluminum,111.9,167,Overhead Pantograph Charging,8.8,96285.92,Champagne,Czech Republic,3.0,0.0,,10440,5
+888,Jaguar,I-PACE,2017,Magnesium-ion,119.1,224,DC Fast Charging (DCFC),2.5,37795.1,Matte Green,Belgium,0.0,,,11178,5
+889,Audi,e-tron GT,2024,Flow batteries,145.5,596,Vehicle-to-Home (V2H),7.8,69708.08,Lime Green,France,0.0,0.0,5.0,2659,3
+890,Hyundai,Kona Electric,2015,Nickel-cobalt-aluminum,122.9,219,Inductive (Wireless) Charging,1.1,39529.43,Purple,South Africa,1.0,0.0,5.0,6096,4
+891,Mazda,MX-30,2022,Nickel-metal hydride,86.0,140,NACS,11.7,61591.39,Matte White,Singapore,5.0,,3.0,6129,4
+892,Citroen,ë-C4,2017,Nickel-cobalt-aluminum,102.6,403,Solar Charging,7.4,90798.53,Copper,Switzerland,2.0,0.0,5.0,8246,4
+893,Citroen,ë-C4,2016,Lithium-ion,28.2,276,Level 2 Charging,7.6,128124.42,Green,Malaysia,,0.0,,19272,4
+894,Seat,Avenger,2024,Lithium-sulfur,114.5,263,Vehicle-to-Home (V2H),4.6,127315.84,Turquoise,Russia,3.0,0.0,3.0,7474,5
+895,Mercedes-Benz,EQC,2020,Nickel-cobalt-aluminum,80.4,336,Mobile Charging,11.1,131577.79,Cream,Australia,3.0,0.0,4.0,13749,3
+896,Volkswagen,ID.2all,2020,Nickel-cobalt-aluminum,148.7,423,CHAdeMO,5.1,31674.02,Burgundy,Norway,1.0,0.0,,15475,3
+897,Toyota,Lexus RZ,2018,Lithium-ion,84.7,181,Solar Charging,10.0,132457.76,Bronze,Austria,4.0,0.0,3.0,15969,5
+898,BMW,i4,2016,Solid-state,143.9,461,Vehicle-to-Load (V2L),7.5,46977.34,Matte Black,Russia,3.0,0.0,5.0,5197,4
+899,Acura,ZDX (with GM Ultium),2025,Zinc-air,75.8,162,CHAdeMO,6.6,70931.67,Turquoise,Italy,3.0,,4.0,8064,3
+900,Rimac,Nevera,2020,Flow batteries,139.0,597,Vehicle-to-Load (V2L),9.5,96599.49,Matte Green,Mexico,1.0,0.0,5.0,7501,5
+901,Jeep,Grand Cherokee 4xe (PHEV),2018,Nickel-manganese-cobalt,93.2,555,Level 1 Charging,4.1,135687.38,Beige,Sweden,0.0,0.0,5.0,8716,3
+902,Geely,Geometry C,2018,Magnesium-ion,120.1,464,CHAdeMO,4.7,123331.11,Aurora Blue,Belgium,0.0,0.0,4.0,18411,3
+903,VinFast,VF 8,2020,Nickel-manganese-cobalt,148.1,409,Inductive (Wireless) Charging,10.0,107500.99,Gun Metal,Ireland,,0.0,3.0,17154,5
+904,Mazda,MX-30,2021,Nickel-cobalt-aluminum,111.1,536,Level 1 Charging,3.9,54508.8,Copper,Germany,,0.0,4.0,15235,3
+905,Geely,Emgrand EV,2021,Lead-acid,40.4,327,Mobile Charging,1.7,62826.25,Bronze,Denmark,3.0,0.0,4.0,555,3
+906,BMW,i4,2023,Nickel-manganese-cobalt,67.9,261,Plug-in Hydrogen Refueling,6.8,105466.84,Ruby Red,Hungary,2.0,0.0,5.0,9270,4
+907,Ferrari,Ferrari EV (2025+),2015,Aluminum-ion,86.5,470,CHAdeMO,6.2,141233.85,Gray,Sweden,,,3.0,11806,4
+908,Pininfarina,Battista,2021,Sodium-ion,117.6,352,Plug-in Hydrogen Refueling,6.8,92961.52,Ruby Red,Thailand,4.0,0.0,4.0,5212,3
+909,Citroen,ë-Spacetourer,2018,Lithium-iron phosphate,27.3,449,Level 1 Charging,1.1,131147.18,Crimson Red,New Zealand,,0.0,3.0,4511,5
+910,Rimac,Nevera,2021,Magnesium-ion,102.5,302,Level 1 Charging,6.4,64756.73,Black,Indonesia,0.0,0.0,,7520,5
+911,Mahindra,XUV400,2020,Lithium-titanate,30.5,551,Overhead Pantograph Charging,6.4,129484.4,Cream,Switzerland,0.0,0.0,4.0,8704,5
+912,BYD,Atto 3,2021,Nickel-metal hydride,128.5,486,Battery Swapping,4.3,69246.97,Gold,Thailand,,0.0,,19771,5
+913,Mini,Mini Aceman,2021,Lithium-iron phosphate,44.0,121,Plug-in Hydrogen Refueling,9.8,119137.61,Electric Blue,Denmark,5.0,0.0,5.0,7023,5
+914,Canoo,Pickup,2020,Nickel-manganese-cobalt,27.1,420,Ultra-Fast Charging (350 kW+),7.0,136125.65,Gold,Switzerland,2.0,,4.0,6761,4
+915,Renault,Kangoo E-Tech,2020,Nickel-manganese-cobalt,147.9,408,NACS,11.1,87621.07,Gun Metal,Czech Republic,5.0,0.0,5.0,3514,3
+916,Nissan,Leaf,2015,Lithium-sulfur,140.9,255,Vehicle-to-Home (V2H),4.9,98173.31,Pearl White,France,,0.0,4.0,12216,3
+917,Toyota,Lexus RZ,2025,Lithium-ion,58.7,117,CCS,4.0,61527.08,Cobalt Blue,Switzerland,,0.0,3.0,15614,3
+918,Tesla,Model S,2016,Lithium-titanate,50.5,545,Battery Swapping,3.6,114345.21,Aurora Blue,China,1.0,0.0,4.0,979,3
+919,Mahindra,Born Electric (upcoming range),2022,Nickel-cobalt-aluminum,42.8,106,Level 2 Charging,8.1,145131.47,Bronze,Czech Republic,1.0,0.0,,8911,3
+920,Polestar,Polestar 5 (upcoming),2015,Flow batteries,25.7,388,Vehicle-to-Grid (V2G),6.9,114353.63,Burgundy,Austria,5.0,,5.0,12035,4
+921,Canoo,Pickup,2023,Nickel-metal hydride,68.5,561,Overhead Pantograph Charging,8.9,94892.04,Purple,Brazil,4.0,0.0,4.0,9582,3
+922,Canoo,MPDV,2022,Flow batteries,90.5,284,Vehicle-to-Grid (V2G),1.5,60384.04,Gray,Mexico,5.0,0.0,5.0,5383,3
+923,Pininfarina,Battista,2024,Sodium-ion,90.2,525,NACS,10.3,98843.11,Platinum,Switzerland,3.0,,3.0,16429,5
+924,Chevrolet,Equinox EV,2016,Zinc-air,20.5,578,NACS,9.0,112081.28,Burgundy,Mexico,2.0,0.0,5.0,12942,5
+925,Mini,Mini Cooper SE,2018,Zinc-air,65.6,308,CCS,3.1,107268.27,Charcoal,Denmark,4.0,0.0,3.0,10045,3
+926,Citroen,ë-Spacetourer,2019,Calcium-ion,47.2,426,CCS,11.4,52920.79,Black,Germany,1.0,,3.0,2196,4
+927,Geely,Geometry A,2021,Sodium-ion,106.0,105,Solar Charging,4.4,74989.91,Magenta,Vietnam,3.0,0.0,5.0,16100,3
+928,Mahindra,Born Electric (upcoming range),2020,Lithium-ion,53.3,342,Plug-in Hydrogen Refueling,9.2,122374.49,Brown,Israel,2.0,0.0,3.0,12450,3
+929,Mahindra,XUV400,2022,Lithium-sulfur,90.7,142,Ultra-Fast Charging (350 kW+),8.8,115873.02,Yellow,Australia,2.0,0.0,3.0,10579,4
+930,Lamborghini,Lanzador (upcoming EV),2018,Zinc-air,73.4,105,CHAdeMO,7.3,111029.12,Black,Turkey,4.0,,5.0,12719,5
+931,Genesis,GV60,2019,Zinc-air,35.3,364,Vehicle-to-Load (V2L),2.5,84207.11,Rose Gold,Netherlands,,0.0,5.0,5072,3
+932,Lucid Motors,Lucid Gravity,2022,Lithium-iron phosphate,20.7,497,NACS,9.4,35264.96,Midnight Black,Austria,5.0,0.0,5.0,14570,5
+933,Jaguar,I-PACE,2017,Nickel-metal hydride,37.2,584,Level 1 Charging,5.5,74001.08,Ice Silver,Vietnam,,0.0,5.0,17808,3
+934,Li Auto,MEGA,2015,Lithium-sulfur,76.7,459,Vehicle-to-Grid (V2G),1.3,40469.15,Lime Green,Brazil,4.0,0.0,3.0,3965,3
+935,Mercedes-Benz,EQS,2024,Nickel-metal hydride,106.4,328,Overhead Pantograph Charging,6.9,87345.57,Burgundy,Norway,0.0,0.0,3.0,9841,3
+936,Peugeot,e-5008,2015,Sodium-ion,27.8,503,Level 1 Charging,1.8,109909.34,Matte Blue,South Africa,,0.0,3.0,15741,3
+937,Lucid Motors,Lucid DreamDrive,2022,Nickel-manganese-cobalt,82.2,150,NACS,5.0,106007.59,Matte White,China,,,3.0,15652,5
+938,Audi,A6 e-tron (upcoming),2017,Lithium-iron phosphate,101.5,311,Overhead Pantograph Charging,11.3,129357.08,Tan,South Korea,0.0,0.0,3.0,6311,5
+939,Renault,Scenic E-Tech,2021,Nickel-manganese-cobalt,98.8,543,Ultra-Fast Charging (350 kW+),9.1,45279.16,Sapphire Blue,Turkey,5.0,0.0,3.0,19627,5
+940,Mazda,Mazda EV (upcoming models),2016,Nickel-cobalt-aluminum,98.0,313,DC Fast Charging (DCFC),7.0,114536.92,Navy Blue,Sweden,0.0,0.0,4.0,11189,4
+941,Maserati,GranTurismo Folgore,2019,Calcium-ion,143.3,361,Vehicle-to-Load (V2L),4.9,134539.09,Ice Silver,Israel,5.0,0.0,5.0,4497,4
+942,Pininfarina,Battista,2022,Sodium-ion,89.3,415,DC Fast Charging (DCFC),3.4,62185.4,Bronze,Czech Republic,1.0,0.0,3.0,18547,3
+943,Fisker,Pear (upcoming),2018,Calcium-ion,63.5,446,Vehicle-to-Grid (V2G),3.7,101731.26,Lime Green,Denmark,1.0,0.0,3.0,11845,5
+944,Maserati,GranTurismo Folgore,2018,Magnesium-ion,80.1,366,NACS,1.8,116729.11,Copper,Belgium,5.0,0.0,5.0,16284,4
+945,Polestar,Polestar 5 (upcoming),2022,Lithium-titanate,55.2,390,Vehicle-to-Home (V2H),6.7,47560.79,Gun Metal,China,3.0,0.0,3.0,2180,3
+946,Faraday Future,FF 91,2022,Nickel-manganese-cobalt,141.5,381,Battery Swapping,6.4,80459.18,Bronze,South Korea,5.0,0.0,4.0,14325,4
+947,Rimac,Nevera,2017,Nickel-metal hydride,36.0,489,Level 2 Charging,1.0,38433.6,Yellow,United Arab Emirates,1.0,0.0,5.0,13869,3
+948,Chevrolet,Equinox EV,2015,Lithium-ion,34.5,600,Battery Swapping,3.8,58881.63,Crimson Red,Finland,2.0,0.0,3.0,4971,3
+949,Lamborghini,Lanzador (upcoming EV),2018,Nickel-metal hydride,124.7,522,Plug-in Hydrogen Refueling,2.8,103955.6,Pearl White,UK,4.0,0.0,4.0,4081,3
+950,Polestar,Polestar 5 (upcoming),2018,Lithium-iron phosphate,79.7,184,NACS,11.1,63536.48,White,Belgium,3.0,0.0,4.0,14619,3
+951,Volvo,XC40 Recharge,2016,Nickel-cobalt-aluminum,112.6,326,CHAdeMO,9.0,76137.06,Sapphire Blue,India,,0.0,5.0,16106,4
+952,VinFast,VFe34 (discontinued),2020,Sodium-ion,22.7,359,Plug-in Hydrogen Refueling,10.1,102786.47,Turquoise,Sweden,4.0,0.0,3.0,13238,3
+953,Rivian,R1S,2020,Nickel-cobalt-aluminum,55.6,466,Solar Charging,10.8,75533.29,Aurora Blue,Germany,4.0,0.0,4.0,716,4
+954,Ferrari,Roma PHEV,2020,Nickel-cobalt-aluminum,22.7,323,Vehicle-to-Home (V2H),11.0,40735.31,Gold,Brazil,2.0,0.0,3.0,5522,3
+955,Jeep,Grand Cherokee 4xe (PHEV),2015,Nickel-cobalt-aluminum,67.4,489,Ultra-Fast Charging (350 kW+),1.5,139901.99,Green,Finland,0.0,0.0,4.0,14847,3
+956,Mazda,MX-30,2021,Lithium-sulfur,133.2,195,Ultra-Fast Charging (350 kW+),5.2,49995.46,Red,Austria,4.0,,5.0,5765,4
+957,Lamborghini,Lanzador (upcoming EV),2021,Aluminum-ion,41.8,108,Inductive (Wireless) Charging,7.4,39245.7,Navy Blue,France,1.0,0.0,5.0,12089,5
+958,Porsche,Macan EV,2023,Aluminum-ion,44.3,502,Level 1 Charging,4.2,50615.35,Bronze,Turkey,4.0,0.0,,4422,3
+959,BMW,i7,2017,Calcium-ion,37.2,541,Overhead Pantograph Charging,7.1,63513.25,Forest Green,Australia,0.0,0.0,5.0,1385,3
+960,NIO,ET9,2015,Lithium-sulfur,79.9,509,Vehicle-to-Load (V2L),8.3,77402.03,Matte White,Thailand,3.0,0.0,4.0,19841,5
+961,Dacia,Bigster EV (upcoming),2019,Lead-acid,141.8,185,Vehicle-to-Load (V2L),2.0,34370.0,Red,Ireland,2.0,,4.0,12318,4
+962,BYD,Han EV,2020,Nickel-manganese-cobalt,45.8,108,Inductive (Wireless) Charging,5.5,106614.44,Charcoal,Malaysia,5.0,,4.0,8011,3
+963,Nissan,Leaf,2022,Lithium-sulfur,83.3,338,Vehicle-to-Home (V2H),4.8,54563.09,Gray,Indonesia,1.0,0.0,3.0,9680,4
+964,BMW,i4,2022,Aluminum-ion,70.3,434,Vehicle-to-Grid (V2G),1.4,65274.12,Platinum,Turkey,0.0,0.0,4.0,2220,4
+965,Pininfarina,Battista,2019,Aluminum-ion,85.9,105,CCS,2.2,115332.6,Bronze,South Korea,,0.0,3.0,14691,4
+966,Pininfarina,Battista,2020,Zinc-air,62.5,288,Level 2 Charging,9.7,100274.54,Candy Apple Red,Russia,4.0,,5.0,18558,5
+967,Audi,e-tron GT,2021,Sodium-ion,105.9,325,Battery Swapping,2.2,121453.05,Metallic Silver,UK,2.0,0.0,,9925,3
+968,Volkswagen,ID.4,2021,Zinc-air,45.2,509,CHAdeMO,5.4,98182.42,Electric Blue,USA,1.0,0.0,4.0,2165,3
+969,Changan,SL03,2025,Nickel-manganese-cobalt,34.9,442,Vehicle-to-Home (V2H),9.8,71128.46,Volcanic Yellow,Argentina,2.0,0.0,5.0,10833,5
+970,Mini,Mini Cooper SE,2023,Nickel-metal hydride,106.8,527,Battery Swapping,9.8,123395.53,Forest Green,Austria,3.0,0.0,5.0,9849,4
+971,Renault,Kangoo E-Tech,2015,Zinc-air,59.0,541,Battery Swapping,1.7,47756.64,Crimson Red,Austria,1.0,0.0,3.0,17767,5
+972,BYD,Dolphin,2021,Nickel-cobalt-aluminum,93.7,253,DC Fast Charging (DCFC),3.3,104766.98,Lime Green,China,0.0,0.0,3.0,13573,4
+973,Nissan,Ariya,2020,Solid-state,60.0,349,Vehicle-to-Load (V2L),11.2,77561.36,Electric Blue,Thailand,1.0,0.0,3.0,11013,3
+974,Cadillac,Celestiq,2024,Nickel-cobalt-aluminum,130.9,151,DC Fast Charging (DCFC),1.4,118491.62,Charcoal,Saudi Arabia,0.0,0.0,5.0,4977,3
+975,Tesla,Model Y,2017,Lithium-ion,37.4,531,Overhead Pantograph Charging,8.3,140170.03,Ice Silver,Brazil,0.0,,4.0,3275,3
+976,Jeep,Wrangler 4xe (PHEV),2015,Zinc-air,20.0,572,Inductive (Wireless) Charging,9.6,137646.74,Platinum,Russia,,0.0,5.0,2348,5
+977,Mazda,MX-30,2016,Nickel-manganese-cobalt,98.8,233,NACS,7.9,113993.13,Yellow,Russia,5.0,0.0,4.0,5334,5
+978,Great Wall Motors,ORA Lightning Cat,2020,Lead-acid,59.8,434,Plug-in Hydrogen Refueling,5.3,141659.65,Burgundy,Poland,1.0,0.0,3.0,1205,3
+979,BMW,iX1,2016,Nickel-metal hydride,34.0,329,CHAdeMO,2.2,38813.06,Navy Blue,Mexico,4.0,0.0,4.0,4017,5
+980,Mini,Mini Aceman,2023,Lithium-titanate,96.4,579,Inductive (Wireless) Charging,10.8,108741.8,Turquoise,Netherlands,2.0,,,8263,4
+981,Porsche,Cayenne Electric (upcoming),2022,Flow batteries,145.7,501,Mobile Charging,5.7,127893.74,Racing Red,Vietnam,4.0,0.0,3.0,8211,4
+982,Hyundai,Ioniq 7 (upcoming),2020,Nickel-metal hydride,25.5,171,Ultra-Fast Charging (350 kW+),6.4,89442.92,Bronze,Denmark,3.0,,,11820,5
+983,Pininfarina,Battista,2020,Lithium-ion,33.6,495,Inductive (Wireless) Charging,2.9,69902.15,Lime Green,Turkey,3.0,0.0,5.0,6444,4
+984,Opel,Grandland Electric,2015,Nickel-manganese-cobalt,145.3,402,Solar Charging,6.7,120692.83,Silver,Czech Republic,3.0,0.0,3.0,15548,4
+985,Changan,Q05,2024,Lithium-iron phosphate,140.0,527,Ultra-Fast Charging (350 kW+),5.7,66033.9,Ruby Red,Japan,5.0,0.0,4.0,140,5
+986,Volvo,XC40 Recharge,2018,Calcium-ion,78.4,303,Level 1 Charging,5.4,145036.49,Cobalt Blue,Portugal,4.0,0.0,,10033,5
+987,Mini,Mini Electric,2022,Zinc-air,47.7,438,Solar Charging,9.5,132628.07,Beige,United Arab Emirates,1.0,0.0,5.0,14073,3
+988,Pininfarina,Battista,2022,Lithium-ion,32.9,576,Battery Swapping,2.4,65078.0,Gold,Indonesia,3.0,0.0,3.0,9462,4
+989,Maserati,Grecale Folgore,2016,Nickel-metal hydride,133.5,536,Level 1 Charging,11.5,37917.87,Navy Blue,Portugal,0.0,0.0,5.0,17517,4
+990,MG,MG ZS EV,2022,Flow batteries,99.9,502,DC Fast Charging (DCFC),4.6,41043.61,Midnight Black,India,4.0,0.0,5.0,2831,3
+991,Mercedes-Benz,EQE,2020,Nickel-metal hydride,87.9,453,Inductive (Wireless) Charging,6.0,140965.67,Emerald Green,Brazil,,0.0,4.0,3393,5
+992,Opel,Mokka-e,2018,Nickel-metal hydride,44.7,426,Vehicle-to-Load (V2L),9.4,119728.12,Red,Austria,3.0,0.0,4.0,12087,3
+993,Chevrolet,Bolt EV,2022,Lithium-iron phosphate,20.5,281,Level 1 Charging,11.9,142070.41,Ruby Red,Mexico,0.0,0.0,3.0,4393,3
+994,Cadillac,Optiq (upcoming),2023,Magnesium-ion,35.1,169,Vehicle-to-Load (V2L),6.2,149536.28,Volcanic Yellow,Mexico,,0.0,5.0,10389,3
+995,Subaru,Solterra,2019,Lithium-ion,131.6,128,Solar Charging,8.1,149808.37,Ice Silver,Spain,1.0,0.0,3.0,17398,4
+996,Audi,Q8 e-tron,2019,Lithium-titanate,59.0,111,Level 1 Charging,11.8,69330.46,Cosmic Purple,UK,4.0,0.0,4.0,3715,3
+997,Honda,Honda Prologue,2020,Aluminum-ion,36.1,395,Inductive (Wireless) Charging,7.2,39460.66,Blue,Portugal,4.0,0.0,3.0,17987,5
+998,Seat,Avenger,2023,Flow batteries,58.7,558,Plug-in Hydrogen Refueling,9.2,34888.49,Tan,UK,2.0,0.0,3.0,19277,3
+999,Kia,EV9,2015,Nickel-manganese-cobalt,125.2,307,CCS,3.5,100902.46,Matte Gray,Belgium,,,5.0,3403,5
+1000,Faraday Future,FF 91,2022,Lithium-iron phosphate,114.7,164,NACS,9.0,128661.08,Sky Blue,Turkey,3.0,,4.0,18897,5
+1001,Opel,Corsa-e,2022,Lead-acid,50.9,320,Inductive (Wireless) Charging,7.6,76612.94,Platinum,South Africa,1.0,0.0,5.0,9426,4
+1002,Polestar,Polestar 2,2021,Lithium-sulfur,104.3,354,Level 1 Charging,11.7,78665.4,Metallic Silver,Spain,4.0,,3.0,8152,3
+1003,Dacia,Jogger Hybrid,2018,Lithium-iron phosphate,116.8,474,DC Fast Charging (DCFC),8.4,45955.45,Electric Blue,Portugal,4.0,,3.0,450,4
