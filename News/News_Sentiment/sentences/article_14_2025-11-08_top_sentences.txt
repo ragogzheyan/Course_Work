@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia/china
+
+Top positive sentences:
+- (1.000) 30 Oct 2025 World Handshakes and whispers: Trump and Xi's meeting…in 73 seconds Trump says the meeting with President Xi, which was their first face-to-face interaction since 2019, was a "great success".
+- (0.999) 30 Oct 2025 World 300 million tourists just visited China's stunning Xinjiang region.
+- (0.998) Trump's week in Asia: BBC correspondents on the wins and potential losses Here's what you should know as the US president arrives for a whirlwind week of diplomacy.
+
+Top negative sentences:
+- (0.998) 4 days ago 5 days ago Shein bans all sex dolls after outrage over childlike products Every listing and image related to the sex dolls has been removed from Shein's platform, the firm says.
+- (0.998) 7 days ago 31 Oct 2025 Canada's Carney to visit Xi in China, marking 'turning point' in relations Finding it hard to reach a resolution of its trade dispute with the US after Trump suspended talks, Canada turns to other major economies.
+- (0.993) China controls the rare earths the world buys - can Trump's new deals change that?

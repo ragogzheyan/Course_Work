@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/australia
+
+Top positive sentences:
+- (1.000) 3 days ago 3 days ago 'Australia not a bunch of old-timers - they're an outstanding team' Australia's squad is older than England's and many are playing in their last Ashes, but they remain an outstanding team, says Stephan Shemilt.
+- (1.000) 4 days ago Culture Features & Analysis 'Australia not a bunch of old-timers - they're an outstanding team' Australia's squad is older than England's and many are playing in their last Ashes, but they remain an outstanding team, says Stephan Shemilt.
+- (0.998) 3 days ago Australia 'Addictive' diaries win prestigious non-fiction prize Helen Garner's How to End a Story: Collected Diaries is first diary to win Baillie Gifford prize.
+
+Top negative sentences:
+- (0.998) Messages in a bottle from WWI soldiers found on Australian coast The notes were thrown overboard just a few days into a voyage to join the battlefields of France more than a century ago.
+- (0.996) 4 days ago 4 days ago Who are the players in Australia's Ashes squad?
+- (0.996) Watch: Dolphin calf rescued from fishing line entanglement The mother and calf were spotted in late September, with the young dolphin’s swimming ability noticeably impeded by a fishing line caught around its tail.

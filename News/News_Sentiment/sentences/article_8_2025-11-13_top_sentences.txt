@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/scotland
+
+Top positive sentences:
+- (1.000) Good Morning Scotland The nation's morning news programme.
+- (0.998) Reporting Scotland: News at Seven More from the day’s top stories and communities across Scotland.
+- (0.997) Your pictures of Scotland A selection of photographs submitted to BBC Scotland News from around the country this week.
+
+Top negative sentences:
+- (1.000) 5 hrs ago Scotland Politics Tesco suspends fish farm after claims lice-infested salmon left in pen Bakkafrost Scotland says a "very small" number of fish were in a site that had been declared fallow.
+- (0.999) 8 hrs ago 8 hrs ago McGill's bus operator fined  almost £30,000 over faults McGill's Buses has been given a final warning by Richard Turfitt and told the problems had "severely tarnished" the reputation of two subsidiary companies.
+- (0.999) 10 hrs ago Scotland Chicken escape forces partial closure of busy trunk road Emergency services are trying to round up the birds after their trailer overturned near Dunblane.

@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/politics
+
+Top positive sentences:
+- (0.997) Watch: US election night's big winners… in 90 seconds Zohran Mamdani, who will become New York City's youngest mayor since 1892, said in his victory speech that his win was a 'mandate for change'.
+- (0.994) Ahead of Labour's annual conference, Laura Kuenssberg talks to ministers, MPs and advisers about Starmer's position.
+- (0.993) Chris Mason: Extraordinary Caerphilly by-election humbles Westminster's big beasts Plaid Cymru win 47% of the vote in a record turnout, while Labour and the Tories manage just 13% between them.
+
+Top negative sentences:
+- (1.000) 3 hrs ago Bid to oust education minister from office over Israel visit fails The move was set to fail as it needed cross-community support and unionist parties had already ruled out supporting it.
+- (0.999) As crises pile up, can the Home Office be fixed?
+- (0.999) Features and analysis Chris Mason: The justice system is failing - the buck stops with Lammy Problems in the prisons and the courts are not new but they are growing and the government doesn't have a grip on them.

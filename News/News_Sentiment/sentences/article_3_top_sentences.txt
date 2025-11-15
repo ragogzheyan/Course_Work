@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/uk
+
+Top positive sentences:
+- (1.000) Treasure finds in England reach record high - see how many were unearthed in your area Treasure finds in England have reached a record high according to provisional government figures.
+- (0.999) 10 hrs ago 18 hrs ago Catherine's Christmas service to feature stars including Kate Winslet This will be the fifth time that the Princess of Wales has led the Together at Christmas carol service.
+- (0.998) A look at the people who were the Disappeared from Northern Ireland's Troubles.
+
+Top negative sentences:
+- (1.000) 2 hrs ago UK Epstein email says Andrew had photo taken with Virginia Giuffre The message sent by Epstein reads: "Yes she [Giuffre] was on my plane and yes she had her picture taken with Andrew" 10 hrs ago US & Canada  'Failings at every level' resulted in botched insulation scheme, MPs told Wall insulation installed under two separate schemes was supposed to keep residents warm and dry, but instead left some homes damp and mouldy UK billionaire Joe Lewis receives pardon from Trump The businessman, whose family trust owns Tottenham Hotspur, pleaded guilty in 2024 to insider trading as
+- (0.999) As the BBC searches for a new chief, who are the potential candidates and is it a poisoned chalice?
+- (0.999) 'Not an easy job' - why would anyone want to be the new BBC director general?

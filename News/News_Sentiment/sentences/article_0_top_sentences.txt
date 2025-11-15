@@ -1,0 +1,11 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/topics/c2vdnvdg6xxt
+
+Top positive sentences:
+- (0.989) Bowen: Trump's role in Gaza ceasefire was decisive, but not a roadmap to peace Trump's Middle East visit was a victory lap - but peace does not emerge just because a president decides it.
+- (0.964) 'I'm 89 and I saw my homeland rebuilt before - but now I don't believe Gaza has a future' One Palestinian family shares their story of life coming full circle - and what they believe lies ahead as talk turns to rebuilding Gaza Watch and listen again on iPlayer and Sounds Jeremy Bowen: Chances of peace in the Middle East The BBC's International Editor reflects on the ongoing peace efforts Latest updates 3 hrs ago Israel receives body Hamas says belongs to hostage Confirmation of the remains would mean that only three deceased hostages' bodies now remain in Gaza.
+
+Top negative sentences:
+- (0.999) UN's top court says Israel obliged to allow UN aid into Gaza The court also says Israel has not substantiated its allegations against the UN agency for Palestinian refugees.
+- (0.997) Gaza doctors struggle to investigate 'signs of torture' on unnamed dead returned by Israel Photographs show bodies with multiple signs of injury and wrists tied behind their backs.
+- (0.997) Human stories Inside Gaza, BBC sees total devastation after two years of war With endless rubble and destroyed streets as far as the eye can see, any plans for Gaza's future are a far cry from where it is today, writes Lucy Williamson.

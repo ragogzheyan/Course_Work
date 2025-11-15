@@ -1,0 +1,11 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/wales/wales_politics
+
+Top positive sentences:
+- (0.976) 1 day ago Wales Reform calls for review into BBC and Plaid relationship Reform highlighted the party's leader and head of political strategy, both who worked for the BBC.
+- (0.940) 1 day ago Wales First Minister's Questions from the Senedd: 11 November 2025 Eluned Morgan is quizzed by opposition party leaders and other MSs during First Minister's Questions.
+
+Top negative sentences:
+- (1.000) 1 day ago Wales Jobless rise shows Labour plan failing, say Tories Tory Senedd leader says the first minister will not accept responsibility for Wales' economic woes.
+- (0.998) 50 mins ago Wales New NHS boss 'concerned' about health board targets Jacqueline Totterdell says the Betsi Cadwaladr health board may fall short of its waiting time targets.
+- (0.997) News News Wales Wales Politics Reform politician faces suspension over WhatsApp racial slur Laura Anne Jones used a racial slur to describe Chinese people, in August 2023, in a WhatsApp chat.

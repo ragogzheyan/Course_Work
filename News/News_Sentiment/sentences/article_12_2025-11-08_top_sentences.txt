@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/africa
+
+Top positive sentences:
+- (1.000) 22 hrs ago Africa Panache, parades and power: Africa's top shots A selection of the week's best photos from across the African continent and beyond.
+- (1.000) 22 hrs ago 1 day ago Panache, parades and power: Africa's top shots A selection of the week's best photos from across the African continent and beyond.
+- (1.000) Sport 'Flying' Sarr easing Crystal Palace's Eze loss Ismaila Sarr shines as Crystal Palace earn first home victory in Europa Conference League this term.
+
+Top negative sentences:
+- (0.999) Sudan's life-saving community kitchens on verge of collapse This follows confirmation by a global hunger monitor that famine conditions are spreading in conflict zones.
+- (0.998) Donald Trump says thousands of Christians are being killed in Nigeria - where has he got the numbers from?
+- (0.998) 1 day ago 1 day ago Sudan capital hit by drone attacks a day after RSF agrees to truce - reports The reported strikes come as the military-led government says it would be wary of agreeing to a ceasefire.

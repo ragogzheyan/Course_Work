@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/wales/wales_politics
+
+Top positive sentences:
+- (0.993) News News Wales Wales Politics Nato interest in 'lethal' Army vehicle, says minister The UK government says it's confident of allied interest in buying Wales-built Ajax armoured vehicle.
+- (0.993) 1 day ago Wales First Minister's Questions from the Senedd: 4 November 2025 Deputy First Minister Huw Irranca-Davies stands in for Eluned Morgan.
+- (0.991) 3 days ago Wales Lido and promenade part of seafront regeneration plans Proposals for Porthcawl also include new homes, public spaces and a hotel.
+
+Top negative sentences:
+- (0.999) 3 days ago Wales Plastic wrap veg ban 'could mean more food waste' Minister responds to a call to make shops offer fruit and veg loose when less than 1.5kg is bought.
+- (0.998) 1 day ago Wales Plans to license Airbnb style rentals outlined Self-catering holiday accommodation providers will need a license under Welsh government proposals.
+- (0.996) Fines of £100 as council bin inspectors check every home's rubbish Council officials have checked the waste of more than 32,000 properties since 2017 to improve recycling.

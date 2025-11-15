@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia/india
+
+Top positive sentences:
+- (1.000) Watch Fans celebrate India women's World Cup win India's women's cricket team beat South Africa by 52 runs in the final on Sunday night.
+- (0.999) Small-town India to cricket World champions: The women who made history Many women in India's cricket World Cup winning team come from small towns and humble beginnings.
+- (0.999) In Mamdani's New York win, India's Nehru finds an echo At his New York victory rally, Zohran Mamdani gave a nod to Nehru’s iconic speech marking India's independence.
+
+Top negative sentences:
+- (0.999) 2 days ago Asia Dozens detained after rare protest demanding Delhi clean up its toxic air Over the past three weeks, the air quality in Delhi and its suburbs has been hazardous, and it continues to worsen.
+- (0.999) 2 hrs ago 11 hrs ago Dozens detained after rare protest demanding Delhi clean up its toxic air Over the past three weeks, the air quality in Delhi and its suburbs has been hazardous, and it continues to worsen.
+- (0.998) 'I thought it was a prank' - How a Brazilian woman became the face of India vote fraud row Congress MP Rahul Gandhi alleges that Larissa Nery's photo appeared on the voters' list in Haryana 22 times.

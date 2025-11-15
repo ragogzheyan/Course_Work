@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/england
+
+Top positive sentences:
+- (0.999) Prince opens new access road he helped fund at football club The prince says it is a "privilege" to help Mousehole Football Club with the new road.
+- (0.999) Treasure finds in England reach record high Treasure finds in England have reached a record high according to provisional government figures.
+- (0.998) Swimming teacher twins, 80, 'feel at home' at pool The sisters, who have taught for decades, say age is not a barrier to sport.
+
+Top negative sentences:
+- (1.000) Runner's half marathon holiday 'ruined' by food poisoning Nicky Putman says she collapsed in a hotel lobby after becoming ill with food poisoning on holiday.
+- (1.000) 4 hrs ago 4 hrs ago PCC says cutting role 'won't improve anything' Police and crime commissioners are to be scrapped in England and Wales, the government has said.
+- (0.999) 2 days ago Watch as 1960s shopping centre demolished Rubble falls past an Anglia Square sign as heavy machinery begins to demolish the shopping precinct.

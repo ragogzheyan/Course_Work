@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/northern_ireland
+
+Top positive sentences:
+- (1.000) The Nolan Show Breaking news and hard-hitting talk about the big stories of the day.
+- (0.999) The View Mark Carruthers provides comment and expert analysis on the week's political news Spotlight Hard-hitting investigations on the stories that matter in Northern Ireland.
+- (0.999) Knitters create thousands of poppies to mark Remembrance Day Displays of military uniforms, diaries and medals are among the ways Ahoghill and Richhill are marking Remembrance Day.
+
+Top negative sentences:
+- (0.999) 35 mins ago Car burnt out in racially-motivated hate crime It happened in the Irish Green Street area of the town in the early hours of Friday, police say.
+- (0.999) 6 hrs ago 7 hrs ago Man dies after being struck by car The man was pronounced dead at the scene following a collision near Grange Lane on Thursday.
+- (0.999) 3 hrs ago Northern Ireland Politics Man dies after being struck by car The man was pronounced dead at the scene following a collision near Grange Lane on Thursday.

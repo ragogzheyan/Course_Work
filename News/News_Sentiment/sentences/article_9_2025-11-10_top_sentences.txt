@@ -1,0 +1,10 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/scotland/scotland_politics
+
+Top positive sentences:
+- (0.948) MSPs are set to vote on legislation which could allow the government to intervene in private land sales.
+
+Top negative sentences:
+- (0.998) Why is the government being sued for £170m over a recycling scheme?
+- (0.998) 6 hrs ago Scotland Politics Finance secretary may have to 'revisit' no tax rise pledge Shona Robison says the chancellor's Budget decisions later this month could put unforeseen pressure on Scotland's finances.
+- (0.998) Is the Scottish government softening on oil and gas?

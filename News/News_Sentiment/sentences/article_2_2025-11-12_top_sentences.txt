@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/us-canada
+
+Top positive sentences:
+- (0.999) Watch/Listen Watch: Trump and Obama honour US troops for Veterans Day The former president surprised nearly 80 veterans of the Korean and Vietnam wars landing on a special flight in Washington DC.
+- (0.998) 10 hrs ago 20 hrs ago Watch: Trump and Obama honour US troops for Veterans Day The former president surprised nearly 80 veterans of the Korean and Vietnam wars landing on a special flight in Washington DC.
+- (0.997) Watch: What New Yorkers want Mamdani to do as mayor The 34-year-old will become the city's first Muslim mayor and the youngest in more than a century when he is sworn in on 1 January 2026.
+
+Top negative sentences:
+- (1.000) Canada loses its measles-free status, with US on track to follow The country hasn't been able to curb an outbreak of more than 5,000 cases over the last year, while US cases are at a 33-year high.
+- (0.999) Is the US government shutdown over, and why did it happen?
+- (0.999) The coffee giant is returning to its roots to boost sales but labour tensions could derail the strategy.

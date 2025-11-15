@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/england
+
+Top positive sentences:
+- (0.999) 2 hrs ago 2 hrs ago Northern Lights dazzle across North West skies Greater Manchester, Lancashire and Merseyside were treated to a spectacular early hours display of the phenomenon.
+- (0.997) Cleve Hill is almost five times bigger than the next largest solar site in operation.
+- (0.997) 3 hrs ago Lincolnshire Pair behind John Lewis ad 'blown away' by reaction The advert, created by University of Lincoln alumni, has been praised for exploring masculinity.
+
+Top negative sentences:
+- (1.000) 2 hrs ago 2 hrs ago Council sees 'depressing' overspend on recycling The authority says money is being lost due to market fluctuations making recycling worth less.
+- (0.999) 3 hrs ago Liverpool Lidl 'sorry' for poppy sellers' parking tickets The supermarket in North Hykeham has apologised and confirmed the tickets have been cancelled.
+- (0.999) Watch/Listen Watch as 1960s shopping centre demolished Rubble falls past an Anglia Square sign as heavy machinery begins to demolish the shopping precinct.

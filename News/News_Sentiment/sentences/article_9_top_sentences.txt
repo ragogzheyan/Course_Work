@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/scotland/scotland_politics
+
+Top positive sentences:
+- (0.999) SNP take over running of Stirling Council An agreement has also been reached that sees the first Scottish Green join the administration.
+- (0.993) Breastfeeding rates in Scotland at record high Breastfeeding rates in Scotland are at the highest level since official records began, Public Health Scotland (PHS) data shows.
+- (0.986) Features and analysis Why the battle still rages over land ownership in Scotland The reaction to the Scottish government's wide-ranging new laws show the divided opinions on the issue.
+
+Top negative sentences:
+- (0.999) Finance secretary may have to 'revisit' no tax rise pledge Shona Robison says the chancellor's Budget decisions later this month could put unforeseen pressure on Scotland's finances.
+- (0.998) Why is the government being sued for £170m over a recycling scheme?
+- (0.997) Why Scotland's teachers want 90 minutes back Scotland's teachers are preparing to vote on industrial action over workload and time spent in front of pupils.

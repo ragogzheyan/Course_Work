@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/northern_ireland
+
+Top positive sentences:
+- (1.000) The Nolan Show Breaking news and hard-hitting talk about the big stories of the day.
+- (1.000) Huge sense of pride to play Roy Keane in new film, says Cork actor The film is based on the fallout between Roy Keane and Mick McCarthy during Ireland's 2002 World Cup preparations.
+- (0.999) The View Mark Carruthers provides comment and expert analysis on the week's political news Spotlight Hard-hitting investigations on the stories that matter in Northern Ireland.
+
+Top negative sentences:
+- (1.000) 20 mins ago Northern Ireland 'I'm losing dozens of shop customers over traffic nightmare' People call for political help over congestion on the 16-mile (26km) stretch of road between Drumahoe, near Londonderry, and Dungiven.
+- (0.999) 4 hrs ago 7 hrs ago 'I'm losing dozens of shop customers over traffic nightmare' People call for political help over congestion on the 16-mile (26km) stretch of road between Drumahoe, near Londonderry, and Dungiven.
+- (0.999) Man dies after being struck by car The man was pronounced dead at the scene following a collision near Grange Lane on Thursday.

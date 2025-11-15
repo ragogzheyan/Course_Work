@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia
+
+Top positive sentences:
+- (0.999) Features India's start-ups fire up public markets amid valuation concerns Start-up fundraising has raised uncomfortable questions about valuations, but  signals a maturing ecosystem.
+- (0.998) How an Afghan child bride became one of Europe's top bodybuilders Roya Karimi is getting ready to compete in the world bodybuilding championships, 15 years after fleeing Afghanistan.
+- (0.998) 16 hrs ago 16 hrs ago India's start-ups fire up public markets amid valuation concerns Start-up fundraising has raised uncomfortable questions about valuations, but  signals a maturing ecosystem.
+
+Top negative sentences:
+- (1.000) Once a sure thing, Australia's bid to host COP31 falters amid deadlock with Turkey If no agreement is reached between the two countries, the German city of Bonn will host by default.
+- (0.999) Taliban order women to wear burkas to access hospitals, charity says Médecins Sans Frontières (MSF) says each restriction "translates into delayed or denied medical care".
+- (0.999) 9 hrs ago 10 hrs ago Schools go hybrid as Delhi's air quality worsens Delhi's air quality has deteriorated to "severe" levels, which can seriously impact those with existing diseases.

@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/war-in-ukraine
+
+Top positive sentences:
+- (1.000) On the ground The 'Heroes of Kharkiv' who saved 48 children from kindergarten hit by Russian drone The story of a dramatic and heroic rescue that has captured the public imagination in Ukraine.
+- (0.995) 2 days ago Europe Ukrainians would like to watch comedies - but for now their culture is defined by war Nearly four years on from Russia's invasion, the arts are back but the war permeates everything.
+- (0.994) 3 days ago 3 days ago Ukrainians would like to watch comedies - but for now their culture is defined by war Nearly four years on from Russia's invasion, the arts are back but the war permeates everything.
+
+Top negative sentences:
+- (0.999) The new measures target Moscow's ability to fund its war machine, the US Treasury said.
+- (0.999) News News War in Ukraine Six dead as Russia hits energy and residential sites in Ukraine Overnight, 25 locations including Kyiv were hit, leaving many areas without electricity and heating.
+- (0.999) How would US Tomahawk missiles change the Ukraine-Russia war?

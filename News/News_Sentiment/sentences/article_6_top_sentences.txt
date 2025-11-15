@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/northern_ireland
+
+Top positive sentences:
+- (1.000) The Nolan Show Breaking news and hard-hitting talk about the big stories of the day.
+- (1.000) Northern Lights shine across Northern Ireland The Northern Lights, also known as the aurora borealis, are vibrant light displays that occur in the sky, usually near the polar regions.
+- (1.000) Catherine Connolly becomes 10th president of Ireland The Republic of Ireland's new president says "our actions today will shape the world our grandchildren will inherit".
+
+Top negative sentences:
+- (0.999) 9 hrs ago 10 hrs ago 'Big disappointment' as Christmas market cancelled Organisers of the market have raised safety concerns over a building which engineers fear may collapse.
+- (0.999) Ryanair scraps printed boarding passes to go fully digital The airline is only accepting digital boarding passes from Wednesday.
+- (0.999) Sinn Féin member expelled after partner's far-right arrest Sinn Féin's national spokesperson says the woman was expelled after "she failed to notify the party that her home was raided".

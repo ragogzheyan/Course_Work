@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/scotland
+
+Top positive sentences:
+- (1.000) 11 hrs ago 13 hrs ago Cash prize to boost new art talent in Jack Vettriano's memory An award of £7,500 will boost the career of a new talent following in his footsteps.
+- (1.000) Good Morning Scotland The nation's morning news programme.
+- (0.999) Norrie into Metz final with another comeback win Great Britain's Cameron Norrie fights back from a set down to win for the third match in succession, beating Lorenzo Sonego to reach the Moselle Open final.
+
+Top negative sentences:
+- (1.000) Lose weight or lose your jobs, offshore workers told Thousands of offshore workers are too heavy for the limitations of helicopter winch systems.
+- (1.000) News News Scotland Scotland Politics Lose weight or lose your jobs, offshore workers told Thousands of offshore workers are too heavy for the limitations of helicopter winch systems.
+- (0.999) Latest updates 6 hrs ago Lose weight or lose your jobs, offshore workers told Thousands of offshore workers are too heavy for the limitations of helicopter winch systems.

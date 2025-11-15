@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia
+
+Top positive sentences:
+- (0.999) 12 hrs ago 13 hrs ago Thai king becomes country's first monarch to visit China It's the first-ever visit to China by a reigning Thai monarch, amid warming bilateral ties.
+- (0.999) 12 hrs ago Asia Thai king becomes country's first monarch to visit China It's the first-ever visit to China by a reigning Thai monarch, amid warming bilateral ties.
+- (0.999) India's start-ups fire up public markets amid valuation concerns Start-up fundraising has raised uncomfortable questions about valuations, but  signals a maturing ecosystem.
+
+Top negative sentences:
+- (0.999) Taliban order women to wear burkas to access hospitals, charity says Médecins Sans Frontières (MSF) says each restriction "translates into delayed or denied medical care".
+- (0.998) Suicide bombing in Islamabad kills 12, says Pakistan's interior minister Mohsin Naqvi says the bomber tried to gain entry to a court complex but was unable to get inside.
+- (0.997) 23 hrs ago Asia  Australia at risk of 'high-impact sabotage' from China, says spy chief Mike Burgess says state-linked hackers have tried to access water, transport and energy networks.

@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/wales
+
+Top positive sentences:
+- (0.999) 7 hrs ago 11 hrs ago Church in Wales' first female archbishop seeks 'unity' Cherry Vann hails her appointment as the "right role for me at this time".
+- (0.999) Luke Evans leads 'gripping' new drama filmed in Wales Filming for The Party, which is based on the 2017 book by Elizabeth Day, has started.
+- (0.999) Actor Paul Whitehouse's 'pride' in Welsh roots The comedian visited Wales with fellow comedian Bob Mortimer in their TV show Gone Fishing.
+
+Top negative sentences:
+- (0.999) Features & analysis Botox was like going for coffee - but I had no idea if it was genuine Rules about administering drugs such as Botox and Mounjaro have not kept up, says Wales' regulator.
+- (0.999) 20 mins ago 24 mins ago Neurodivergent children left to 'fall through the cracks' Parents of "the gap children" with additional needs say suitable education provision is crucial.
+- (0.998) 5 hrs ago Wales Rugby hooker called prostitute in Virgin Media Welsh translation gaffe Virgin Media apologises after using Welsh word for prostitute to describe Wales hooker Ryan Elias.

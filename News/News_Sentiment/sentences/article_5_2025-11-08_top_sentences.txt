@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/england
+
+Top positive sentences:
+- (1.000) 'Huge milestone' as rare leopard cub born at zoo An Amur leopard cub is born at Dartmoor Zoo in a boost for conservation efforts.
+- (1.000) 10 hrs ago 11 hrs ago 'Huge milestone' as rare leopard cub born at zoo An Amur leopard cub is born at Dartmoor Zoo in a boost for conservation efforts.
+- (0.999) Eric Morecambe events will 'bring sunshine to all' Councillors back calls to mark Eric Morecambe's life on what would have been his 100th birthday.
+
+Top negative sentences:
+- (0.999) 11 hrs ago 14 hrs ago Residential special school to close in December Funding for Bradstow School is cut by Wandsworth Council due to its financial viability.
+- (0.999) 7 hrs ago Liverpool Met boss wants 'sub-standard senior officers' to leave An "exit route" is being offered for senior staff in the Met Police through voluntary pay-offs.
+- (0.999) 10 hrs ago 10 hrs ago Yorkshire news quiz of the week - test your knowledge How much Yorkshire news can you remember from the past seven days?

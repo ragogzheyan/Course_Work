@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/politics
+
+Top positive sentences:
+- (0.999) Morgan McSweeney is credited with masterminding Labour's landslide election victory.
+- (0.997) Watch: US election night's big winners… in 90 seconds Zohran Mamdani, who will become New York City's youngest mayor since 1892, said in his victory speech that his win was a 'mandate for change'.
+- (0.996) PM says BBC must 'put house in order' over mistakes Sir Keir Starmer says it "must uphold the highest standards" but supports "a strong, independent BBC".
+
+Top negative sentences:
+- (0.999) As crises pile up, can the Home Office be fixed?
+- (0.999) Features and analysis Henry Zeffman: Efforts to shore up Starmer's leadership may have backfired Briefings aimed at seeing off leadership plots may have left the PM more vulnerable, some in Labour fear.
+- (0.999) 3 hrs ago Politics UK growth slows after big fall in car production The cyber-attack on Jaguar Land Rover hit manufacturing and weighed on growth in the economy, figures show.

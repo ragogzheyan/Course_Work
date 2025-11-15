@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia
+
+Top positive sentences:
+- (0.999) Small-town India to cricket World champions: The women who made history Many women in India's cricket World Cup winning team come from small towns and humble beginnings.
+- (0.942) 6 hrs ago Asia Six dead after second typhoon in a week hits the Philippines Fung-wong was the 21st typhoon to hit the South East Asian nation this year.
+- (0.754) 23 hrs ago 1 2 3 4 5 ... 12
+
+Top negative sentences:
+- (1.000) 45 mins ago Asia Once a sure thing, Australia's bid to host COP31 falters amid deadlock with Turkey If no agreement is reached between the two countries, the German city of Bonn will host by default.
+- (1.000) Dozens detained after rare protest demanding Delhi clean up its toxic air Over the past three weeks, the air quality in Delhi and its suburbs has been hazardous, and it continues to worsen.
+- (0.999) 8 hrs ago Asia Modi says those behind Delhi blast that killed eight 'will not be spared' The blast happened near one of the Indian capital's most famous buildings, the 17th Century Red Fort.

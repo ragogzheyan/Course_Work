@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/wales
+
+Top positive sentences:
+- (1.000) 10 hrs ago 12 hrs ago New Tandy era aims to lift Wales from doldrums Wales kick-start a new era under Steve Tandy today, and fans will hope the arrival of the new head coach can help restore some pride to the Welsh jersey.
+- (0.999) 4 days ago Sport Williams wins fourth Para-surfing world title Llywelyn Williams wins a gold medal for the fourth consecutive year at the ISA World Para Surfing Championship in California.
+- (0.999) Actor Paul Whitehouse's 'pride' in Welsh roots The comedian visited Wales with fellow comedian Bob Mortimer in their TV show Gone Fishing.
+
+Top negative sentences:
+- (0.999) Features & analysis Botox was like going for coffee - but I had no idea if it was genuine Rules about administering drugs such as Botox and Mounjaro have not kept up, says Wales' regulator.
+- (0.998) Rugby hooker called prostitute in Virgin Media Welsh translation gaffe Virgin Media apologises after using Welsh word for prostitute to describe Wales hooker Ryan Elias.
+- (0.998) 6 days ago Lorry driver who blamed fatal crash on cough exposed by dashcam Mariusz Korkosz was driving incorrectly for almost 20 seconds before colliding head-on with a truck.

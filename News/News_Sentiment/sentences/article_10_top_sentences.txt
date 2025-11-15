@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/wales
+
+Top positive sentences:
+- (1.000) Features & analysis Northern Lights leave sky-gazers in awe A powerful solar storm allowed the Aurora Boraelis to be visible across north Wales.
+- (0.998) Rees-Zammit and Cracknell start for Wales v Japan Wales make four changes to their XV to face Japan with Louis Rees-Zammit making his first international start since 2023.
+- (0.998) We answer your questions.
+
+Top negative sentences:
+- (0.998) 2 days ago Wales Lorry driver who blamed fatal crash on cough exposed by dashcam Mariusz Korkosz was driving incorrectly for almost 20 seconds before colliding head-on with a truck.
+- (0.997) Watch/Listen Kebab shop families involved in 'disgraceful' street fight The court was shown CCTV footage of the brawl which left them with gash and slash wounds.
+- (0.997) 16 hrs ago Wales  Devolve policing when crime commissioners go, says Plaid Plaid says policing and justice powers must move to Cardiff when elected commissioners are scrapped.

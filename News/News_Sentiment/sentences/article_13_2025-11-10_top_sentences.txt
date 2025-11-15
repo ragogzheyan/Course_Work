@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia
+
+Top positive sentences:
+- (0.999) Small-town India to cricket World champions: The women who made history Many women in India's cricket World Cup winning team come from small towns and humble beginnings.
+- (0.995) China launches new aircraft carrier in naval race with the US The Fujian uses electromagnetic catapults that allow planes to strike from a greater distance.
+- (0.990) British grandmother flies home after 12 years on Indonesian death row Lindsay Sandiford, who was sentenced to death in Indonesia in 2013, was freed on humanitarian grounds.
+
+Top negative sentences:
+- (0.999) 12 hrs ago Business Dozens detained after rare protest demanding Delhi clean up its toxic air Over the past three weeks, the air quality in Delhi and its suburbs has been hazardous, and it continues to worsen.
+- (0.999) 10 hrs ago 11 hrs ago Dozens detained after rare protest demanding Delhi clean up its toxic air Over the past three weeks, the air quality in Delhi and its suburbs has been hazardous, and it continues to worsen.
+- (0.999) 2 hrs ago 6 hrs ago Seven dead after migrant boat sinks near Thai-Malaysian border Hundreds of Rohingyas, who fled Myanmar in hopes of a better life in Malaysia, remain missing.

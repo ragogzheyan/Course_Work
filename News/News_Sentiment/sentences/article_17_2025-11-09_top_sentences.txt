@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/europe
+
+Top positive sentences:
+- (0.995) Features & Analysis Ukrainians would like to watch comedies - but for now their culture is defined by war Nearly four years on from Russia's invasion, the arts are back but the war permeates everything.
+- (0.995) News News Europe What Hungary's Orban did - and didn't - get from Trump On the surface, the Hungarian PM's trip was exactly what he wanted, but the full picture is more complex, writes the BBC's Nick Thorpe.
+- (0.994) 2 days ago 2 days ago Ukrainians would like to watch comedies - but for now their culture is defined by war Nearly four years on from Russia's invasion, the arts are back but the war permeates everything.
+
+Top negative sentences:
+- (1.000) Watch: Moment nuclear plant towers collapse during demolition Two nuclear cooling towers in the town of Gundremmingen, Germany, collapse into large swirls of thick, white dust during demolition.
+- (0.999) Louvre criticised for spending money on art instead of security in years before heist Three weeks after the spectacular jewel theft at the Louvre, the museum is accused of neglecting safety and security.
+- (0.999) 2 days ago World Six dead as Russia hits energy and residential sites in Ukraine Overnight, 25 locations including Kyiv were hit, leaving many areas without electricity and heating.

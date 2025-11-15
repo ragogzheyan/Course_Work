@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/scotland
+
+Top positive sentences:
+- (1.000) 2 days ago 2 days ago Cash prize to boost new art talent in Jack Vettriano's memory An award of £7,500 will boost the career of a new talent following in his footsteps.
+- (1.000) Good Morning Scotland The nation's morning news programme.
+- (0.999) How Scotland shaped Frankenstein on page and screen The latest film of the classic tale uses Scottish locations which inspired director Guillermo Del Toro.
+
+Top negative sentences:
+- (1.000) Lose weight or lose your jobs, offshore workers told Thousands of offshore workers are too heavy for the limitations of helicopter winch systems.
+- (1.000) The organisers of Scotland's biggest music festival have been criticised for failing to book any female headliners for its ninth year in a row.
+- (0.999) A 20-minute date with a Tinder predator destroyed my life for years Nadia said the abuse started after she ended their date early because of "red flags".

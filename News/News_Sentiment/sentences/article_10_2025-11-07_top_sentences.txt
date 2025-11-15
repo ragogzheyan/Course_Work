@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/wales
+
+Top positive sentences:
+- (1.000) 3 hrs ago 3 hrs ago 'A big day for Tonmawr, a huge day for Wales' Steve Tandy says Sunday will be a proud day for him and the people of his home village Tonmawr, when he has his first game as head coach of Wales against Argentina.
+- (0.999) Features & analysis Actor Paul Whitehouse's 'pride' in Welsh roots The comedian visited Wales with fellow comedian Bob Mortimer in their TV show Gone Fishing.
+- (0.999) The Halloween house that has raised thousands for charity Danny Hargreaves house has become a yearly attraction for people at Christmas and Halloween.
+
+Top negative sentences:
+- (0.999) 7 hrs ago Wales Rugby club 'gutted' after floodlights stolen in series of thefts It is the latest in a series of thefts in Flintshire, with police carrying out "targeted patrols".
+- (0.999) 3 hrs ago 4 hrs ago Rugby club 'gutted' after floodlights stolen in series of thefts It is the latest in a series of thefts in Flintshire, with police carrying out "targeted patrols".
+- (0.999) 6 hrs ago Wales Botox was like going for coffee - but I had no idea if it was genuine Rules about administering drugs such as Botox and Mounjaro have not kept up, says Wales' regulator.

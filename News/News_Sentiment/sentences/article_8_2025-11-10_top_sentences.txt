@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/scotland
+
+Top positive sentences:
+- (1.000) In pictures: Autumn colours in Scotland BBC Weather Watchers have been capturing vibrant scenes across the country.
+- (1.000) Good Morning Scotland The nation's morning news programme.
+- (0.999) 2 hrs ago 7 hrs ago In pictures: Autumn colours in Scotland BBC Weather Watchers have been capturing vibrant scenes across the country.
+
+Top negative sentences:
+- (1.000) The organisers of Scotland's biggest music festival have been criticised for failing to book any female headliners for its ninth year in a row.
+- (0.999) 2 days ago 3 days ago Lose weight or lose your jobs, offshore workers told Thousands of offshore workers are too heavy for the limitations of helicopter winch systems.
+- (0.999) Latest updates 1 hr ago UWS lecturers end strikes after no compulsory redundancy 'guarantee' The EIS union says it has secured a deal meaning no compulsory redundances for academic staff.

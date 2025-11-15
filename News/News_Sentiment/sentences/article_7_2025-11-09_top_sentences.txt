@@ -1,0 +1,10 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/northern_ireland/northern_ireland_politics
+
+Top positive sentences:
+- (0.778) Any tax increase must be 'fair and progressive' UK Chancellor Rachel Reeves refuses to rule out rises, saying she will make the "necessary choices".
+
+Top negative sentences:
+- (1.000) 4 days ago Northern Ireland Politics Guidance for businesses on NI's post-Brexit trade deal 'not fit for purpose' The panel said information was "poorly presented, unwieldy and needs to be significantly improved".
+- (0.999) Education minister says he has been 'vilified' over Israel trip The DUP says Paul Givan is "going nowhere" after PBP submit a no confidence motion which is backed by Sinn Féin and the SDLP.
+- (0.998) 3 days ago Northern Ireland 'Sinister attack' on Alliance headquarters 'tried to incite fear' It was reported on Wednesday that graffiti had been sprayed onto external windows, door shutters and a fence.

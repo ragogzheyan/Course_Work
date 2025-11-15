@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia/china
+
+Top positive sentences:
+- (1.000) Handshakes and whispers: Trump and Xi's meeting…in 73 seconds Trump says the meeting with President Xi, which was their first face-to-face interaction since 2019, was a "great success".
+- (0.999) 300 million tourists just visited China's stunning Xinjiang region.
+- (0.994) 1 day ago Business China launches new aircraft carrier in naval race with the US The Fujian uses electromagnetic catapults that allow planes to strike from a greater distance.
+
+Top negative sentences:
+- (0.999) 7 days ago 8 days ago Shein bans all sex dolls after outrage over childlike products Every listing and image related to the sex dolls has been removed from Shein's platform, the firm says.
+- (0.998) 4 days ago Asia Shein bans all sex dolls after outrage over childlike products Every listing and image related to the sex dolls has been removed from Shein's platform, the firm says.
+- (0.996) 15 hrs ago 1 day ago China exempts chips used by carmakers from export curbs The block on exports of the company's chips had raised fears that European car production would be hit.

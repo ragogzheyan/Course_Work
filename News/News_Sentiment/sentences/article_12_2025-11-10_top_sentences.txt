@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/africa
+
+Top positive sentences:
+- (1.000) Panache, parades and power: Africa's top shots A selection of the week's best photos from across the African continent and beyond.
+- (1.000) Sport 'Flying' Sarr easing Crystal Palace's Eze loss Ismaila Sarr shines as Crystal Palace earn first home victory in Europa Conference League this term.
+- (0.999) Being Premier League's only black manager 'a privilege' - Sao Tome-born Nuno The West Ham boss says he is "honoured" to act as a role model and believes there are "a lot" of talented black coaches who can follow in his footsteps.
+
+Top negative sentences:
+- (0.999) Some residents in the heart of the South African city are living amid sewage in derelict buildings run by criminal gangs.
+- (0.999) Some residents in the heart of the South African city are living amid sewage in derelict buildings run by criminal gangs.
+- (0.999) 8 hrs ago 18 hrs ago Ahead of the G20, is Johannesburg's city centre in ruins?

@@ -1,0 +1,10 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/wales/wales_politics
+
+Top positive sentences:
+- (0.968) 5 hrs ago Wales UK's first small nuclear power station to be built in north Wales Three small modular reactors are confirmed for the site, with the potential for up to eight.
+
+Top negative sentences:
+- (1.000) 1 day ago Wales  Jobless rise shows Labour plan failing, say Tories Tory Senedd leader says the first minister will not accept responsibility for Wales' economic woes.
+- (0.998) New NHS boss 'concerned' about health board targets Jacqueline Totterdell says the Betsi Cadwaladr health board may fall short of its waiting time targets.
+- (0.997) News News Wales Wales Politics Devolve policing when crime commissioners go, says Plaid Plaid says policing and justice powers must move to Cardiff when elected commissioners are scrapped.

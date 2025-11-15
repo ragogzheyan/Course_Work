@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia/china
+
+Top positive sentences:
+- (1.000) Handshakes and whispers: Trump and Xi's meeting…in 73 seconds Trump says the meeting with President Xi, which was their first face-to-face interaction since 2019, was a "great success".
+- (0.999) 12 hrs ago 13 hrs ago Thai king becomes country's first monarch to visit China It's the first-ever visit to China by a reigning Thai monarch, amid warming bilateral ties.
+- (0.999) 300 million tourists just visited China's stunning Xinjiang region.
+
+Top negative sentences:
+- (0.999) How did it happen?
+- (0.998) 2 days ago World Moment newly opened bridge partially collapses in China Local authorities in the southwestern province of Sichuan say there are no reports of casualties following the collapse.
+- (0.998) 2 days ago Asia Australia at risk of 'high-impact sabotage' from China, says spy chief Mike Burgess says state-linked hackers have tried to access water, transport and energy networks.

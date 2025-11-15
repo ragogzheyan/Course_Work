@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/scotland
+
+Top positive sentences:
+- (1.000) Good Morning Scotland The nation's morning news programme.
+- (0.999) Game designers bring Scotland's mysterious Picts to life Writers and archaeologists also worked on a new guide to a lost early medieval Scottish society.
+- (0.998) Northern Lights set to dazzle UK once again tonight The Northern Lights have been shining over the UK and there is another chance to see them Wednesday as Elizabeth Rizzini and Helen Willetts explain.
+
+Top negative sentences:
+- (0.999) 31 mins ago Scotland Plans to demolish Netflix's Dept Q police headquarters Argyle House starred as the police headquarters in the Netflix series, but it could be demolished for a new development.
+- (0.999) I had to change my degree because of university cuts Students say they are feeling the effects across studios, classrooms and workshops.
+- (0.997) News from around Scotland Pedestrian in hospital after being hit by double-decker bus The man was struck by a Lothian Buses vehicle near Haymarket station in Edinburgh.

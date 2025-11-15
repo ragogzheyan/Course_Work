@@ -1,0 +1,9 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/northern_ireland/northern_ireland_politics
+
+Top positive sentences:
+
+Top negative sentences:
+- (1.000) 1 day ago Northern Ireland Politics Guidance for businesses on NI's post-Brexit trade deal 'not fit for purpose' The panel said information was "poorly presented, unwieldy and needs to be significantly improved".
+- (0.999) Education minister says he has been 'vilified' over Israel trip The DUP says Paul Givan is "going nowhere" after PBP submit a no confidence motion which is backed by Sinn Féin and the SDLP.
+- (0.998) News News N. Ireland N. Ireland Politics Little-Pengelly turns down Irish presidential inauguration invite Northern Ireland's deputy first minister says she is unable to attend Catherine Connolly's inauguration due to Remembrance Day commitments.

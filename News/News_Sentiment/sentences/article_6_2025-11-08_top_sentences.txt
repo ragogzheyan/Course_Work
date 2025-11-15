@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/northern_ireland
+
+Top positive sentences:
+- (1.000) The Nolan Show Breaking news and hard-hitting talk about the big stories of the day.
+- (0.999) 2 hrs ago Irish Football 'Shining a light on female rock bands' and celebrating grassroots The festival, taking place until 16 November, is dedicated to local artists and spread across 27 venues.
+- (0.999) The View Mark Carruthers provides comment and expert analysis on the week's political news Spotlight Hard-hitting investigations on the stories that matter in Northern Ireland.
+
+Top negative sentences:
+- (0.999) A new late-night bus pilot aims to improve people getting in and out of Belfast late on weekends - but the city's night czar says it is a case of use it or lose it.
+- (0.999) A new late-night bus pilot aims to improve people getting in and out of Belfast late on weekends - but the city's night czar says it is a case of use it or lose it.
+- (0.999) Man dies after being struck by car The man was pronounced dead at the scene following a collision near Grange Lane on Thursday.

@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia/india
+
+Top positive sentences:
+- (1.000) Fans celebrate India women's World Cup win India's women's cricket team beat South Africa by 52 runs in the final on Sunday night.
+- (0.999) Small-town India to cricket World champions: The women who made history Many women in India's cricket World Cup winning team come from small towns and humble beginnings.
+- (0.999) 1 day ago Asia India win sparks surge in sales for T20 World Cup There has been a surge of tickets bought for next summer's Women's T20 World Cup in England following India's victory in the 50-over version.
+
+Top negative sentences:
+- (0.999) 2 days ago Asia Dozens detained after rare protest demanding Delhi clean up its toxic air Over the past three weeks, the air quality in Delhi and its suburbs has been hazardous, and it continues to worsen.
+- (0.999) 23 hrs ago 1 day ago Dozens detained after rare protest demanding Delhi clean up its toxic air Over the past three weeks, the air quality in Delhi and its suburbs has been hazardous, and it continues to worsen.
+- (0.999) News News Asia China India Modi says those behind Delhi blast that killed eight 'will not be spared' The blast happened near one of the Indian capital's most famous buildings, the 17th Century Red Fort.

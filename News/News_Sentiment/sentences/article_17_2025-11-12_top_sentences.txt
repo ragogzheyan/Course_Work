@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/europe
+
+Top positive sentences:
+- (0.999) 15 hrs ago 17 hrs ago Catherine Connolly becomes 10th president of Ireland The Republic of Ireland's new president says "our actions today will shape the world our grandchildren will inherit".
+- (0.999) 17 hrs ago 18 hrs ago Catherine Connolly has 'never believed more' in the spirit of Ireland New Irish President Catherine Connolly says she has been given a "powerful mandate" to articulate a vision for a new republic.
+- (0.997) 23 hrs ago World How an Afghan child bride became one of Europe's top bodybuilders Roya Karimi is getting ready to compete in the world bodybuilding championships, 15 years after fleeing Afghanistan.
+
+Top negative sentences:
+- (1.000) Watch: Moment nuclear plant towers collapse during demolition Two nuclear cooling towers in the town of Gundremmingen, Germany, collapse into large swirls of thick, white dust during demolition.
+- (1.000) 3 hrs ago 5 hrs ago Watch: Russia's AI robot falls seconds after being unveiled Footage shows the moment Russia's first anthropomorphic robot fell just seconds after its debut 5 hrs ago 6 hrs ago Funeral of 20-year-old Irish man killed in Ukraine to take place Alex Ryzhuk, who was born in Dublin to Ukrainian parents, had been serving alongside military forces when he went missing and was presumed dead.
+- (0.999) 8 hrs ago Europe Watch: Russia's AI robot falls seconds after being unveiled Footage shows the moment Russia's first anthropomorphic robot fell just seconds after its debut 5 hrs ago Europe Former French president Sarkozy released from prison after three weeks The former French president was jailed in October for conspiring to fund his election campaign with money from late Libyan dictator Muammar Gaddafi.

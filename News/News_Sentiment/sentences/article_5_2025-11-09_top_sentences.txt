@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/england
+
+Top positive sentences:
+- (1.000) 'Huge milestone' as rare leopard cub born at zoo An Amur leopard cub is born at Dartmoor Zoo in a boost for conservation efforts.
+- (1.000) 5 hrs ago 6 hrs ago Pudsey Bear to dragon boats: Yorkshire stories to make you smile Across Yorkshire people are doing amazing things every day of the week - find out more about them.
+- (1.000) 'My pride at dad's service in British Indian Army' Mashuq Hussain from Colne says he is "so proud" of his father - who waited 50 years for his WW2 medals.
+
+Top negative sentences:
+- (0.999) Watch/Listen Watch: Cyclist's near miss as car crashes off road Video shows the moment a car skids sideways, narrowly missing a man on a bike, before crashing.
+- (0.999) 2 hrs ago Manchester Tomb collapse exposes underground crypt from 1700s The church says it is currently unclear whether the collapse has damaged any surrounding graves.
+- (0.998) 2 days ago Manchester 'It's on the wonk and covered in brown': Town ridicules its Christmas tree Passers-by criticise the fir's many browning needles, with one man saying it looks "a bit dead".

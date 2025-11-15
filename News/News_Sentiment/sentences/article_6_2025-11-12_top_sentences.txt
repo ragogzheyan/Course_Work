@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/northern_ireland
+
+Top positive sentences:
+- (1.000) The Nolan Show Breaking news and hard-hitting talk about the big stories of the day.
+- (1.000) 3 hrs ago 4 hrs ago Northern Lights shine across Northern Ireland The Northern Lights, also known as the aurora borealis, are vibrant light displays that occur in the sky, usually near the polar regions.
+- (1.000) 7 mins ago Europe Northern Lights shine across Northern Ireland The Northern Lights, also known as the aurora borealis, are vibrant light displays that occur in the sky, usually near the polar regions.
+
+Top negative sentences:
+- (1.000) 'I'm losing dozens of shop customers over traffic nightmare' People call for political help over congestion on the 16-mile (26km) stretch of road between Drumahoe, near Londonderry, and Dungiven.
+- (0.999) DUP absence from Connolly inauguration 'not a snub' Gavin Robinson was speaking after the party confirmed they would not send a representative to Catherine Connolly's inauguration on Tuesday.
+- (0.999) Ryanair scraps printed boarding passes to go fully digital The airline is only accepting digital boarding passes from Wednesday.

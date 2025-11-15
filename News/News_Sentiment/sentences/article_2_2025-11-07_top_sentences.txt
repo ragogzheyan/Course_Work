@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/us-canada
+
+Top positive sentences:
+- (0.999) Watch: The Iraq war to a hunting accident, Cheney's defining moments Key moments that helped shape the legacy of one of America’s most influential, and divisive, vice presidents.
+- (0.999) While he has a penchant for cars and jets, the world's richest person reportedly lives a relatively modest life.
+- (0.998) Watch/Listen Watch: What New Yorkers want Mamdani to do as mayor The 34-year-old will become the city's first Muslim mayor and the youngest in more than a century when he is sworn in on 1 January 2026.
+
+Top negative sentences:
+- (1.000) Watch: 'This is not good' - Airline travellers react to flight reductions Airports are grappling with air traffic controller shortages during the federal government shutdown.
+- (1.000) Just now 46 mins ago Watch: 'This is not good' - Airline travellers react to flight reductions Airports are grappling with air traffic controller shortages during the federal government shutdown.
+- (0.999) News News US & Canada LIVE Thousands of flights cancelled or delayed in US as air traffic control hit by government shutdown Domestic air travel will be cut by up to 10% at 40 major airports, resulting in thousands of cancelled flights in the coming days.

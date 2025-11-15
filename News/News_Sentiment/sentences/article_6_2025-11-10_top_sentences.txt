@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/northern_ireland
+
+Top positive sentences:
+- (1.000) The Nolan Show Breaking news and hard-hitting talk about the big stories of the day.
+- (1.000) Huge sense of pride to play Roy Keane in new film, says Cork actor The film is based on the fallout between Roy Keane and Mick McCarthy during Ireland's 2002 World Cup preparations.
+- (0.999) The View Mark Carruthers provides comment and expert analysis on the week's political news Spotlight Hard-hitting investigations on the stories that matter in Northern Ireland.
+
+Top negative sentences:
+- (1.000) 1 hr ago Northern Ireland Bid to oust education minister from office over Israel visit fails The move was set to fail as it needed cross-community support and unionist parties had already ruled out supporting it.
+- (0.999) A new late-night bus pilot aims to improve people getting in and out of Belfast late on weekends - but the city's night czar says it is a case of use it or lose it.
+- (0.999) News News N. Ireland N. Ireland Politics Catfish child abuser investigation 'delayed by lack of police resources' Alexander McCartney was given a life sentence last year for the online abuse of children and the manslaughter of a 12-year-old girl.

@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/africa
+
+Top positive sentences:
+- (1.000) Features and analysis Panache, parades and power: Africa's top shots A selection of the week's best photos from across the African continent and beyond.
+- (1.000) 2 days ago 2 days ago Panache, parades and power: Africa's top shots A selection of the week's best photos from across the African continent and beyond.
+- (1.000) Sport 'Flying' Sarr easing Crystal Palace's Eze loss Ismaila Sarr shines as Crystal Palace earn first home victory in Europa Conference League this term.
+
+Top negative sentences:
+- (0.999) Sudan's life-saving community kitchens on verge of collapse This follows confirmation by a global hunger monitor that famine conditions are spreading in conflict zones.
+- (0.998) Donald Trump says thousands of Christians are being killed in Nigeria - where has he got the numbers from?
+- (0.997) 'I was accused of spying and beaten' - a boy's escape from captured Sudan city A 12-year-old tells the BBC that in the chaos he lost contact with his family and is now on his own at a camp.

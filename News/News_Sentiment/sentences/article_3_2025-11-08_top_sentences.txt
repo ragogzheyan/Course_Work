@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/uk
+
+Top positive sentences:
+- (1.000) Cat Burns, Joe Marler and Nick Mohammed have been widely seen as the breakout stars of the series.
+- (0.999) 9 hrs ago Culture 'Great bloke': Clarkson and May lead tributes to ex-Top Gear host Quentin Willson The presenter and campaigner was described by his family as a "true national treasure" and "consumer champion".
+- (0.999) 'There's a weather photograph anywhere you can be proud of' Damien Walmsley has been a BBC Weather Watcher for a decade.
+
+Top negative sentences:
+- (0.999) 20 mins ago 2 hrs ago Residents fear being stranded if bridge demolished Network Rail plans to demolish the Church Fenton footbridge because it is too narrow and too low.
+- (0.999) Who are the real winners of Celebrity Traitors?
+- (0.999) 6 hrs ago Sussex Met wants 'sub-standard' senior officers to leave An "exit route" is being offered for senior staff in the Met Police through voluntary pay-offs.

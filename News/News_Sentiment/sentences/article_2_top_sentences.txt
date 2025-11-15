@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/us-canada
+
+Top positive sentences:
+- (0.999) Watch: Trump and Obama honour US troops for Veterans Day The former president surprised nearly 80 veterans of the Korean and Vietnam wars landing on a special flight in Washington DC.
+- (0.998) Watch: Timelapse video shows rare northern lights across the US A strong geomagnetic storm made the northern lights visible across much of the country.
+- (0.997) Watch: What New Yorkers want Mamdani to do as mayor The 34-year-old will become the city's first Muslim mayor and the youngest in more than a century when he is sworn in on 1 January 2026.
+
+Top negative sentences:
+- (0.999) The White House says they are an attempt to "smear" the president.
+- (0.999) The White House says they are an attempt to "smear" the president.
+- (0.999) Is the US government shutdown over, and why did it happen?

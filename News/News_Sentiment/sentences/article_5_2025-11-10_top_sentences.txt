@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/england
+
+Top positive sentences:
+- (0.999) 2 days ago Norfolk Sport 1,000 games in, Guardiola has new energy for new era Sunday began with a celebration of Pep Guardiola and ended in the same manner, with the Manchester City boss showing he has new energy in a new era for the club.
+- (0.998) Class helps me 'forget everything and just dance' Hannah is one of several members of an inclusive dance class in west Oxfordshire In pictures: Yoga therapist scoops beach hut of the year award The cabin's owner says she is delighted after beating entrants from across the UK.
+- (0.994) Named on a napkin: EasyJet celebrates 30 years We take a look at the history and impact of the budget airline based at Luton Airport.
+
+Top negative sentences:
+- (1.000) 5 hrs ago London Beach full of millions of plastic pellets 'is worst single incident' Millions of pellets, thought to have come from the Eastbourne treatment works, have been washed up at Camber Sands.
+- (0.999) 1 hr ago London 'A lunch box with only mouldy bread and water': Boy's neglect missed by social services A safeguarding review finds there were "missed opportunities" to pick up the child's neglect.
+- (0.999) Coroner's concern over lack of end-of-life beds A coroner says a terminally ill woman did not receive appropriate end-of-life care in hospital.

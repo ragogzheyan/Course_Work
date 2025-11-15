@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/wales/wales_politics
+
+Top positive sentences:
+- (0.996) Nato interest in 'lethal' Army vehicle, says minister The UK government says it's confident of allied interest in buying Wales-built Ajax armoured vehicle.
+- (0.994) Lido and promenade part of seafront regeneration plans Proposals for Porthcawl also include new homes, public spaces and a hotel.
+- (0.987) 2 days ago Wales Greens hoping for 'historic Senedd breakthrough' The Greens pin hopes on first seat, promising 'a fresh voice', as members gather for party conference.
+
+Top negative sentences:
+- (0.995) NHS, housing and councils winners in budget plans But Welsh Labour does not have enough Senedd members to pass it without making a deal.
+- (0.993) 7 hrs ago Wales Senedd election 'tipping point' for Starmer as PM One source calls the prime minister "absolutely delusional" about the likely result next May.
+- (0.993) FAW silent over replacing late Queen as patron A petition in 2023 demanded "no more Royal patronage" and attracted 1,883 signatures.

@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/uk
+
+Top positive sentences:
+- (0.999) Sex schedules and curiosity: How I keep my relationship alive How bringing fresh conversation and perspectives into a relationship can help keep it alive.
+- (0.998) 12 hrs ago 1 day ago A moment of stillness for Royal Family at poignant Remembrance King Charles was joined by about 20 World War Two veterans at the annual Remembrance Sunday commemorations.
+- (0.996) 1 day ago 1 day ago King Charles leads Remembrance Sunday service silence at Cenotaph King Charles III laid a wreath at the monument in central London as the nation remembered its war dead.
+
+Top negative sentences:
+- (1.000) Bid to oust education minister from office over Israel visit fails The move was set to fail as it needed cross-community support and unionist parties had already ruled out supporting it.
+- (0.999) Latest updates 12 hrs ago Ferry port repairs delayed as crane not available Repairs on the berth at the Manx-owned ferry terminal in Liverpool are pushed back further.
+- (0.999) Watch/Listen 'We should have acted earlier', says BBC chair Samir Shah Shah was asked why the corporation did not investigate concerns around the editing of a BBC documentary earlier.

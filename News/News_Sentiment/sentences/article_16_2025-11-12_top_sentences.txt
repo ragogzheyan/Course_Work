@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/australia
+
+Top positive sentences:
+- (0.997) Fatal attack revives debate over controversial shark nets in Australia The use of controversial shark nets was about to be scaled back in Sydney when a surfer was killed.
+- (0.992) Watch: Millions of red crabs begin annual migration on Christmas Island The island off mainland Australia experiences the event every summer, when around 50 million crabs scuttle down from their homes to the beach to lay eggs.
+- (0.979) Watch: Brits row from Peru to Australia in tiny boat Jess Rowe and Miriam Payne told the BBC how they made the six-month journey unsupported, catching fish and growing their own vegetables.
+
+Top negative sentences:
+- (1.000) 9 hrs ago Australia Once a sure thing, Australia's bid to host COP31 falters amid deadlock with Turkey If no agreement is reached between the two countries, the German city of Bonn will host by default.
+- (1.000) 2 days ago 2 days ago Once a sure thing, Australia's bid to host COP31 falters amid deadlock with Turkey If no agreement is reached between the two countries, the German city of Bonn will host by default.
+- (0.998) News News Australia Australia at risk of 'high-impact sabotage' from China, says spy chief Mike Burgess says state-linked hackers have tried to access water, transport and energy networks.

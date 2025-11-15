@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/uk
+
+Top positive sentences:
+- (0.998) 1 day ago 2 days ago A moment of stillness for Royal Family at poignant Remembrance King Charles was joined by about 20 World War Two veterans at the annual Remembrance Sunday commemorations.
+- (0.998) News News UK UK Politics England N. Ireland Scotland Wales Kate and Queen lay Armistice Day wreaths as nation pays tribute The Queen and the Princess of Wales have joined services to mark Armistice Day in the UK.
+- (0.997) 3 hrs ago 3 hrs ago Kate and Queen lay Armistice Day wreaths as nation pays tribute The Queen and the Princess of Wales have joined services to mark Armistice Day in the UK.
+
+Top negative sentences:
+- (0.999) 'We should have acted earlier', says BBC chair Samir Shah Shah was asked why the corporation did not investigate concerns around the editing of a BBC documentary earlier.
+- (0.999) 21 hrs ago 1 day ago Ferry port repairs delayed as crane not available Repairs on the berth at the Manx-owned ferry terminal in Liverpool are pushed back further.
+- (0.999) 2 hrs ago London UK unemployment rate rises to 5% as jobs market weakens Latest official data ahead of the Budget later this month shows it is the highest rate since 2021.

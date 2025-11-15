@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/uk
+
+Top positive sentences:
+- (0.998) Features & analysis Northern Lights set to dazzle UK once again tonight The Northern Lights have been shining over the UK and there is another chance to see them Wednesday as Elizabeth Rizzini and Helen Willetts explain.
+- (0.998) 10 hrs ago 18 hrs ago Catherine and Queen lay Armistice Day wreaths as nation pays tribute The Queen and the Princess of Wales have joined services to mark Armistice Day in the UK.
+- (0.995) 3 hrs ago Liverpool PM says BBC must 'put house in order' over mistakes Sir Keir Starmer says it "must uphold the highest standards" but supports "a strong, independent BBC".
+
+Top negative sentences:
+- (1.000) Henry Zeffman: Efforts to shore up Starmer's leadership may have backfired Briefings aimed at seeing off leadership plots may have left the PM more vulnerable, some in Labour fear.
+- (0.999) 'We should have acted earlier', says BBC chair Samir Shah Shah was asked why the corporation did not investigate concerns around the editing of a BBC documentary earlier.
+- (0.999) 48 mins ago Politics Detention centre guard a 'prolific sex offender' An inquiry catalogues missed opportunities to stop abuse at Medomsley Detention Centre.

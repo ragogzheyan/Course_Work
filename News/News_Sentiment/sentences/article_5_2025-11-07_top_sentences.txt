@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/england
+
+Top positive sentences:
+- (1.000) 6 hrs ago Manchester NHS worker wins £4m Omaze house in Surrey Alistair Walker found out he had won the house on Halloween, calling it "the best treat ever'.
+- (0.999) 'Singing is a nice way to let go of your feelings' Brenda, who has sickle cell anaemia, will be part of the BBC Children in Need Choir on 14 November.
+- (0.999) 'I'll read this story to my dad every day' Lifelong Hull City fan Owen Griffiths, who has Alzheimer's disease, was invited for a VIP tour.
+
+Top negative sentences:
+- (0.999) 2 hrs ago Sussex Maccabi fan ban was due to hooliganism, say police West Midlands Police did not previously reveal its reasons because "it wasn't deemed helpful".
+- (0.999) Watch/Listen Car narrowly misses pupils and lollipop woman Drivers face penalties including points on their licence or mandatory speed awareness courses.
+- (0.999) Lady mayor wants to 'un-square the Square Mile' Women who previously held the role were called lord mayors, so Dame Sue is the first lady mayor.

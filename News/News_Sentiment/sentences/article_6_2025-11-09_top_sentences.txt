@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/northern_ireland
+
+Top positive sentences:
+- (1.000) The Nolan Show Breaking news and hard-hitting talk about the big stories of the day.
+- (1.000) 'Shining a light on female rock bands' and celebrating grassroots The festival, taking place until 16 November, is dedicated to local artists and spread across 27 venues.
+- (1.000) Huge sense of pride to play Roy Keane in new film, says Cork actor The film is based on the fallout between Roy Keane and Mick McCarthy during Ireland's 2002 World Cup preparations.
+
+Top negative sentences:
+- (0.999) A new late-night bus pilot aims to improve people getting in and out of Belfast late on weekends - but the city's night czar says it is a case of use it or lose it.
+- (0.999) A new late-night bus pilot aims to improve people getting in and out of Belfast late on weekends - but the city's night czar says it is a case of use it or lose it.
+- (0.999) Ministers agreed a £100m overspend to fund a health pay deal, so how will it affect their budgets?

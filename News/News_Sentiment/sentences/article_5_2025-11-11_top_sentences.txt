@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/england
+
+Top positive sentences:
+- (1.000) 'It brings us so much joy to keep 1940s music alive' Teenagers Siena, Emilia and Lottie are The Duchy Darlings, a musical trio covering wartime songs.
+- (0.999) Tutankhamun: How Englishmen uncovered the boy-king The south plays a unique role in both the discovery and the legacy of the ancient Egyptian pharaoh.
+- (0.999) Ford returns at 10 for England against All Blacks George Ford returns at fly-half and Freddie Steward at full-back for England's much-anticipated showdown with New Zealand on Saturday at Allianz Stadium in Twickenham.
+
+Top negative sentences:
+- (1.000) Police officer dismissed for using racist language PC Andrew Goodwin's behaviour "has no place in policing", the chief constable says.
+- (1.000) Cheating pub quiz team sparks 'massive whodunnit' A Greater Manchester pub landlord bans a quiz team after its members were caught using their smartwatches to cheat.
+- (0.999) Missing flamingo thought to be living in France New photos show a flamingo on a beach in Finistere, which could be the one missing from Cornwall.

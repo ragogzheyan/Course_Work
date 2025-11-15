@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/africa
+
+Top positive sentences:
+- (1.000) Panache, parades and power: Africa's top shots A selection of the week's best photos from across the African continent and beyond.
+- (1.000) Watch/Listen 'His aura is amazing' - Iwobi on Aubameyang Speaking before Nigeria face Gabon in African play-offs for the World Cup, Alex Iwobi says Pierre-Emerick Aubameyang was his "big brother" at Arsenal.
+- (0.999) 'Cutest comeback ever' - Jabeur announces pregnancy Former world number two Ons Jabeur announces that she is pregnant with her first child.
+
+Top negative sentences:
+- (1.000) 6 hrs ago Africa 'It's their loss': South African leader hits back at Trump's decision to skip G20 summit Trump said it was a "total disgrace" that South Africa was hosting this month's summit.
+- (1.000) 1 day ago 1 day ago 'It's their loss': South African leader hits back at Trump's decision to skip G20 summit Trump said it was a "total disgrace" that South Africa was hosting this month's summit.
+- (0.999) 6 hrs ago 7 hrs ago Nigeria cancels mother-tongue teaching in primary schools and reverts to English Exam results from areas which dropped English have declined, the education minister says, announcing the U-turn.

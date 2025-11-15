@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/africa
+
+Top positive sentences:
+- (1.000) Panache, parades and power: Africa's top shots A selection of the week's best photos from across the African continent and beyond.
+- (1.000) 'Flying' Sarr easing Crystal Palace's Eze loss Ismaila Sarr shines as Crystal Palace earn first home victory in Europa Conference League this term.
+- (1.000) Watch/Listen 'His aura is amazing' - Iwobi on Aubameyang Speaking before Nigeria face Gabon in African play-offs for the World Cup, Alex Iwobi says Pierre-Emerick Aubameyang was his "big brother" at Arsenal.
+
+Top negative sentences:
+- (0.999) Four into one - how do African World Cup play-offs work?
+- (0.999) 22 hrs ago Africa How jihadists have brought a nation to a standstill with their fuel blockade Mali has been paralysed by a fuel blockade, which has disrupted transport, schools, hospitals and more.
+- (0.999) Some residents in the heart of the South African city are living amid sewage in derelict buildings run by criminal gangs.

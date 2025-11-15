@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/scotland
+
+Top positive sentences:
+- (1.000) Good Morning Scotland The nation's morning news programme.
+- (1.000) 'Everything is possible' for Hearts - Braga Claudio Braga believes "everything is possible" with Hearts top of the Scottish Premiership after playing 12 of their 38 fixtures.
+- (0.999) 23 hrs ago 1 day ago In pictures: Autumn colours in Scotland BBC Weather Watchers have been capturing vibrant scenes across the country.
+
+Top negative sentences:
+- (0.999) 17 hrs ago 22 hrs ago UWS lecturers end strikes after no compulsory redundancy 'guarantee' The EIS union says it has secured a deal meaning no compulsory redundances for academic staff.
+- (0.999) How can Scotland qualify for 2026 World Cup?
+- (0.999) SFA 'fit and proper' verdict leaves Hamilton void Troubled Hamilton Academical are left without a director, while a Scottish FA ruling also bans the League One club's owner from the day-to-day running of affairs.

@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/wales
+
+Top positive sentences:
+- (1.000) Cracknell fulfils Wales dream after tough times Olly Cracknell credits his family resilience for helping him achieve his international dream with Wales in the autumn series.
+- (0.999) 3 hrs ago Wales Northern Lights leave sky-gazers in awe A powerful solar storm allowed the Aurora Boraelis to be visible across north Wales.
+- (0.999) 3 hrs ago 4 hrs ago Northern Lights leave sky-gazers in awe A powerful solar storm allowed the Aurora Boraelis to be visible across north Wales.
+
+Top negative sentences:
+- (0.999) Botox was like going for coffee - but I had no idea if it was genuine Rules about administering drugs such as Botox and Mounjaro have not kept up, says Wales' regulator.
+- (0.998) Farming inheritance tax causing uncertainty and confusion - MPs One accountant believes the plans will hit about 92% of farmers, not the predicted 7%.
+- (0.998) Latest updates Just now Badger rescued after falling down manhole The "inquisitive" creature fell 4ft (1.2m) down a shaft while foraging for food before the winter.

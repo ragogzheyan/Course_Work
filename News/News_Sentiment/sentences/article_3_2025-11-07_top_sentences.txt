@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/uk
+
+Top positive sentences:
+- (1.000) NHS worker wins £4m house in Surrey Hills Alistair Walker found out he had won the house on Halloween, calling it "the best treat ever'.
+- (0.999) 'There's a weather photograph anywhere you can be proud of' Damien Walmsley has been a BBC Weather Watcher for a decade.
+- (0.991) 5 hrs ago Essex Chance meeting at corner shop unites son with father Oliver Archer had wanted to find his dad his whole life.
+
+Top negative sentences:
+- (1.000) Lose weight or lose your jobs, offshore workers told Thousands of offshore workers are too heavy for the limitations of helicopter winch systems.
+- (0.999) 2 hrs ago Wales Maccabi fan ban was due to hooliganism, say police West Midlands Police did not previously reveal its reasons because "it wasn't deemed helpful".
+- (0.999) A 20-minute date with a Tinder predator destroyed my life for years Nadia said the abuse started after she ended their date early because of "red flags".

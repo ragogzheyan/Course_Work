@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/uk
+
+Top positive sentences:
+- (0.999) 'There's a weather photograph anywhere you can be proud of' Damien Walmsley has been a BBC Weather Watcher for a decade.
+- (0.999) 12 hrs ago 18 hrs ago Prince George joins Kate, King and Queen at Festival of Remembrance The royals attended the annual event at the Royal Albert Hall on the eve of Remembrance Sunday.
+- (0.998) Latest updates 2 hrs ago A moment of stillness for Royal Family at poignant Remembrance King Charles was joined by about 20 World War Two veterans at the annual Remembrance Sunday commemorations.
+
+Top negative sentences:
+- (0.999) 4 hrs ago Europe Experts say flu season could be worst for a decade The NHS has now issued a "flu jab SOS" as fears grow that this will add up to a brutal winter.
+- (0.998) Tomb collapse exposes underground crypt from 1700s The church says it is currently unclear whether the collapse has damaged any surrounding graves.
+- (0.996) Women are hiding their boyfriends online and there's more than one reason why Many women seem reluctant to hard-launch their relationship on social media - but what's behind that?

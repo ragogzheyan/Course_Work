@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/wales
+
+Top positive sentences:
+- (0.999) Ramsey with Wales in unofficial role for World Cup qualifiers Wales captain Aaron Ramsey will be with the squad in an unofficial capacity as they prepare for their World Cup qualifying double-header this month.
+- (0.999) Actor Paul Whitehouse's 'pride' in Welsh roots The comedian visited Wales with fellow comedian Bob Mortimer in their TV show Gone Fishing.
+- (0.998) Features & analysis When my wife died, Elis James reached out - now we're close mates The comedian contacted Geraint John after his wife Deb died and has helped him while he grieves.
+
+Top negative sentences:
+- (1.000) 3 hrs ago Wales 'Leaky' Snowdon Mountain Railway blasted for poor service Wales Outdoors says clients sat on wet seats, and the train had "leaky windows", with passengers unable to see out.
+- (1.000) 12 hrs ago 12 hrs ago 'Leaky' Snowdon Mountain Railway blasted for poor service Wales Outdoors says clients sat on wet seats, and the train had "leaky windows", with passengers unable to see out.
+- (0.999) Botox was like going for coffee - but I had no idea if it was genuine Rules about administering drugs such as Botox and Mounjaro have not kept up, says Wales' regulator.

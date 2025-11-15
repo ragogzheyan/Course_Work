@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/war-in-ukraine
+
+Top positive sentences:
+- (1.000) On the ground The 'Heroes of Kharkiv' who saved 48 children from kindergarten hit by Russian drone The story of a dramatic and heroic rescue that has captured the public imagination in Ukraine.
+- (0.992) 1 day ago World Zelensky visits troops near embattled front line town of Pokrovsk Fierce battles are taking place in the Donetsk town that Russia has been trying to occupy for over a year.
+- (0.991) Why Trump made breakthrough in Gaza but can't with Putin over Ukraine The leaders' cancelled summit is just the latest twist in Trump's efforts to broker an end to the war, writes Anthony Zurcher.
+
+Top negative sentences:
+- (0.999) The new measures target Moscow's ability to fund its war machine, the US Treasury said.
+- (0.999) How would US Tomahawk missiles change the Ukraine-Russia war?
+- (0.999) 6 days ago 7 days ago Russia's new nuclear weapons - real threat or Putin bluster?

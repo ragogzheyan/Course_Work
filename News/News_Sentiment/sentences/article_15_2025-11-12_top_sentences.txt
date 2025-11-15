@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia/india
+
+Top positive sentences:
+- (1.000) Fans celebrate India women's World Cup win India's women's cricket team beat South Africa by 52 runs in the final on Sunday night.
+- (0.999) News News Asia China India India's start-ups fire up public markets amid valuation concerns Start-up fundraising has raised uncomfortable questions about valuations, but  signals a maturing ecosystem.
+- (0.998) 2 days ago Asia India win sparks surge in sales for T20 World Cup There has been a surge of tickets bought for next summer's Women's T20 World Cup in England following India's victory in the 50-over version.
+
+Top negative sentences:
+- (0.999) 2 days ago 2 days ago Dozens detained after rare protest demanding Delhi clean up its toxic air Over the past three weeks, the air quality in Delhi and its suburbs has been hazardous, and it continues to worsen.
+- (0.999) 10 hrs ago Asia Dozens detained after rare protest demanding Delhi clean up its toxic air Over the past three weeks, the air quality in Delhi and its suburbs has been hazardous, and it continues to worsen.
+- (0.999) Latest updates 10 hrs ago Schools go hybrid as Delhi's air quality worsens Delhi's air quality has deteriorated to "severe" levels, which can seriously impact those with existing diseases.

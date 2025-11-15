@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/scotland/scotland_politics
+
+Top positive sentences:
+- (0.948) MSPs are set to vote on legislation which could allow the government to intervene in private land sales.
+- (0.831) 2 days ago Scotland Politics Why the battle still rages over land ownership in Scotland The reaction to the Scottish government's wide-ranging new laws show the divided opinions on the issue.
+- (0.745) 1 day ago Scotland Politics MSPs pass land reform which could force break up of huge estates The legislation is designed to help reduce the concentration of rural land ownership among a small number of people.
+
+Top negative sentences:
+- (0.999) Scottish MP wants Elon Musk's chatbot shut down over claim he enabled grooming gangs SNP MP Pete Wishart says he is seeking legal advice over the "disturbing" AI-generated social media post.
+- (0.998) Why is the government being sued for £170m over a recycling scheme?
+- (0.998) Is the Scottish government softening on oil and gas?

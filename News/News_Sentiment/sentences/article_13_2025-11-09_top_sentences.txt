@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia
+
+Top positive sentences:
+- (0.999) 2 days ago Asia Small-town India to cricket World champions: The women who made history Many women in India's cricket World Cup winning team come from small towns and humble beginnings.
+- (0.999) In Mamdani's New York win, India's Nehru finds an echo At his New York victory rally, Zohran Mamdani gave a nod to Nehru’s iconic speech marking India's independence.
+- (0.995) Record turnout in Indian state election where Modi's party faces key test More than 74 million people in Bihar are eligible to vote in a key election that kicked off on Thursday.
+
+Top negative sentences:
+- (0.999) Why a popular Hindu temple in India is mired in gold theft row The Kerala high court says some of the Sabarimala temple idols have been stripped of their gold covering.
+- (0.999) 3 hrs ago 5 hrs ago Dozens missing after migrant boat sinks near Malaysia-Thailand border Malaysian authorities are looking for more survivors after the vessel capsized near the resort of Langkawi.
+- (0.997) 2 days ago Asia Dozens missing after migrant boat sinks near Malaysia-Thailand border Malaysian authorities are looking for more survivors after the vessel capsized near the resort of Langkawi.

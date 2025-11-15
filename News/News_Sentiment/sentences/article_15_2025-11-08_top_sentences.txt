@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/world/asia/india
+
+Top positive sentences:
+- (1.000) Five moments that defined India's women's World Cup glory From three losses to flawless glory - India’s World Cup run was pure redemption and relentless resilience.
+- (1.000) Watch Fans celebrate India women's World Cup win India's women's cricket team beat South Africa by 52 runs in the final on Sunday night.
+- (1.000) 1 day ago Asia Small-town India to cricket World champions: The women who made history Many women in India's cricket World Cup winning team come from small towns and humble beginnings.
+
+Top negative sentences:
+- (0.999) Why the Indian passport is falling in global ranking Indians can travel to more visa-free destinations than a decade ago, but India's passport ranking has declined.
+- (0.999) 4 days ago World Players stranded, hotels unpaid - how a Kashmir cricket league turned into a fiasco The tournament which brought international stars to the region has left local cricketers disappointed.
+- (0.999) 2 days ago Asia Features Why a popular Hindu temple in India is mired in gold theft row The Kerala high court says some of the Sabarimala temple idols have been stripped of their gold covering.

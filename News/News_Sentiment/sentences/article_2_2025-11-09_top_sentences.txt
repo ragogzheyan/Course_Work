@@ -1,0 +1,12 @@
+Title: NewsNews
+URL: https://www.bbc.com/news/us-canada
+
+Top positive sentences:
+- (0.999) Watch: The Iraq war to a hunting accident, Cheney's defining moments Key moments that helped shape the legacy of one of America’s most influential, and divisive, vice presidents.
+- (0.999) While he has a penchant for cars and jets, the world's richest person reportedly lives a relatively modest life.
+- (0.998) Watch/Listen Watch: What New Yorkers want Mamdani to do as mayor The 34-year-old will become the city's first Muslim mayor and the youngest in more than a century when he is sworn in on 1 January 2026.
+
+Top negative sentences:
+- (0.999) 1 day ago 1 day ago Why the US government has shut down and what happens now The current US government shutdown has become the longest on record, and it is not clear when it will end.
+- (0.999) 20 hrs ago 24 hrs ago US Supreme Court rules full Snap food benefits can be temporarily halted The programme has been left in limbo during the US government shutdown, with the White House saying it can't afford it.
+- (0.999) DNA pioneer James Watson dies at 97 Watson co-discover the double-helix structure of DNA, but his reputation was later damaged by his comments on race and sex.
